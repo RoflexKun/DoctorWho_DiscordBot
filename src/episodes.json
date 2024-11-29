@@ -126,6 +126,224 @@
         "episode": "16",
         "rating": "6.9",
         "airdate": "7.3.1964"
+    },
+    {
+        "title": "The Wall of Lies",
+        "runtime": "25 minutes",
+        "season": "1",
+        "episode": "17",
+        "rating": "6.9",
+        "airdate": "14.3.1964"
+    },
+    {
+        "title": "Rider from Shang-Tu",
+        "runtime": "23 minutes",
+        "season": "1",
+        "episode": "18",
+        "rating": "6.8",
+        "airdate": "21.3.1964"
+    },
+    {
+        "title": "Mighty Kublai Khan",
+        "runtime": "25 minutes",
+        "season": "1",
+        "episode": "19",
+        "rating": "6.9",
+        "airdate": "28.3.1964"
+    },
+    {
+        "title": "Assassin at Peking",
+        "runtime": "25 minutes",
+        "season": "1",
+        "episode": "20",
+        "rating": "7.1",
+        "airdate": "4.4.1964"
+    },
+    {
+        "title": "The Sea of Death",
+        "runtime": "23 minutes",
+        "season": "1",
+        "episode": "21",
+        "rating": "7.1",
+        "airdate": "11.4.1964"
+    },
+    {
+        "title": "The Velvet Web",
+        "runtime": "25 minutes",
+        "season": "1",
+        "episode": "22",
+        "rating": "7.2",
+        "airdate": "18.4.1964"
+    },
+    {
+        "title": "The Screaming Jungle",
+        "runtime": "24 minutes",
+        "season": "1",
+        "episode": "23",
+        "rating": "6.9",
+        "airdate": "25.4.1964"
+    },
+    {
+        "title": "The Snows of Terror",
+        "runtime": "25 minutes",
+        "season": "1",
+        "episode": "24",
+        "rating": "6.7",
+        "airdate": "2.5.1964"
+    },
+    {
+        "title": "Sentence of Death",
+        "runtime": "25 minutes",
+        "season": "1",
+        "episode": "25",
+        "rating": "7.1",
+        "airdate": "9.5.1964"
+    },
+    {
+        "title": "The Keys of Marinus",
+        "runtime": "25 minutes",
+        "season": "1",
+        "episode": "26",
+        "rating": "7.1",
+        "airdate": "16.5.1964"
+    },
+    {
+        "title": "The Temple of Evil",
+        "runtime": "24 minutes",
+        "season": "1",
+        "episode": "27",
+        "rating": "7.3",
+        "airdate": "23.5.1964"
+    },
+    {
+        "title": "The Warriors of Death",
+        "runtime": "24 minutes",
+        "season": "1",
+        "episode": "28",
+        "rating": "7.3",
+        "airdate": "30.3.1964"
+    },
+    {
+        "title": "The Bride of Sacrifice",
+        "runtime": "25 minutes",
+        "season": "1",
+        "episode": "29",
+        "rating": "7.4",
+        "airdate": "6.6.1964"
+    },
+    {
+        "title": "The Day of Darkness",
+        "runtime": "25 minutes",
+        "season": "1",
+        "episode": "30",
+        "rating": "7.5",
+        "airdate": "13.6.1964"
+    },
+    {
+        "title": "Strangers in Space",
+        "runtime": "25 minutes",
+        "season": "1",
+        "episode": "31",
+        "rating": "6.9",
+        "airdate": "20.6.1964"
+    },
+    {
+        "title": "The Unwilling Warriors",
+        "runtime": "25 minutes",
+        "season": "1",
+        "episode": "32",
+        "rating": "6.7",
+        "airdate": "27.6.1964"
+    },
+    {
+        "title": "Hidden Danger",
+        "runtime": "25 minutes",
+        "season": "1",
+        "episode": "33",
+        "rating": "6.5",
+        "airdate": "11.6.1964"
+    },
+    {
+        "title": "A Race Against Death",
+        "runtime": "25 minutes",
+        "season": "1",
+        "episode": "34",
+        "rating": "6.6",
+        "airdate": "18.6.1964"
+    },
+    {
+        "title": "Kidnap",
+        "runtime": "26 minutes",
+        "season": "1",
+        "episode": "35",
+        "rating": "6.5",
+        "airdate": "25.6.1964"
+    },
+    {
+        "title": "A Desperate Venture",
+        "runtime": "24 minutes",
+        "season": "1",
+        "episode": "36",
+        "rating": "6.5",
+        "airdate": "1.8.1964"
+    },
+    {
+        "title": "A Land of Fear",
+        "runtime": "24 minutes",
+        "season": "1",
+        "episode": "37",
+        "rating": "6.9",
+        "airdate": "8.8.1964"
+    },
+    {
+        "title": "Guests of Madame Guillotine",
+        "runtime": "24 minutes",
+        "season": "1",
+        "episode": "38",
+        "rating": "6.7",
+        "airdate": "15.8.1964"
+    },
+    {
+        "title": "A Change of Identity",
+        "runtime": "25 minutes",
+        "season": "1",
+        "episode": "39",
+        "rating": "6.6",
+        "airdate": "22.8.1964"
+    },
+    {
+        "title": "The Tyrant of France",
+        "runtime": "25 minutes",
+        "season": "1",
+        "episode": "40",
+        "rating": "6.4",
+        "airdate": "29.8.1964"
+    },
+    {
+        "title": "A Bargain of Necessity",
+        "runtime": "24 minutes",
+        "season": "1",
+        "episode": "41",
+        "rating": "6.5",
+        "airdate": "5.9.1964"
+    },
+    {
+        "title": "Prisoners of Conciergerie",
+        "runtime": "25 minutes",
+        "season": "1",
+        "episode": "42",
+        "rating": "6.7",
+        "airdate": "12.9.1964"
+    },
+    {
+        "title": "Planet of Giants",
+        "runtime": "23 minutes",
+        "season": "2",
+        "episode": "1",
+        "rating": "7.0",
+        "airdate": "31.10.1964"
     }
+    
+
 
 ]
