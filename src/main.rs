@@ -1,10 +1,11 @@
-use std::{fs, io};
+use std::{fs, io, env};
 use serde::Deserialize;
 use serde_json;
 use serenity::async_trait;
 use serenity::model::channel::Message;
 use serenity::model::gateway::Ready;
 use serenity::prelude::*;
+use dotenv::dotenv;
 
 #[derive(Debug, Deserialize)]
 struct Episode {
@@ -49,6 +50,7 @@ fn print_episode() -> Result<(), io::Error>
 
 #[tokio::main]
 async fn main() {
+    dotenv().ok();
     //let mut user_command = String::new();
     //io::stdin().read_line(&mut user_command).expect("Error at reading user input");
     //match user_command.trim(){
@@ -56,7 +58,7 @@ async fn main() {
     //    _ => {println!("We don't know this command");}
     //}
     //let _ = print_episode();
-    let token = "MTMxMjA1Njg1NTgxMTQ2MTE3MQ.GysAoB.eYs81_l8mSg4cn-T30sxrtsqBgmU7hmHvEVcDg";
+    let token = env::var("DISCORD_TOKEN").expect("Invalid Token");
     let intents = GatewayIntents::GUILD_MESSAGES
         | GatewayIntents::DIRECT_MESSAGES
         | GatewayIntents::MESSAGE_CONTENT;
