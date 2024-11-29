@@ -342,8 +342,366 @@
         "episode": "1",
         "rating": "7.0",
         "airdate": "31.10.1964"
+    },
+    {
+        "title": "Dangerous Journey",
+        "runtime": "24 minutes",
+        "season": "2",
+        "episode": "2",
+        "rating": "6.8",
+        "airdate": "7.11.1964"
+    },
+    {
+        "title": "Crisis",
+        "runtime": "27 minutes",
+        "season": "2",
+        "episode": "3",
+        "rating": "6.7",
+        "airdate": "14.11.1964"
+    },
+    {
+        "title": "World's End",
+        "runtime": "24 minutes",
+        "season": "2",
+        "episode": "4",
+        "rating": "8.0",
+        "airdate": "21.11.1964"
+    },
+    {
+        "title": "The Daleks",
+        "runtime": "24 minutes",
+        "season": "2",
+        "episode": "5",
+        "rating": "7.9",
+        "airdate": "28.11.1964"
+    },
+    {
+        "title": "Day of Reckoning",
+        "runtime": "27 minutes",
+        "season": "2",
+        "episode": "6",
+        "rating": "7.9",
+        "airdate": "5.12.1964"
+    },
+    {
+        "title": "The End of Tomorrow",
+        "runtime": "23 minutes",
+        "season": "2",
+        "episode": "7",
+        "rating": "7.6",
+        "airdate": "12.12.1964"
+    },
+    {
+        "title": "The Waking Ally",
+        "runtime": "25 minutes",
+        "season": "2",
+        "episode": "8",
+        "rating": "7.7",
+        "airdate": "19.12.1964"
+    },
+    {
+        "title": "Flashpoint",
+        "runtime": "26 minutes",
+        "season": "2",
+        "episode": "9",
+        "rating": "8.3",
+        "airdate": "26.12.1964"
+    },
+    {
+        "title": "The Powerful Enemy",
+        "runtime": "26 minutes",
+        "season": "2",
+        "episode": "10",
+        "rating": "7.1",
+        "airdate": "2.1.1965"
+    },
+    {
+        "title": "Desperate Measures",
+        "runtime": "25 minutes",
+        "season": "2",
+        "episode": "11",
+        "rating": "7.2",
+        "airdate": "9.1.1965"
+    },
+    {
+        "title": "The Slave Traders",
+        "runtime": "24 minutes",
+        "season": "2",
+        "episode": "12",
+        "rating": "7.3",
+        "airdate": "16.1.1965"
+    },
+    {
+        "title": "All Roads Lead to Rome",
+        "runtime": "23 minutes",
+        "season": "2",
+        "episode": "13",
+        "rating": "7.3",
+        "airdate": "23.1.1965"
+    },
+    {
+        "title": "Conspiracy",
+        "runtime": "25 minutes",
+        "season": "2",
+        "episode": "14",
+        "rating": "7.2",
+        "airdate": "30.1.1965"
+    },
+    {
+        "title": "Inferno",
+        "runtime": "23 minutes",
+        "season": "2",
+        "episode": "15",
+        "rating": "7.5",
+        "airdate": "6.2.1965"
+    },
+    {
+        "title": "The Web Planet",
+        "runtime": "24 minutes",
+        "season": "2",
+        "episode": "16",
+        "rating": "6.3",
+        "airdate": "13.2.1965"
+    },
+    {
+        "title": "The Zarbi",
+        "runtime": "23 minutes",
+        "season": "2",
+        "episode": "17",
+        "rating": "5.9",
+        "airdate": "20.2.1965"
+    },
+    {
+        "title": "Escape to Danger",
+        "runtime": "23 minutes",
+        "season": "2",
+        "episode": "18",
+        "rating": "5.7",
+        "airdate": "27.2.1965"
+    },
+    {
+        "title": "Crater of Needles",
+        "runtime": "26 minutes",
+        "season": "2",
+        "episode": "19",
+        "rating": "5.6",
+        "airdate": "6.3.1965"
+    },
+    {
+        "title": "Invasion",
+        "runtime": "26 minutes",
+        "season": "2",
+        "episode": "20",
+        "rating": "5.7",
+        "airdate": "13.3.1965"
+    },
+    {
+        "title": "The Centre",
+        "runtime": "24 minutes",
+        "season": "2",
+        "episode": "21",
+        "rating": "5.6",
+        "airdate": "20.3.1965"
+    },
+    {
+        "title": "The Lion",
+        "runtime": "25 minutes",
+        "season": "2",
+        "episode": "22",
+        "rating": "7.0",
+        "airdate": "27.3.1965"
+    },
+    {
+        "title": "The Knight of Jaffa",
+        "runtime": "23 minutes",
+        "season": "2",
+        "episode": "23",
+        "rating": "6.6",
+        "airdate": "3.4.1965"
+    },
+    {
+        "title": "The Wheel of Fortune",
+        "runtime": "25 minutes",
+        "season": "2",
+        "episode": "24",
+        "rating": "7.1",
+        "airdate": "10.4.1965"
+    },
+    {
+        "title": "The Warlords",
+        "runtime": "24 minutes",
+        "season": "2",
+        "episode": "25",
+        "rating": "6.8",
+        "airdate": "17.4.1965"
+    },
+    {
+        "title": "The Space Museum",
+        "runtime": "24 minutes",
+        "season": "2",
+        "episode": "26",
+        "rating": "7.7",
+        "airdate": "24.4.1965"
+    },
+    {
+        "title": "The Dimensions of Time",
+        "runtime": "22 minutes",
+        "season": "2",
+        "episode": "27",
+        "rating": "7.0",
+        "airdate": "1.5.1965"
+    },
+    {
+        "title": "The Search",
+        "runtime": "24 minutes",
+        "season": "2",
+        "episode": "28",
+        "rating": "6.7",
+        "airdate": "8.5.1965"
+    },
+    {
+        "title": "The Final Phase",
+        "runtime": "22 minutes",
+        "season": "2",
+        "episode": "29",
+        "rating": "6.7",
+        "airdate": "15.5.1965"
+    },
+    {
+        "title": "The Executioners",
+        "runtime": "25 minutes",
+        "season": "2",
+        "episode": "30",
+        "rating": "7.2",
+        "airdate": "22.5.1965"
+    },
+    {
+        "title": "The Death of Time",
+        "runtime": "24 minutes",
+        "season": "2",
+        "episode": "31",
+        "rating": "6.9",
+        "airdate": "29.5.1965"
+    },
+    {
+        "title": "Flight Through Eternity",
+        "runtime": "25 minutes",
+        "season": "2",
+        "episode": "32",
+        "rating": "7.1",
+        "airdate": "5.6.1965"
+    },
+    {
+        "title": "Journey Into Terror",
+        "runtime": "24 minutes",
+        "season": "2",
+        "episode": "33",
+        "rating": "6.8",
+        "airdate": "12.6.1965"
+    },
+    {
+        "title": "The Death of Doctor Who",
+        "runtime": "23 minutes",
+        "season": "2",
+        "episode": "34",
+        "rating": "7.1",
+        "airdate": "19.6.1965"
+    },
+    {
+        "title": "The Planet of Decision",
+        "runtime": "26 minutes",
+        "season": "2",
+        "episode": "35",
+        "rating": "7.7",
+        "airdate": "26.6.1965"
+    },
+    {
+        "title": "The Watcher",
+        "runtime": "24 minutes",
+        "season": "2",
+        "episode": "36",
+        "rating": "7.7",
+        "airdate": "3.7.1965"
+    },
+    {
+        "title": "The Meddling Monk",
+        "runtime": "25 minutes",
+        "season": "2",
+        "episode": "37",
+        "rating": "7.4",
+        "airdate": "10.7.1965"
+    },
+    {
+        "title": "A Battle of Wits",
+        "runtime": "24 minutes",
+        "season": "2",
+        "episode": "38",
+        "rating": "7.7",
+        "airdate": "17.7.1965"
+    },
+    {
+        "title": "Checkmate",
+        "runtime": "24 minutes",
+        "season": "2",
+        "episode": "39",
+        "rating": "8.1",
+        "airdate": "24.7.1965"
+    },
+    {
+        "title": "Four Hundred Dawns",
+        "runtime": "23 minutes",
+        "season": "3",
+        "episode": "1",
+        "rating": "6.4",
+        "airdate": "11.9.1965"
+    },
+    {
+        "title": "Trap of Steel",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "2",
+        "rating": "6.3",
+        "airdate": "18.9.1965"
+    },
+    {
+        "title": "Air Lock",
+        "runtime": "24 minutes",
+        "season": "3",
+        "episode": "3",
+        "rating": "6.6",
+        "airdate": "25.9.1965"
+    },
+    {
+        "title": "The Exploding Planet",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "4",
+        "rating": "6.4",
+        "airdate": "2.10.1965"
+    },
+    {
+        "title": "Mission to the Unknown",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "5",
+        "rating": "7.0",
+        "airdate": "9.10.1965"
+    },
+    {
+        "title": "Temple of Secrets",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "6",
+        "rating": "6.9",
+        "airdate": "16.10.1965"
+    },
+    {
+        "title": "Small Prophet, Quick Return",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "7",
+        "rating": "6.9",
+        "airdate": "23.10.1965"
     }
-    
-
 
 ]
