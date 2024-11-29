@@ -1,14 +1,131 @@
 [
     {
         "title": "An Unearthly Child",
-        "runtime": 23,
-        "season": 1,
-        "episode": 1
+        "runtime": "23 minutes",
+        "season": "1",
+        "episode": "1",
+        "rating": "8.1",
+        "airdate": "23.11.1963"
     },
     {
         "title": "The Cave of Skulls",
-        "runtime": 23,
-        "season": 1,
-        "episode": 2
+        "runtime": "25 minutes",
+        "season": "1",
+        "episode": "2",
+        "rating": "6.4",
+        "airdate": "30.11.1963"
+    },
+    {
+        "title": "The Forest of Fear",
+        "runtime": "24 minutes",
+        "season": "1",
+        "episode": "3",
+        "rating": "6.3",
+        "airdate": "7.12.1963"
+    },
+    {
+        "title": "The Firemaker",
+        "runtime": "24 minutes",
+        "season": "1",
+        "episode": "4",
+        "rating": "6.5",
+        "airdate": "14.12.1963"
+    },
+    {
+        "title": "The Dead Planet",
+        "runtime": "24 minutes",
+        "season": "1",
+        "episode": "5",
+        "rating": "7.6",
+        "airdate": "21.12.1963"
+    },
+    {
+        "title": "The Survivors",
+        "runtime": "24 minutes",
+        "season": "1",
+        "episode": "6",
+        "rating": "7.7",
+        "airdate": "28.12.1963"
+    },
+    {
+        "title": "The Escape",
+        "runtime": "25 minutes",
+        "season": "1",
+        "episode": "7",
+        "rating": "7.6",
+        "airdate": "4.1.1964"
+    },
+    {
+        "title": "The Ambush",
+        "runtime": "24 minutes",
+        "season": "1",
+        "episode": "8",
+        "rating": "7.6",
+        "airdate": "11.1.1964"
+    },
+    {
+        "title": "The Expedition",
+        "runtime": "24 minutes",
+        "season": "1",
+        "episode": "9",
+        "rating": "7.2",
+        "airdate": "18.1.1964"
+    },
+    {
+        "title": "The Ordeal",
+        "runtime": "26 minutes",
+        "season": "1",
+        "episode": "10",
+        "rating": "7.0",
+        "airdate": "25.1.1964"
+    },
+    {
+        "title": "The Rescue",
+        "runtime": "22 minutes",
+        "season": "1",
+        "episode": "11",
+        "rating": "7.5",
+        "airdate": "1.2.1964"
+    },
+    {
+        "title": "The Edge of Destruction",
+        "runtime": "25 minutes",
+        "season": "1",
+        "episode": "12",
+        "rating": "6.8",
+        "airdate": "8.2.1964"
+    },
+    {
+        "title": "The Brink of Disaster",
+        "runtime": "22 minutes",
+        "season": "1",
+        "episode": "13",
+        "rating": "6.9",
+        "airdate": "15.2.1964"
+    },
+    {
+        "title": "The Roof of the World",
+        "runtime": "24 minutes",
+        "season": "1",
+        "episode": "14",
+        "rating": "7.2",
+        "airdate": "22.2.1964"
+    },
+    {
+        "title": "The Singing Sands",
+        "runtime": "27 minutes",
+        "season": "1",
+        "episode": "15",
+        "rating": "7.0",
+        "airdate": "29.2.1964"
+    },
+    {
+        "title": "Five Hundred Eyes",
+        "runtime": "24 minutes",
+        "season": "1",
+        "episode": "16",
+        "rating": "6.9",
+        "airdate": "7.3.1964"
     }
+
 ]
