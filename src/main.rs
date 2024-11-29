@@ -49,7 +49,6 @@ fn print_episode() -> Result<(), io::Error>
 
 #[tokio::main]
 async fn main() {
-    dotenv().ok();
     //let mut user_command = String::new();
     //io::stdin().read_line(&mut user_command).expect("Error at reading user input");
     //match user_command.trim(){
