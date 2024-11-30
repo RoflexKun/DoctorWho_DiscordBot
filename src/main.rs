@@ -1,9 +1,11 @@
 use dotenv::dotenv;
 use serde::Deserialize;
+use serenity::all::CreateMessage;
 use serenity::async_trait;
 use serenity::model::channel::Message;
 use serenity::model::gateway::Ready;
 use serenity::prelude::*;
+use serenity::builder::CreateAttachment;
 use std::{env, fs, io};
 use std::fs::File;
 use serde_json::from_reader;
@@ -119,7 +121,24 @@ impl EventHandler for Handler {
                              }
                         }
             }
-            "+doctor" => {}
+            "+doctor:" => {
+                match command_input {       
+                    "1" => {
+                        let mut photo_path = String::from("C:/Users/Razvan/Desktop/K9_Rust_Project/main/doctor_who_pictures/");
+                        photo_path += &command_input;
+                        photo_path += ".jpg";
+                        println!("{:?}", photo_path);
+                        let photo = CreateAttachment::path(photo_path).await.expect("Error at creating attachment with the photo");
+                        let message = CreateMessage::new().content("");
+                        if let Err(why) = msg.channel_id.send_files(&ctx.http, vec![photo], message).await {
+                            println!("Error sending photo: {:?}", why);
+                         }
+                    }
+                    _ => {if let Err(why) = msg.channel_id.say(&ctx.http, "There are only 15 doctors, 1 through 15, try again!").await {
+                        println!("Error sending message: {:?}", why);
+                     }}
+                }
+            }
             _ => {println!("ceva");}
         }
         //if msg.content == "salut" {
