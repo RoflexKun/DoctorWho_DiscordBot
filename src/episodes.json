@@ -1358,6 +1358,319 @@
         "episode": "1",
         "rating": "8.2",
         "airdate": "2.9.1967"
+    },
+    {
+        "title": "The Tomb of the Cybermen: Episode 2",
+        "runtime": "25 minutes",
+        "season": "5",
+        "episode": "2",
+        "rating": "8.2",
+        "airdate": "9.9.1967"
+    },
+    {
+        "title": "The Tomb of the Cybermen: Episode 3",
+        "runtime": "24 minutes",
+        "season": "5",
+        "episode": "3",
+        "rating": "8.1",
+        "airdate": "16.9.1967"
+    },
+    {
+        "title": "The Tomb of the Cybermen: Episode 4",
+        "runtime": "24 minutes",
+        "season": "5",
+        "episode": "4",
+        "rating": "8.2",
+        "airdate": "23.9.1967"
+    },
+    {
+        "title": "The Abominable Snowmen: Episode One",
+        "runtime": "23 minutes",
+        "season": "5",
+        "episode": "5",
+        "rating": "7.1",
+        "airdate": "30.9.1967"
+    },
+    {
+        "title": "The Tomb of the Cybermen: Episode Two",
+        "runtime": "23 minutes",
+        "season": "5",
+        "episode": "6",
+        "rating": "7.5",
+        "airdate": "7.10.1967"
+    },
+    {
+        "title": "The Tomb of the Cybermen: Episode Three",
+        "runtime": "24 minutes",
+        "season": "5",
+        "episode": "7",
+        "rating": "7.1",
+        "airdate": "14.10.1967"
+    },
+    {
+        "title": "The Tomb of the Cybermen: Episode Four",
+        "runtime": "24 minutes",
+        "season": "5",
+        "episode": "8",
+        "rating": "7.2",
+        "airdate": "21.10.1967"
+    },
+    {
+        "title": "The Tomb of the Cybermen: Episode Five",
+        "runtime": "24 minutes",
+        "season": "5",
+        "episode": "9",
+        "rating": "7.2",
+        "airdate": "28.10.1967"
+    },
+    {
+        "title": "The Tomb of the Cybermen: Episode Six",
+        "runtime": "24 minutes",
+        "season": "5",
+        "episode": "10",
+        "rating": "7.4",
+        "airdate": "4.11.1967"
+    },
+    {
+        "title": "The Ice Warriors: Episode One",
+        "runtime": "24 minutes",
+        "season": "5",
+        "episode": "11",
+        "rating": "7.3",
+        "airdate": "11.11.1967"
+    },
+    {
+        "title": "The Ice Warriors: Episode Two",
+        "runtime": "24 minutes",
+        "season": "5",
+        "episode": "12",
+        "rating": "7.2",
+        "airdate": "18.11.1967"
+    },
+    {
+        "title": "The Ice Warriors: Episode Three",
+        "runtime": "24 minutes",
+        "season": "5",
+        "episode": "13",
+        "rating": "7.2",
+        "airdate": "25.11.1967"
+    },
+    {
+        "title": "The Ice Warriors: Episode Four",
+        "runtime": "24 minutes",
+        "season": "5",
+        "episode": "14",
+        "rating": "7.2",
+        "airdate": "2.12.1967"
+    },
+    {
+        "title": "The Ice Warriors: Episode Five",
+        "runtime": "24 minutes",
+        "season": "5",
+        "episode": "15",
+        "rating": "7.3",
+        "airdate": "9.12.1967"
+    },
+    {
+        "title": "The Ice Warriors: Episode Six",
+        "runtime": "24 minutes",
+        "season": "5",
+        "episode": "16",
+        "rating": "7.4",
+        "airdate": "16.12.1967"
+    },
+    {
+        "title": "The enemy of the world: Episode 1",
+        "runtime": "24 minutes",
+        "season": "5",
+        "episode": "17",
+        "rating": "7.9",
+        "airdate": "23.12.1967"
+    },
+    {
+        "title": "The enemy of the world: Episode 2",
+        "runtime": "24 minutes",
+        "season": "5",
+        "episode": "18",
+        "rating": "7.6",
+        "airdate": "30.12.1967"
+    },
+    {
+        "title": "The enemy of the world: Episode 3",
+        "runtime": "23 minutes",
+        "season": "5",
+        "episode": "19",
+        "rating": "7.5",
+        "airdate": "6.1.1968"
+    },
+    {
+        "title": "The enemy of the world: Episode 4",
+        "runtime": "24 minutes",
+        "season": "5",
+        "episode": "20",
+        "rating": "7.7",
+        "airdate": "13.1.1968"
+    },
+    {
+        "title": "The enemy of the world: Episode 5",
+        "runtime": "24 minutes",
+        "season": "5",
+        "episode": "21",
+        "rating": "7.8",
+        "airdate": "20.1.1968"
+    },
+    {
+        "title": "The enemy of the world: Episode 6",
+        "runtime": "22 minutes",
+        "season": "5",
+        "episode": "22",
+        "rating": "8.0",
+        "airdate": "27.1.1968"
+    },
+    {
+        "title": "The Web of Fear: Episode 1",
+        "runtime": "25 minutes",
+        "season": "5",
+        "episode": "23",
+        "rating": "8.1",
+        "airdate": "3.2.1968"
+    },
+    {
+        "title": "The Web of Fear: Episode 2",
+        "runtime": "25 minutes",
+        "season": "5",
+        "episode": "24",
+        "rating": "7.9",
+        "airdate": "10.2.1968"
+    },
+    {
+        "title": "The Web of Fear: Episode 3",
+        "runtime": "24 minutes",
+        "season": "5",
+        "episode": "25",
+        "rating": "7.8",
+        "airdate": "17.2.1968"
+    },
+    {
+        "title": "The Web of Fear: Episode 4",
+        "runtime": "25 minutes",
+        "season": "5",
+        "episode": "26",
+        "rating": "8.2",
+        "airdate": "24.2.1968"
+    },
+    {
+        "title": "The Web of Fear: Episode 5",
+        "runtime": "24 minutes",
+        "season": "5",
+        "episode": "27",
+        "rating": "7.9",
+        "airdate": "2.3.1968"
+    },
+    {
+        "title": "The Web of Fear: Episode 6",
+        "runtime": "25 minutes",
+        "season": "5",
+        "episode": "28",
+        "rating": "8.1",
+        "airdate": "9.3.1968"
+    },
+    {
+        "title": "Fury from the deep: Episode 1",
+        "runtime": "25 minutes",
+        "season": "5",
+        "episode": "29",
+        "rating": "7.5",
+        "airdate": "16.3.1968"
+    },
+    {
+        "title": "Fury from the deep: Episode 2",
+        "runtime": "23 minutes",
+        "season": "5",
+        "episode": "30",
+        "rating": "7.6",
+        "airdate": "23.3.1968"
+    },
+    {
+        "title": "Fury from the deep: Episode 3",
+        "runtime": "21 minutes",
+        "season": "5",
+        "episode": "31",
+        "rating": "7.6",
+        "airdate": "30.3.1968"
+    },
+    {
+        "title": "Fury from the deep: Episode 4",
+        "runtime": "24 minutes",
+        "season": "5",
+        "episode": "32",
+        "rating": "7.6",
+        "airdate": "6.4.1968"
+    },
+    {
+        "title": "Fury from the deep: Episode 5",
+        "runtime": "24 minutes",
+        "season": "5",
+        "episode": "33",
+        "rating": "7.6",
+        "airdate": "13.4.1968"
+    },
+    {
+        "title": "Fury from the deep: Episode 6",
+        "runtime": "25 minutes",
+        "season": "5",
+        "episode": "34",
+        "rating": "7.8",
+        "airdate": "20.4.1968"
+    },
+    {
+        "title": "The Wheel in Space: Episode 1",
+        "runtime": "23 minutes",
+        "season": "5",
+        "episode": "35",
+        "rating": "6.6",
+        "airdate": "27.4.1968"
+    },
+    {
+        "title": "The Wheel in Space: Episode 2",
+        "runtime": "22 minutes",
+        "season": "5",
+        "episode": "36",
+        "rating": "6.6",
+        "airdate": "4.5.1968"
+    },
+    {
+        "title": "The Wheel in Space: Episode 3",
+        "runtime": "24 minutes",
+        "season": "5",
+        "episode": "37",
+        "rating": "6.8",
+        "airdate": "11.5.1968"
+    },
+    {
+        "title": "The Wheel in Space: Episode 4",
+        "runtime": "24 minutes",
+        "season": "5",
+        "episode": "38",
+        "rating": "6.8",
+        "airdate": "18.5.1968"
+    },
+    {
+        "title": "The Wheel in Space: Episode 5",
+        "runtime": "21 minutes",
+        "season": "5",
+        "episode": "39",
+        "rating": "6.7",
+        "airdate": "25.5.1968"
+    },
+    {
+        "title": "The Wheel in Space: Episode 6",
+        "runtime": "23 minutes",
+        "season": "5",
+        "episode": "40",
+        "rating": "6.9",
+        "airdate": "1.6.1968"
     }
+
     
 ]

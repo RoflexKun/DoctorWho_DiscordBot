@@ -111,6 +111,7 @@ impl EventHandler for Handler {
                         message_result += "**Date of airing**: ";
                         message_result += &found_episode.airdate;
                         message_result += "\n";
+                        message_result += "\n*All the data is acquired from IMDd, which my creator hand-wrote, so excuse any mistakes*";
                         message_result += "\n###################";
                         if let Err(why) = msg.channel_id.say(&ctx.http, message_result).await {
                                    println!("Error sending message: {:?}", why);
