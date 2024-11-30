@@ -702,6 +702,662 @@
         "episode": "7",
         "rating": "6.9",
         "airdate": "23.10.1965"
+    },
+    {
+        "title": "Death of a Spy",
+        "runtime": "26 minutes",
+        "season": "3",
+        "episode": "8",
+        "rating": "7.0",
+        "airdate": "30.10.1965"
+    },
+    {
+        "title": "Horse of Destruction",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "9",
+        "rating": "7.2",
+        "airdate": "6.11.1965"
+    },
+    {
+        "title": "The Nightmare Begins",
+        "runtime": "22 minutes",
+        "season": "3",
+        "episode": "10",
+        "rating": "7.8",
+        "airdate": "13.11.1965"
+    },
+    {
+        "title": "Day of Armageddon",
+        "runtime": "24 minutes",
+        "season": "3",
+        "episode": "11",
+        "rating": "7.7",
+        "airdate": "20.11.1965"
+    },
+    {
+        "title": "Devil's Planet",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "12",
+        "rating": "7.5",
+        "airdate": "27.11.1965"
+    },
+    {
+        "title": "The Traitors",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "13",
+        "rating": "8.0",
+        "airdate": "4.12.1965"
+    },
+    {
+        "title": "Counter Plot",
+        "runtime": "24 minutes",
+        "season": "3",
+        "episode": "14",
+        "rating": "7.5",
+        "airdate": "11.12.1965"
+    },
+    {
+        "title": "Coronas of the Sun",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "15",
+        "rating": "7.6",
+        "airdate": "18.12.1965"
+    },
+    {
+        "title": "The Feast of Steven",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "16",
+        "rating": "6.5",
+        "airdate": "25.12.1965"
+    },
+    {
+        "title": "Volcano",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "17",
+        "rating": "7.4",
+        "airdate": "1.1.1966"
+    },
+    {
+        "title": "Golden Death",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "18",
+        "rating": "7.5",
+        "airdate": "8.1.1966"
+    },
+    {
+        "title": "Escape Switch",
+        "runtime": "24 minutes",
+        "season": "3",
+        "episode": "19",
+        "rating": "7.5",
+        "airdate": "15.1.1966"
+    },
+    {
+        "title": "The Abandoned Planet",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "20",
+        "rating": "7.6",
+        "airdate": "22.1.1966"
+    },
+    {
+        "title": "Destruction of Time",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "21",
+        "rating": "8.4",
+        "airdate": "29.1.1966"
+    },
+    {
+        "title": "War of God",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "22",
+        "rating": "7.1",
+        "airdate": "5.2.1966"
+    },
+    {
+        "title": "The Sea Beggar",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "23",
+        "rating": "6.9",
+        "airdate": "12.2.1966"
+    },
+    {
+        "title": "Priest of Death",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "24",
+        "rating": "7.0",
+        "airdate": "19.2.1966"
+    },
+    {
+        "title": "Bell of Doom",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "25",
+        "rating": "7.5",
+        "airdate": "26.2.1966"
+    },
+    {
+        "title": "The Steel Sky",
+        "runtime": "24 minutes",
+        "season": "3",
+        "episode": "26",
+        "rating": "7.0",
+        "airdate": "5.3.1966"
+    },
+    {
+        "title": "The Plague",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "27",
+        "rating": "7.1",
+        "airdate": "12.3.1966"
+    },
+    {
+        "title": "The Return",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "28",
+        "rating": "7.0",
+        "airdate": "19.3.1966"
+    },
+    {
+        "title": "The Bomb",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "29",
+        "rating": "6.8",
+        "airdate": "26.3.1966"
+    },
+    {
+        "title": "The Celestial Toyroom",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "30",
+        "rating": "6.8",
+        "airdate": "2.4.1966"
+    },
+    {
+        "title": "The Hall of Dolls",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "31",
+        "rating": "6.3",
+        "airdate": "9.4.1966"
+    },
+    {
+        "title": "The Dancing Floor",
+        "runtime": "24 minutes",
+        "season": "3",
+        "episode": "32",
+        "rating": "6.1",
+        "airdate": "16.4.1966"
+    },
+    {
+        "title": "The Final Test",
+        "runtime": "24 minutes",
+        "season": "3",
+        "episode": "33",
+        "rating": "6.7",
+        "airdate": "23.4.1966"
+    },
+    {
+        "title": "A Holiday for the Doctor",
+        "runtime": "24 minutes",
+        "season": "3",
+        "episode": "34",
+        "rating": "6.4",
+        "airdate": "30.4.1966"
+    },
+    {
+        "title": "Don't Shoot the Pianist",
+        "runtime": "24 minutes",
+        "season": "3",
+        "episode": "35",
+        "rating": "6.2",
+        "airdate": "7.5.1996"
+    },
+    {
+        "title": "Johnny Ringo",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "36",
+        "rating": "6.0",
+        "airdate": "14.5.1966"
+    },
+    {
+        "title": "The O.K. Corral",
+        "runtime": "24 minutes",
+        "season": "3",
+        "episode": "37",
+        "rating": "6.1",
+        "airdate": "21.5.1966"
+    },
+    {
+        "title": "The Savages: Episode 1",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "38",
+        "rating": "6.7",
+        "airdate": "28.5.1966"
+    },
+    {
+        "title": "The Savages: Episode 2",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "39",
+        "rating": "6.7",
+        "airdate": "4.6.1966"
+    },
+    {
+        "title": "The Savages: Episode 3",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "40",
+        "rating": "6.7",
+        "airdate": "11.6.1966"
+    },
+    {
+        "title": "The Savages: Episode 4",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "41",
+        "rating": "6.9",
+        "airdate": "18.6.1966"
+    },
+    {
+        "title": "The War Machines: Episode 1",
+        "runtime": "24 minutes",
+        "season": "3",
+        "episode": "42",
+        "rating": "7.4",
+        "airdate": "25.6.1966"
+    },
+    {
+        "title": "The War Machines: Episode 2",
+        "runtime": "25 minutes",
+        "season": "3",
+        "episode": "43",
+        "rating": "7.2",
+        "airdate": "2.6.1966"
+    },
+    {
+        "title": "The War Machines: Episode 3",
+        "runtime": "24 minutes",
+        "season": "3",
+        "episode": "44",
+        "rating": "7.2",
+        "airdate": "9.6.1966"
+    },
+    {
+        "title": "The War Machines: Episode 4",
+        "runtime": "23 minutes",
+        "season": "3",
+        "episode": "45",
+        "rating": "7.2",
+        "airdate": "16.6.1966"
+    },
+    {
+        "title": "The Smugglers: Episode 1",
+        "runtime": "25 minutes",
+        "season": "4",
+        "episode": "1",
+        "rating": "6.3",
+        "airdate": "10.9.1966"
+    },
+    {
+        "title": "The Smugglers: Episode 2",
+        "runtime": "25 minutes",
+        "season": "4",
+        "episode": "2",
+        "rating": "6.0",
+        "airdate": "17.9.1966"
+    },
+    {
+        "title": "The Smugglers: Episode 3",
+        "runtime": "25 minutes",
+        "season": "4",
+        "episode": "3",
+        "rating": "6.1",
+        "airdate": "24.9.1966"
+    },
+    {
+        "title": "The Smugglers: Episode 4",
+        "runtime": "24 minutes",
+        "season": "4",
+        "episode": "4",
+        "rating": "6.1",
+        "airdate": "1.10.1966"
+    },
+    {
+        "title": "The Tenth Planet: Episode 1",
+        "runtime": "23 minutes",
+        "season": "4",
+        "episode": "5",
+        "rating": "7.7",
+        "airdate": "8.10.1966"
+    },
+    {
+        "title": "The Tenth Planet: Episode 2",
+        "runtime": "23 minutes",
+        "season": "4",
+        "episode": "6",
+        "rating": "7.7",
+        "airdate": "15.10.1966"
+    },
+    {
+        "title": "The Tenth Planet: Episode 3",
+        "runtime": "24 minutes",
+        "season": "4",
+        "episode": "7",
+        "rating": "7.4",
+        "airdate": "22.10.1966"
+    },
+    {
+        "title": "The Tenth Planet: Episode 4",
+        "runtime": "24 minutes",
+        "season": "4",
+        "episode": "8",
+        "rating": "8.1",
+        "airdate": "29.10.1966"
+    },
+    {
+        "title": "The Power of the Daleks: Episode One",
+        "runtime": "26 minutes",
+        "season": "4",
+        "episode": "9",
+        "rating": "8.1",
+        "airdate": "5.11.1966"
+    },
+    {
+        "title": "The Power of the Daleks: Episode Two",
+        "runtime": "24 minutes",
+        "season": "4",
+        "episode": "10",
+        "rating": "8.0",
+        "airdate": "12.11.1966"
+    },
+    {
+        "title": "The Power of the Daleks: Episode Three",
+        "runtime": "24 minutes",
+        "season": "4",
+        "episode": "11",
+        "rating": "8.0",
+        "airdate": "19.11.1966"
+    },
+    {
+        "title": "The Power of the Daleks: Episode Four",
+        "runtime": "24 minutes",
+        "season": "4",
+        "episode": "12",
+        "rating": "8.1",
+        "airdate": "26.11.1966"
+    },
+    {
+        "title": "The Power of the Daleks: Episode Five",
+        "runtime": "24 minutes",
+        "season": "4",
+        "episode": "13",
+        "rating": "8.0",
+        "airdate": "3.12.1966"
+    },
+    {
+        "title": "The Power of the Daleks: Episode Six",
+        "runtime": "24 minutes",
+        "season": "4",
+        "episode": "14",
+        "rating": "8.2",
+        "airdate": "10.12.1966"
+    },
+    {
+        "title": "The Highlanders: Episode 1",
+        "runtime": "25 minutes",
+        "season": "4",
+        "episode": "15",
+        "rating": "6.4",
+        "airdate": "17.12.1966"
+    },
+    {
+        "title": "The Highlanders: Episode 2",
+        "runtime": "24 minutes",
+        "season": "4",
+        "episode": "16",
+        "rating": "6.4",
+        "airdate": "24.12.1966"
+    },
+    {
+        "title": "The Highlanders: Episode 3",
+        "runtime": "23 minutes",
+        "season": "4",
+        "episode": "17",
+        "rating": "6.3",
+        "airdate": "31.12.1966"
+    },
+    {
+        "title": "The Highlanders: Episode 4",
+        "runtime": "24 minutes",
+        "season": "4",
+        "episode": "18",
+        "rating": "6.5",
+        "airdate": "7.1.1967"
+    },
+    {
+        "title": "The Underwater Menace: Episode 1",
+        "runtime": "24 minutes",
+        "season": "4",
+        "episode": "19",
+        "rating": "6.0",
+        "airdate": "14.1.1967"
+    },
+    {
+        "title": "The Underwater Menace: Episode 2",
+        "runtime": "25 minutes",
+        "season": "4",
+        "episode": "20",
+        "rating": "6.0",
+        "airdate": "21.1.1967"
+    },
+    {
+        "title": "The Underwater Menace: Episode 3",
+        "runtime": "24 minutes",
+        "season": "4",
+        "episode": "21",
+        "rating": "6.0",
+        "airdate": "28.1.1967"
+    },
+    {
+        "title": "The Underwater Menace: Episode 4",
+        "runtime": "23 minutes",
+        "season": "4",
+        "episode": "22",
+        "rating": "5.8",
+        "airdate": "4.2.1967"
+    },
+    {
+        "title": "The Moonbase: Episode 1",
+        "runtime": "24 minutes",
+        "season": "4",
+        "episode": "23",
+        "rating": "7.2",
+        "airdate": "11.2.1967"
+    },
+    {
+        "title": "The Moonbase: Episode 2",
+        "runtime": "25 minutes",
+        "season": "4",
+        "episode": "24",
+        "rating": "7.4",
+        "airdate": "18.2.1967"
+    },
+    {
+        "title": "The Moonbase: Episode 3",
+        "runtime": "26 minutes",
+        "season": "4",
+        "episode": "25",
+        "rating": "7.3",
+        "airdate": "25.2.1967"
+    },
+    {
+        "title": "The Moonbase: Episode 4",
+        "runtime": "23 minutes",
+        "season": "4",
+        "episode": "26",
+        "rating": "7.4",
+        "airdate": "4.3.1967"
+    },
+    {
+        "title": "The Macra Terror: Episode 1",
+        "runtime": "24 minutes",
+        "season": "4",
+        "episode": "27",
+        "rating": "7.2",
+        "airdate": "11.3.1967"
+    },
+    {
+        "title": "The Macra Terror: Episode 2",
+        "runtime": "24 minutes",
+        "season": "4",
+        "episode": "28",
+        "rating": "7.2",
+        "airdate": "18.3.1967"
+    },
+    {
+        "title": "The Macra Terror: Episode 3",
+        "runtime": "23 minutes",
+        "season": "4",
+        "episode": "29",
+        "rating": "7.1",
+        "airdate": "25.3.1967"
+    },
+    {
+        "title": "The Macra Terror: Episode 4",
+        "runtime": "24 minutes",
+        "season": "4",
+        "episode": "30",
+        "rating": "7.1",
+        "airdate": "1.4.1967"
+    },
+    {
+        "title": "The Faceless Ones: Episode 1",
+        "runtime": "24 minutes",
+        "season": "4",
+        "episode": "31",
+        "rating": "7.5",
+        "airdate": "8.4.1967"
+    },
+    {
+        "title": "The Faceless Ones: Episode 2",
+        "runtime": "26 minutes",
+        "season": "4",
+        "episode": "32",
+        "rating": "7.3",
+        "airdate": "15.4.1967"
+    },
+    {
+        "title": "The Faceless Ones: Episode 3",
+        "runtime": "23 minutes",
+        "season": "4",
+        "episode": "33",
+        "rating": "7.5",
+        "airdate": "22.4.1967"
+    },
+    {
+        "title": "The Faceless Ones: Episode 4",
+        "runtime": "25 minutes",
+        "season": "4",
+        "episode": "34",
+        "rating": "7.2",
+        "airdate": "29.4.1967"
+    },
+    {
+        "title": "The Faceless Ones: Episode 5",
+        "runtime": "24 minutes",
+        "season": "4",
+        "episode": "35",
+        "rating": "7.3",
+        "airdate": "6.5.1967"
+    },
+    {
+        "title": "The Faceless Ones: Episode 6",
+        "runtime": "24 minutes",
+        "season": "4",
+        "episode": "36",
+        "rating": "7.3",
+        "airdate": "13.5.1967"
+    },
+    {
+        "title": "The Evil of the Daleks: Episode 1",
+        "runtime": "24 minutes",
+        "season": "4",
+        "episode": "37",
+        "rating": "7.8",
+        "airdate": "20.5.1967"
+    },
+    {
+        "title": "The Evil of the Daleks: Episode 2",
+        "runtime": "25 minutes",
+        "season": "4",
+        "episode": "38",
+        "rating": "8.0",
+        "airdate": "27.5.1967"
+    },
+    {
+        "title": "The Evil of the Daleks: Episode 3",
+        "runtime": "25 minutes",
+        "season": "4",
+        "episode": "39",
+        "rating": "7.6",
+        "airdate": "3.6.1967"
+    },
+    {
+        "title": "The Evil of the Daleks: Episode 4",
+        "runtime": "25 minutes",
+        "season": "4",
+        "episode": "40",
+        "rating": "7.6",
+        "airdate": "10.6.1967"
+    },
+    {
+        "title": "The Evil of the Daleks: Episode 5",
+        "runtime": "25 minutes",
+        "season": "4",
+        "episode": "41",
+        "rating": "7.7",
+        "airdate": "17.6.1967"
+    },
+    {
+        "title": "The Evil of the Daleks: Episode 6",
+        "runtime": "25 minutes",
+        "season": "4",
+        "episode": "42",
+        "rating": "8.1",
+        "airdate": "24.6.1967"
+    },
+    {
+        "title": "The Evil of the Daleks: Episode 7",
+        "runtime": "25 minutes",
+        "season": "4",
+        "episode": "43",
+        "rating": "8.4",
+        "airdate": "1.7.1967"
+    },
+    {
+        "title": "The Tomb of the Cybermen: Episode 1",
+        "runtime": "24 minutes",
+        "season": "5",
+        "episode": "1",
+        "rating": "8.2",
+        "airdate": "2.9.1967"
     }
-
+    
 ]

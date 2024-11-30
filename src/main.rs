@@ -5,7 +5,9 @@ use serenity::model::channel::Message;
 use serenity::model::gateway::Ready;
 use serenity::prelude::*;
 use std::{env, fs, io};
-use serde_json;
+use std::fs::File;
+use serde_json::from_reader;
+use rand::Rng;
 
 #[derive(Debug, Deserialize, Clone)]
 struct Episode {
@@ -19,11 +21,55 @@ struct Episode {
 
 struct Handler;
 
+fn verify_episodes(episode_name: &str, found: &mut bool, found_episode: &mut Episode) -> Result<(), io::Error> {
+    let file = File::open("src/episodes.json").expect("Error at reading episodes.json");
+    let episodes: Vec<Episode> = from_reader(file)?;
+    for episode in episodes.iter() {
+        if episode_name.to_lowercase() == episode.title.to_lowercase() {
+            *found_episode = episode.clone();
+            *found = true;
+        }
+    }
+    Ok(())
+}
+
+fn pick_quote(quote: &mut String) -> Result<(), io::Error>
+{
+    let mut rng = rand::thread_rng();
+    let num = rng.gen_range(0..100);
+    let quote_file = fs::read_to_string("src/quote.txt")?;
+    let mut cnt = 0;
+    for i in quote_file.lines()
+    {
+        if cnt == num
+        {
+            *quote = i.to_string();
+        }
+        cnt+=1;
+    } 
+    Ok(())
+}
+
+
 #[async_trait]
 impl EventHandler for Handler {
     async fn message(&self, ctx: Context, msg: Message) {
         if msg.author.bot {
             return;
+        }
+        if msg.content == "+quote"
+        {
+            let mut quote = String::new();
+            if let Err(error) = pick_quote(&mut quote){
+                println!("Error at picking a quote {:?}", error);
+            }
+            let mut message_to_send = String::from("*");
+            message_to_send += &quote;
+            message_to_send += "*";
+            if let Err(why) = msg.channel_id.say(&ctx.http, message_to_send).await {
+                println!("Error sending message: {:?}", why);
+             }
+            
         }
         let first_space = msg.content.find(" ").unwrap();
         let command = &msg.content[..first_space];
@@ -73,7 +119,8 @@ impl EventHandler for Handler {
                              }
                         }
             }
-            _ => {}
+            "+doctor" => {}
+            _ => {println!("ceva");}
         }
         //if msg.content == "salut" {
         //    if let Err(why) = msg.channel_id.say(&ctx.http, "salut").await {
@@ -84,19 +131,6 @@ impl EventHandler for Handler {
     async fn ready(&self, _: Context, ready: Ready) {
         println!("{} is online!", ready.user.name);
     }
-}
-
-
-fn verify_episodes(episode_name: &str, found: &mut bool, found_episode: &mut Episode) -> Result<(), io::Error> {
-    let episodes_json = fs::read_to_string("episodes.json").unwrap();
-    let episodes: Vec<Episode> = serde_json::from_str(&episodes_json).expect("Eroare");
-    for episode in episodes.iter() {
-        if episode_name.to_lowercase() == episode.title.to_lowercase() {
-            *found_episode = episode.clone();
-            *found = true;
-        }
-    }
-    Ok(())
 }
 
 #[tokio::main]
