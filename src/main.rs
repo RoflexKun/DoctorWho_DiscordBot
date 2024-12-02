@@ -6,10 +6,12 @@ use serenity::model::channel::Message;
 use serenity::model::gateway::Ready;
 use serenity::prelude::*;
 use serenity::builder::CreateAttachment;
+use std::time::Duration;
 use std::{env, fs, io};
 use std::fs::File;
 use serde_json::from_reader;
 use rand::Rng;
+use serenity::model::id::ChannelId;
 
 #[derive(Debug, Deserialize, Clone)]
 struct Episode {
@@ -18,7 +20,20 @@ struct Episode {
     season: String,
     episode: String,
     rating: String,
-    airdate: String,
+    airdate: String
+}
+
+struct Player
+{
+    username: String,
+    points: u128
+}
+
+struct Answer
+{
+    answered: bool,
+    correct_answer: String,
+    who_answered: String
 }
 
 struct Handler;
@@ -137,18 +152,45 @@ impl EventHandler for Handler {
                         println!("Error sending message: {:?}", why);
                      }  
                 }
-                _ => {println!("ceva");}
+                _ => {
+                    
+                }
             }
            
         }
-        //if msg.content == "salut" {
-        //    if let Err(why) = msg.channel_id.say(&ctx.http, "salut").await {
-        //        println!("Error sending message: {:?}", why);
-        //    }
-        //}
-    async fn ready(&self, _: Context, ready: Ready) {
+    async fn ready(&self, ctx: Context, ready: Ready) {
         println!("{} is online!", ready.user.name);
-    }
+        tokio::spawn(async move {
+            let id_u32 = env::var("DISCORD_CHANNEL").expect("Invalid Channel ID").parse().unwrap();
+            let channel_id = ChannelId::new(id_u32);
+            let mut temp_answer = Answer{answered: true, correct_answer: String::new(), who_answered: String::new()};
+            loop {
+                let mut cnt = 0;
+                while cnt != 3600
+                {
+                    tokio::time::sleep(Duration::from_secs(1)).await;
+                    cnt+=1;
+                    if temp_answer.answered == true
+                    {
+                        if let Err(why) = channel_id.say(&ctx.http, "Raspuns corect!").await{
+                            println!("Error sending respons to the answer: {:?}", why);
+                        }
+                        temp_answer.answered = false;
+                        break;
+                    }
+                    let temp_cnt = cnt.to_string();
+                    if let Err(why) = channel_id.say(&ctx.http, temp_cnt).await{
+                        println!("Error sending respons to the answer: {:?}", why);
+                    }
+                    if cnt == 3600
+                    {
+                        cnt = 0;
+                    }
+                }
+                
+            }
+        });
+    }    
 }
 
 #[tokio::main]
