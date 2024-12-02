@@ -114,18 +114,17 @@ impl EventHandler for Handler {
                         if let Err(why) = msg.channel_id.say(&ctx.http, message_result).await {
                                    println!("Error sending message: {:?}", why);
                                 }
-                        }else {
-                            if let Err(why) = msg.channel_id.say(&ctx.http, "There isn't an episode neither from Doctor Who(1963) nor Doctor Who(2005) which has that title!").await {
+                        }else if let Err(why) = msg.channel_id.say(&ctx.http, "There isn't an episode neither from Doctor Who(1963) nor Doctor Who(2005) which has that title!").await {
                                 println!("Error sending message: {:?}", why);
                              }
-                        }
+                        
             }
             "+doctor:" => {
                 let doctor_number: i32 = command_input.parse().unwrap();
-                if doctor_number >= 1 && doctor_number <= 15
+                if (1..=15).contains(&doctor_number)
                 {
                     let mut photo_path = String::from("C:/Users/Razvan/Desktop/K9_Rust_Project/main/doctor_who_pictures/");
-                        photo_path += &command_input;
+                        photo_path += command_input;
                         photo_path += ".jpg";
                         println!("{:?}", photo_path);
                         let photo = CreateAttachment::path(photo_path).await.expect("Error at creating attachment with the photo");
@@ -134,12 +133,9 @@ impl EventHandler for Handler {
                             println!("Error sending photo: {:?}", why);
                          }
                 }
-                else 
-                {
-                    if let Err(why) = msg.channel_id.say(&ctx.http, "There are only 15 doctors, 1 through 15, try again!").await {
+                else if let Err(why) = msg.channel_id.say(&ctx.http, "There are only 15 doctors, 1 through 15, try again!").await {
                         println!("Error sending message: {:?}", why);
-                     }
-                }      
+                     }  
                 }
                 _ => {println!("ceva");}
             }
