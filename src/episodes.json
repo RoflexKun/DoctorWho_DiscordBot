@@ -2030,7 +2030,400 @@
         "episode": "1",
         "rating": "8.1",
         "airdate": "3.1.1970"
+    },
+    {
+        "title": "Spearhead from Space: Episode 2",
+        "runtime": "24 minutes",
+        "season": "7",
+        "episode": "2",
+        "rating": "8.0",
+        "airdate": "10.1.1970"
+    },
+    {
+        "title": "Spearhead from Space: Episode 3",
+        "runtime": "24 minutes",
+        "season": "7",
+        "episode": "3",
+        "rating": "8.0",
+        "airdate": "17.1.1970"
+    },
+    {
+        "title": "Spearhead from Space: Episode 4",
+        "runtime": "25 minutes",
+        "season": "7",
+        "episode": "4",
+        "rating": "8.1",
+        "airdate": "24.1.1970"
+    },
+    {
+        "title": "Doctor Who and the Silurians: Episode 1",
+        "runtime": "24 minutes",
+        "season": "7",
+        "episode": "5",
+        "rating": "7.5",
+        "airdate": "31.1.1970"
+    },
+    {
+        "title": "Doctor Who and the Silurians: Episode 2",
+        "runtime": "23 minutes",
+        "season": "7",
+        "episode": "6",
+        "rating": "7.6",
+        "airdate": "7.2.1970"
+    },
+    {
+        "title": "Doctor Who and the Silurians: Episode 3",
+        "runtime": "23 minutes",
+        "season": "7",
+        "episode": "7",
+        "rating": "7.6",
+        "airdate": "14.2.1970"
+    },
+    {
+        "title": "Doctor Who and the Silurians: Episode 4",
+        "runtime": "25 minutes",
+        "season": "7",
+        "episode": "8",
+        "rating": "7.7",
+        "airdate": "21.2.1970"
+    },
+    {
+        "title": "Doctor Who and the Silurians: Episode 5",
+        "runtime": "24 minutes",
+        "season": "7",
+        "episode": "9",
+        "rating": "7.7",
+        "airdate": "28.2.1970"
+    },
+    {
+        "title": "Doctor Who and the Silurians: Episode 6",
+        "runtime": "24 minutes",
+        "season": "7",
+        "episode": "10",
+        "rating": "7.8",
+        "airdate": "7.3.1970"
+    },
+    {
+        "title": "Doctor Who and the Silurians: Episode 7",
+        "runtime": "23 minutes",
+        "season": "7",
+        "episode": "11",
+        "rating": "7.9",
+        "airdate": "14.3.1970"
+    },
+    {
+        "title": "Doctor Ambassadors of Death: Episode 1",
+        "runtime": "25 minutes",
+        "season": "7",
+        "episode": "12",
+        "rating": "7.4",
+        "airdate": "21.3.1970"
+    },
+    {
+        "title": "Doctor Ambassadors of Death: Episode 2",
+        "runtime": "25 minutes",
+        "season": "7",
+        "episode": "13",
+        "rating": "7.3",
+        "airdate": "28.3.1970"
+    },
+    {
+        "title": "Doctor Ambassadors of Death: Episode 3",
+        "runtime": "25 minutes",
+        "season": "7",
+        "episode": "14",
+        "rating": "7.2",
+        "airdate": "4.4.1970"
+    },
+    {
+        "title": "Doctor Ambassadors of Death: Episode 4",
+        "runtime": "25 minutes",
+        "season": "7",
+        "episode": "15",
+        "rating": "7.2",
+        "airdate": "11.4.1970"
+    },
+    {
+        "title": "Doctor Ambassadors of Death: Episode 5",
+        "runtime": "24 minutes",
+        "season": "7",
+        "episode": "16",
+        "rating": "7.1",
+        "airdate": "18.4.1970"
+    },
+    {
+        "title": "Doctor Ambassadors of Death: Episode 6",
+        "runtime": "25 minutes",
+        "season": "7",
+        "episode": "17",
+        "rating": "7.2",
+        "airdate": "25.4.1970"
+    },
+    {
+        "title": "Doctor Ambassadors of Death: Episode 7",
+        "runtime": "25 minutes",
+        "season": "7",
+        "episode": "18",
+        "rating": "7.3",
+        "airdate": "2.5.1970"
+    },
+    {
+        "title": "Inferno: Episode 1",
+        "runtime": "25 minutes",
+        "season": "7",
+        "episode": "19",
+        "rating": "8.1",
+        "airdate": "9.5.1970"
+    },
+    {
+        "title": "Inferno: Episode 2",
+        "runtime": "22 minutes",
+        "season": "7",
+        "episode": "20",
+        "rating": "8.0",
+        "airdate": "16.5.1970"
+    },
+    {
+        "title": "Inferno: Episode 3",
+        "runtime": "25 minutes",
+        "season": "7",
+        "episode": "21",
+        "rating": "8.4",
+        "airdate": "23.5.1970"
+    },
+    {
+        "title": "Inferno: Episode 4",
+        "runtime": "25 minutes",
+        "season": "7",
+        "episode": "22",
+        "rating": "8.2",
+        "airdate": "30.5.1970"
+    },
+    {
+        "title": "Inferno: Episode 5",
+        "runtime": "24 minutes",
+        "season": "7",
+        "episode": "23",
+        "rating": "8.2",
+        "airdate": "6.6.1970"
+    },
+    {
+        "title": "Inferno: Episode 6",
+        "runtime": "24 minutes",
+        "season": "7",
+        "episode": "24",
+        "rating": "8.4",
+        "airdate": "13.6.1970"
+    },
+    {
+        "title": "Inferno: Episode 7",
+        "runtime": "25 minutes",
+        "season": "7",
+        "episode": "25",
+        "rating": "8.3",
+        "airdate": "20.6.1970"
+    },
+    {
+        "title": "Terror of the Autons: Episode One",
+        "runtime": "25 minutes",
+        "season": "8",
+        "episode": "1",
+        "rating": "7.6",
+        "airdate": "2.1.1971"
+    },
+    {
+        "title": "Terror of the Autons: Episode Two",
+        "runtime": "25 minutes",
+        "season": "8",
+        "episode": "2",
+        "rating": "7.6",
+        "airdate": "9.1.1971"
+    },
+    {
+        "title": "Terror of the Autons: Episode Three",
+        "runtime": "24 minutes",
+        "season": "8",
+        "episode": "3",
+        "rating": "7.6",
+        "airdate": "16.1.1971"
+    },
+    {
+        "title": "Terror of the Autons: Episode Four",
+        "runtime": "22 minutes",
+        "season": "8",
+        "episode": "4",
+        "rating": "7.6",
+        "airdate": "23.1.1971"
+    },
+    {
+        "title": "The Mind of Evil: Episode One",
+        "runtime": "25 minutes",
+        "season": "8",
+        "episode": "5",
+        "rating": "7.4",
+        "airdate": "30.1.1971"
+    },
+    {
+        "title": "The Mind of Evil: Episode Two",
+        "runtime": "25 minutes",
+        "season": "8",
+        "episode": "6",
+        "rating": "7.3",
+        "airdate": "6.2.1971"
+    },
+    {
+        "title": "The Mind of Evil: Episode Three",
+        "runtime": "24 minutes",
+        "season": "8",
+        "episode": "7",
+        "rating": "7.3",
+        "airdate": "13.2.1971"
+    },
+    {
+        "title": "The Mind of Evil: Episode Four",
+        "runtime": "25 minutes",
+        "season": "8",
+        "episode": "8",
+        "rating": "7.3",
+        "airdate": "20.2.1971"
+    },
+    {
+        "title": "The Mind of Evil: Episode Five",
+        "runtime": "24 minutes",
+        "season": "8",
+        "episode": "9",
+        "rating": "7.3",
+        "airdate": "27.2.1971"
+    },
+    {
+        "title": "The Mind of Evil: Episode Six",
+        "runtime": "25 minutes",
+        "season": "8",
+        "episode": "10",
+        "rating": "7.4",
+        "airdate": "6.3.1971"
+    },
+    {
+        "title": "The Claws of Axos: Episode One",
+        "runtime": "24 minutes",
+        "season": "8",
+        "episode": "11",
+        "rating": "7.1",
+        "airdate": "13.3.1971"
+    },
+    {
+        "title": "The Claws of Axos: Episode Two",
+        "runtime": "24 minutes",
+        "season": "8",
+        "episode": "12",
+        "rating": "7.1",
+        "airdate": "20.3.1971"
+    },
+    {
+        "title": "The Claws of Axos: Episode Three",
+        "runtime": "24 minutes",
+        "season": "8",
+        "episode": "13",
+        "rating": "7.1",
+        "airdate": "27.3.1971"
+    },
+    {
+        "title": "The Claws of Axos: Episode Four",
+        "runtime": "25 minutes",
+        "season": "8",
+        "episode": "14",
+        "rating": "7.2",
+        "airdate": "3.4.1971"
+    },
+    {
+        "title": "Colony in Space: Episode One",
+        "runtime": "24 minutes",
+        "season": "8",
+        "episode": "15",
+        "rating": "7.0",
+        "airdate": "10.4.1971"
+    },
+    {
+        "title": "Colony in Space: Episode Two",
+        "runtime": "23 minutes",
+        "season": "8",
+        "episode": "16",
+        "rating": "7.0",
+        "airdate": "17.4.1971"
+    },
+    {
+        "title": "Colony in Space: Episode Three",
+        "runtime": "24 minutes",
+        "season": "8",
+        "episode": "17",
+        "rating": "6.8",
+        "airdate": "24.4.1971"
+    },
+    {
+        "title": "Colony in Space: Episode Four",
+        "runtime": "24 minutes",
+        "season": "8",
+        "episode": "18",
+        "rating": "6.9",
+        "airdate": "1.5.1971"
+    },
+    {
+        "title": "Colony in Space: Episode Five",
+        "runtime": "25 minutes",
+        "season": "8",
+        "episode": "19",
+        "rating": "6.8",
+        "airdate": "8.5.1971"
+    },
+    {
+        "title": "Colony in Space: Episode Six",
+        "runtime": "25 minutes",
+        "season": "8",
+        "episode": "20",
+        "rating": "7.0",
+        "airdate": "15.5.1971"
+    },
+    {
+        "title": "The Dæmons: Episode One",
+        "runtime": "25 minutes",
+        "season": "8",
+        "episode": "21",
+        "rating": "7.8",
+        "airdate": "22.5.1971"
+    },
+    {
+        "title": "The Dæmons: Episode Two",
+        "runtime": "24 minutes",
+        "season": "8",
+        "episode": "22",
+        "rating": "7.7",
+        "airdate": "29.5.1971"
+    },
+    {
+        "title": "The Dæmons: Episode Three",
+        "runtime": "24 minutes",
+        "season": "8",
+        "episode": "23",
+        "rating": "7.7",
+        "airdate": "5.6.1971"
+    },
+    {
+        "title": "The Dæmons: Episode Four",
+        "runtime": "24 minutes",
+        "season": "8",
+        "episode": "24",
+        "rating": "7.7",
+        "airdate": "12.6.1971"
+    },
+    {
+        "title": "The Dæmons: Episode Five",
+        "runtime": "24 minutes",
+        "season": "8",
+        "episode": "25",
+        "rating": "7.7",
+        "airdate": "19.6.1971"
     }
+
 
     
 ]
