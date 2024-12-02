@@ -40,14 +40,12 @@ fn pick_quote(quote: &mut String) -> Result<(), io::Error>
     let mut rng = rand::thread_rng();
     let num = rng.gen_range(0..100);
     let quote_file = fs::read_to_string("src/quote.txt")?;
-    let mut cnt = 0;
-    for i in quote_file.lines()
+    for (cnt, i) in quote_file.lines().enumerate()
     {
         if cnt == num
         {
             *quote = i.to_string();
         }
-        cnt+=1;
     } 
     Ok(())
 }
@@ -123,9 +121,10 @@ impl EventHandler for Handler {
                         }
             }
             "+doctor:" => {
-                match command_input {       
-                    "1" => {
-                        let mut photo_path = String::from("C:/Users/Razvan/Desktop/K9_Rust_Project/main/doctor_who_pictures/");
+                let doctor_number: i32 = command_input.parse().unwrap();
+                if doctor_number >= 1 && doctor_number <= 15
+                {
+                    let mut photo_path = String::from("C:/Users/Razvan/Desktop/K9_Rust_Project/main/doctor_who_pictures/");
                         photo_path += &command_input;
                         photo_path += ".jpg";
                         println!("{:?}", photo_path);
@@ -134,20 +133,23 @@ impl EventHandler for Handler {
                         if let Err(why) = msg.channel_id.send_files(&ctx.http, vec![photo], message).await {
                             println!("Error sending photo: {:?}", why);
                          }
-                    }
-                    _ => {if let Err(why) = msg.channel_id.say(&ctx.http, "There are only 15 doctors, 1 through 15, try again!").await {
-                        println!("Error sending message: {:?}", why);
-                     }}
                 }
+                else 
+                {
+                    if let Err(why) = msg.channel_id.say(&ctx.http, "There are only 15 doctors, 1 through 15, try again!").await {
+                        println!("Error sending message: {:?}", why);
+                     }
+                }      
+                }
+                _ => {println!("ceva");}
             }
-            _ => {println!("ceva");}
+           
         }
         //if msg.content == "salut" {
         //    if let Err(why) = msg.channel_id.say(&ctx.http, "salut").await {
         //        println!("Error sending message: {:?}", why);
         //    }
         //}
-    }
     async fn ready(&self, _: Context, ready: Ready) {
         println!("{} is online!", ready.user.name);
     }

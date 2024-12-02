@@ -1670,6 +1670,366 @@
         "episode": "40",
         "rating": "6.9",
         "airdate": "1.6.1968"
+    },
+    {
+        "title": "The Dominators: Episode 1",
+        "runtime": "24 minutes",
+        "season": "6",
+        "episode": "1",
+        "rating": "6.3",
+        "airdate": "10.8.1968"
+    },
+    {
+        "title": "The Dominators: Episode 2",
+        "runtime": "24 minutes",
+        "season": "6",
+        "episode": "2",
+        "rating": "6.2",
+        "airdate": "17.8.1968"
+    },
+    {
+        "title": "The Dominators: Episode 3",
+        "runtime": "24 minutes",
+        "season": "6",
+        "episode": "3",
+        "rating": "6.0",
+        "airdate": "24.8.1968"
+    },
+    {
+        "title": "The Dominators: Episode 4",
+        "runtime": "24 minutes",
+        "season": "6",
+        "episode": "4",
+        "rating": "6.0",
+        "airdate": "31.8.1968"
+    },
+    {
+        "title": "The Dominators: Episode 5",
+        "runtime": "24 minutes",
+        "season": "6",
+        "episode": "5",
+        "rating": "6.1",
+        "airdate": "7.9.1968"
+    },
+    {
+        "title": "The Mind Robber: Episode 1",
+        "runtime": "22 minutes",
+        "season": "6",
+        "episode": "6",
+        "rating": "7.9",
+        "airdate": "14.9.1968"
+    },
+    {
+        "title": "The Mind Robber: Episode 2",
+        "runtime": "24 minutes",
+        "season": "6",
+        "episode": "7",
+        "rating": "7.8",
+        "airdate": "21.9.1968"
+    },
+    {
+        "title": "The Mind Robber: Episode 3",
+        "runtime": "20 minutes",
+        "season": "6",
+        "episode": "8",
+        "rating": "7.7",
+        "airdate": "28.9.1968"
+    },
+    {
+        "title": "The Mind Robber: Episode 4",
+        "runtime": "20 minutes",
+        "season": "6",
+        "episode": "9",
+        "rating": "7.6",
+        "airdate": "5.10.1968"
+    },
+    {
+        "title": "The Mind Robber: Episode 5",
+        "runtime": "19 minutes",
+        "season": "6",
+        "episode": "10",
+        "rating": "7.8",
+        "airdate": "12.10.1968"
+    },
+    {
+        "title": "The Invasion: Episode One",
+        "runtime": "23 minutes",
+        "season": "6",
+        "episode": "11",
+        "rating": "7.8",
+        "airdate": "2.11.1968"
+    },
+    {
+        "title": "The Invasion: Episode Two",
+        "runtime": "24 minutes",
+        "season": "6",
+        "episode": "12",
+        "rating": "7.9",
+        "airdate": "9.11.1968"
+    },
+    {
+        "title": "The Invasion: Episode Three",
+        "runtime": "24 minutes",
+        "season": "6",
+        "episode": "13",
+        "rating": "7.7",
+        "airdate": "16.11.1968"
+    },
+    {
+        "title": "The Invasion: Episode Four",
+        "runtime": "23 minutes",
+        "season": "6",
+        "episode": "14",
+        "rating": "7.8",
+        "airdate": "23.11.1968"
+    },
+    {
+        "title": "The Invasion: Episode Five",
+        "runtime": "23 minutes",
+        "season": "6",
+        "episode": "15",
+        "rating": "7.9",
+        "airdate": "30.11.1968"
+    },
+    {
+        "title": "The Invasion: Episode Six",
+        "runtime": "23 minutes",
+        "season": "6",
+        "episode": "16",
+        "rating": "8.0",
+        "airdate": "7.12.1968"
+    },
+    {
+        "title": "The Invasion: Episode Seven",
+        "runtime": "24 minutes",
+        "season": "6",
+        "episode": "17",
+        "rating": "8.0",
+        "airdate": "14.12.1968"
+    },
+    {
+        "title": "The Invasion: Episode Eight",
+        "runtime": "23 minutes",
+        "season": "6",
+        "episode": "18",
+        "rating": "8.1",
+        "airdate": "21.12.1968"
+    },
+    {
+        "title": "The Kronos: Episode One",
+        "runtime": "23 minutes",
+        "season": "6",
+        "episode": "19",
+        "rating": "6.6",
+        "airdate": "28.12.1968"
+    },
+    {
+        "title": "The Kronos: Episode Two",
+        "runtime": "23 minutes",
+        "season": "6",
+        "episode": "20",
+        "rating": "6.6",
+        "airdate": "4.1.1969"
+    },
+    {
+        "title": "The Kronos: Episode Three",
+        "runtime": "22 minutes",
+        "season": "6",
+        "episode": "21",
+        "rating": "6.3",
+        "airdate": "11.1.1969"
+    },
+    {
+        "title": "The Kronos: Episode Four",
+        "runtime": "23 minutes",
+        "season": "6",
+        "episode": "22",
+        "rating": "6.4",
+        "airdate": "18.1.1969"
+    },
+    {
+        "title": "The Seeds of Death: Episode One",
+        "runtime": "23 minutes",
+        "season": "6",
+        "episode": "23",
+        "rating": "7.2",
+        "airdate": "25.1.1969"
+    },
+    {
+        "title": "The Seeds of Death: Episode Two",
+        "runtime": "24 minutes",
+        "season": "6",
+        "episode": "24",
+        "rating": "7.1",
+        "airdate": "1.2.1969"
+    },
+    {
+        "title": "The Seeds of Death: Episode Three",
+        "runtime": "25 minutes",
+        "season": "6",
+        "episode": "25",
+        "rating": "7.1",
+        "airdate": "8.2.1969"
+    },
+    {
+        "title": "The Seeds of Death: Episode Four",
+        "runtime": "25 minutes",
+        "season": "6",
+        "episode": "26",
+        "rating": "7.1",
+        "airdate": "15.2.1969"
+    },
+    {
+        "title": "The Seeds of Death: Episode Five",
+        "runtime": "25 minutes",
+        "season": "6",
+        "episode": "27",
+        "rating": "7.1",
+        "airdate": "22.2.1969"
+    },
+    {
+        "title": "The Seeds of Death: Episode Six",
+        "runtime": "25 minutes",
+        "season": "6",
+        "episode": "28",
+        "rating": "7.2",
+        "airdate": "1.3.1969"
+    },
+    {
+        "title": "The Space Pirates: Episode 1",
+        "runtime": "24 minutes",
+        "season": "6",
+        "episode": "29",
+        "rating": "5.2",
+        "airdate": "8.3.1969"
+    },
+    {
+        "title": "The Space Pirates: Episode 2",
+        "runtime": "25 minutes",
+        "season": "6",
+        "episode": "30",
+        "rating": "5.6",
+        "airdate": "15.3.1969"
+    },
+    {
+        "title": "The Space Pirates: Episode 3",
+        "runtime": "24 minutes",
+        "season": "6",
+        "episode": "31",
+        "rating": "5.0",
+        "airdate": "22.3.1969"
+    },
+    {
+        "title": "The Space Pirates: Episode 4",
+        "runtime": "23 minutes",
+        "season": "6",
+        "episode": "32",
+        "rating": "5.0",
+        "airdate": "29.3.1969"
+    },
+    {
+        "title": "The Space Pirates: Episode 5",
+        "runtime": "25 minutes",
+        "season": "6",
+        "episode": "33",
+        "rating": "4.9",
+        "airdate": "5.4.1969"
+    },
+    {
+        "title": "The Space Pirates: Episode 6",
+        "runtime": "24 minutes",
+        "season": "6",
+        "episode": "34",
+        "rating": "4.7",
+        "airdate": "12.4.1969"
+    },
+    {
+        "title": "The War Games: Episode One",
+        "runtime": "25 minutes",
+        "season": "6",
+        "episode": "35",
+        "rating": "8.4",
+        "airdate": "19.4.1969"
+    },
+    {
+        "title": "The War Games: Episode Two",
+        "runtime": "25 minutes",
+        "season": "6",
+        "episode": "36",
+        "rating": "8.3",
+        "airdate": "26.4.1969"
+    },
+    {
+        "title": "The War Games: Episode Three",
+        "runtime": "24 minutes",
+        "season": "6",
+        "episode": "37",
+        "rating": "8.3",
+        "airdate": "3.5.1969"
+    },
+    {
+        "title": "The War Games: Episode Four",
+        "runtime": "23 minutes",
+        "season": "6",
+        "episode": "38",
+        "rating": "8.1",
+        "airdate": "10.5.1969"
+    },
+    {
+        "title": "The War Games: Episode Five",
+        "runtime": "25 minutes",
+        "season": "6",
+        "episode": "39",
+        "rating": "8.2",
+        "airdate": "17.5.1969"
+    },
+    {
+        "title": "The War Games: Episode Six",
+        "runtime": "23 minutes",
+        "season": "6",
+        "episode": "40",
+        "rating": "8.1",
+        "airdate": "24.5.1969"
+    },
+    {
+        "title": "The War Games: Episode Seven",
+        "runtime": "22 minutes",
+        "season": "6",
+        "episode": "41",
+        "rating": "8.1",
+        "airdate": "31.5.1969"
+    },
+    {
+        "title": "The War Games: Episode Eight",
+        "runtime": "25 minutes",
+        "season": "6",
+        "episode": "42",
+        "rating": "8.3",
+        "airdate": "7.6.1969"
+    },
+    {
+        "title": "The War Games: Episode Nine",
+        "runtime": "25 minutes",
+        "season": "6",
+        "episode": "43",
+        "rating": "8.7",
+        "airdate": "14.6.1969"
+    },
+    {
+        "title": "The War Games: Episode Ten",
+        "runtime": "24 minutes",
+        "season": "6",
+        "episode": "44",
+        "rating": "9.1",
+        "airdate": "21.6.1969"
+    },
+    {
+        "title": "Spearhead from Space: Episode 1",
+        "runtime": "24 minutes",
+        "season": "7",
+        "episode": "1",
+        "rating": "8.1",
+        "airdate": "3.1.1970"
     }
 
     
