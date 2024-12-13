@@ -28,6 +28,7 @@ struct Player {
     points: u128,
 }
 
+#[derive(Deserialize)]
 struct Question {
     question_text: String,
     question_answer: String,
@@ -37,6 +38,7 @@ struct Answer {
     answered: bool,
     correct_answer: String,
     who_answered: String,
+    question_index: i32
 }
 
 impl Answer {
@@ -46,7 +48,7 @@ impl Answer {
     fn check_answer() -> bool {
         let file =
             File::open("src/answer_status.json").expect("Error at reading answer_status.json");
-        let answer: Answer = from_reader(file).expect("Error at reading from file");
+        let answer: Answer = from_reader(file).expect("Error at converting from file");
         if answer.answered
         {
             true
@@ -54,6 +56,12 @@ impl Answer {
         else {
             false
         }
+    }
+
+    fn change_answer() 
+    {
+        let file_question = File::open("src/questions.json").expect("Error at reading questions.json");
+        let questions_list: Vec<Question> = from_reader(file_question).expect("Error at converting from file");
     }
 }
 

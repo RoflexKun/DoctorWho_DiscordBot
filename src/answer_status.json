@@ -2,6 +2,7 @@
     {
         "answered": false,
         "correct_answer": "",
-        "who_answered": ""
+        "who_answered": "",
+        "question_index": 0
     }
 ]
