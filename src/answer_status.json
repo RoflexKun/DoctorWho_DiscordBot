@@ -1,8 +1,6 @@
-[
-    {
-        "answered": false,
-        "correct_answer": "",
-        "who_answered": "",
-        "question_index": 0
-    }
-]
+{
+  "answered": false,
+  "correct_answer": "Mr. Saxon",
+  "who_answered": "",
+  "question_index": 0
+}

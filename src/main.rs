@@ -1,6 +1,6 @@
 use dotenv::dotenv;
 use rand::Rng;
-use serde::Deserialize;
+use serde::{Deserialize, Serialize};
 use serde_json::from_reader;
 use serenity::all::CreateMessage;
 use serenity::async_trait;
@@ -10,6 +10,7 @@ use serenity::model::gateway::Ready;
 use serenity::model::id::ChannelId;
 use serenity::prelude::*;
 use std::fs::File;
+use std::io::Write;
 use std::time::Duration;
 use std::{env, fs, io};
 
@@ -33,7 +34,7 @@ struct Question {
     question_text: String,
     question_answer: String,
 }
-#[derive(Deserialize)]
+#[derive(Deserialize, Serialize)]
 struct Answer {
     answered: bool,
     correct_answer: String,
@@ -45,7 +46,12 @@ impl Answer {
     // o functie de adaugare un nou raspuns
     // o functie de verificare raspuns
     // o functie de afisare(?)
-    fn check_answer() -> bool {
+    fn new() -> Self
+    {
+        Answer{answered: false, correct_answer: String::new(), who_answered: String::new(), question_index: 0}
+    }
+
+    fn check_answer(&mut self) -> bool {
         let file =
             File::open("src/answer_status.json").expect("Error at reading answer_status.json");
         let answer: Answer = from_reader(file).expect("Error at converting from file");
@@ -58,10 +64,30 @@ impl Answer {
         }
     }
 
-    fn change_answer() 
+    fn change_answer(&mut self) -> Result<(), io::Error>
     {
         let file_question = File::open("src/questions.json").expect("Error at reading questions.json");
         let questions_list: Vec<Question> = from_reader(file_question).expect("Error at converting from file");
+        let mut rng = rand::thread_rng();
+        let mut random_num = rng.gen_range(0..questions_list.len());
+        while random_num as i32 == self.question_index
+        {
+            random_num = rng.gen_range(0..1);
+        }
+
+        for (cnt, i) in questions_list.iter().enumerate()
+        {
+            if cnt == random_num
+            {
+                self.answered = false;
+                self.correct_answer = (*i.question_answer).to_string();
+                break;
+            }
+        }
+        let new_answer_status = serde_json::to_string_pretty(&self).expect("Error at converting to String");
+        let mut new_file = File::create("src/answer_status.json").expect("Error at creating new file");
+        new_file.write_all(&new_answer_status.as_bytes()).expect("Error at writing new data into file");
+        Ok(())
     }
 }
 
@@ -212,6 +238,8 @@ impl EventHandler for Handler {
                 .parse()
                 .unwrap();
             let channel_id = ChannelId::new(id_u32);
+            let mut answer_check: Answer = Answer::new();
+            answer_check.change_answer().expect("Error at function change answer!");
             loop {
                 let mut cnt = 0;
                 while cnt != 3600 {
