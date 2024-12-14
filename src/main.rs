@@ -24,9 +24,19 @@ struct Episode {
     airdate: String,
 }
 
+#[derive(Deserialize, Serialize)]
 struct Player {
     username: String,
     points: u128,
+}
+
+impl Player {
+    fn new() -> Self {
+        Player {
+            username: String::new(),
+            points: 0,
+        }
+    }
 }
 
 #[derive(Deserialize)]
@@ -34,59 +44,76 @@ struct Question {
     question_text: String,
     question_answer: String,
 }
-#[derive(Deserialize, Serialize)]
+#[derive(Deserialize, Serialize, Clone)]
 struct Answer {
     answered: bool,
     correct_answer: String,
     who_answered: String,
-    question_index: i32
+    question_index: i32,
 }
 
 impl Answer {
     // o functie de adaugare un nou raspuns
     // o functie de verificare raspuns
     // o functie de afisare(?)
-    fn new() -> Self
-    {
-        Answer{answered: false, correct_answer: String::new(), who_answered: String::new(), question_index: 0}
+    fn new() -> Self {
+        Answer {
+            answered: false,
+            correct_answer: String::new(),
+            who_answered: String::new(),
+            question_index: 0,
+        }
     }
 
-    fn check_answer(&mut self) -> bool {
-        let file =
+    fn current_status(&mut self) -> Result<(), io::Error> {
+        let file_answer_status =
             File::open("src/answer_status.json").expect("Error at reading answer_status.json");
-        let answer: Answer = from_reader(file).expect("Error at converting from file");
-        if answer.answered
-        {
-            true
-        }
-        else {
-            false
-        }
+        let current_answer: Answer =
+            from_reader(file_answer_status).expect("Error at converting from File");
+        *self = current_answer;
+        Ok(())
     }
 
-    fn change_answer(&mut self) -> Result<(), io::Error>
-    {
-        let file_question = File::open("src/questions.json").expect("Error at reading questions.json");
-        let questions_list: Vec<Question> = from_reader(file_question).expect("Error at converting from file");
+    fn change_answer(&mut self, question: &mut String) -> Result<(), io::Error> {
+        let file_question =
+            File::open("src/questions.json").expect("Error at reading questions.json");
+        let questions_list: Vec<Question> =
+            from_reader(file_question).expect("Error at converting from file");
         let mut rng = rand::thread_rng();
         let mut random_num = rng.gen_range(0..questions_list.len());
-        while random_num as i32 == self.question_index
-        {
+        while random_num as i32 == self.question_index {
             random_num = rng.gen_range(0..1);
         }
 
-        for (cnt, i) in questions_list.iter().enumerate()
-        {
-            if cnt == random_num
-            {
+        for (cnt, i) in questions_list.iter().enumerate() {
+            if cnt == random_num {
                 self.answered = false;
                 self.correct_answer = (*i.question_answer).to_string();
+                *question = i.question_text.to_string();
                 break;
             }
         }
-        let new_answer_status = serde_json::to_string_pretty(&self).expect("Error at converting to String");
-        let mut new_file = File::create("src/answer_status.json").expect("Error at creating new file");
-        new_file.write_all(&new_answer_status.as_bytes()).expect("Error at writing new data into file");
+        let new_answer_status =
+            serde_json::to_string_pretty(&self).expect("Error at converting to String");
+        let mut new_file =
+            File::create("src/answer_status.json").expect("Error at creating new file");
+        new_file
+            .write_all(&new_answer_status.as_bytes())
+            .expect("Error at writing new data into file");
+        Ok(())
+    }
+
+    fn question_answered(&mut self, username: String) -> Result<(), io::Error> {
+        self.answered = true;
+        self.who_answered = username;
+        let temp_answer = self.clone();
+        let new_answer_status =
+            serde_json::to_string_pretty(&temp_answer).expect("Error at converting to String");
+        let mut new_file =
+            File::create("src/answer_status.json").expect("Error at creating new file");
+        new_file
+            .write_all(new_answer_status.as_bytes())
+            .expect("Error at writing new data into file");
         Ok(())
     }
 }
@@ -121,15 +148,89 @@ fn pick_quote(quote: &mut String) -> Result<(), io::Error> {
     Ok(())
 }
 
+fn update_leaderboard(answer_check: &Answer) -> Result<(), io::Error> {
+    let file_players = File::open("src/players.json").expect("Error at reading players.json");
+    let mut leaderboard: Vec<Player> =
+        from_reader(file_players).expect("Error at converting from file");
+    let mut new_player = true;
+    for i in leaderboard.iter_mut() {
+        if answer_check.who_answered == i.username {
+            i.points += 1;
+            new_player = false;
+        }
+    }
+
+    if new_player {
+        let mut player = Player::new();
+        player.username = answer_check.who_answered.clone();
+        player.points = 1;
+        leaderboard.push(player);
+    }
+
+    let new_leaderboard =
+        serde_json::to_string_pretty(&leaderboard).expect("Error at converting to String");
+    let mut new_file = File::create("src/players.json").expect("Error at creating file");
+    new_file
+        .write_all(new_leaderboard.as_bytes())
+        .expect("Error at modifying the file");
+    Ok(())
+}
+
+fn output_leaderboard() -> Result<String, io::Error> {
+    let file_players = File::open("src/players.json").expect("Error at opening players.json");
+    let mut leaderboard: Vec<Player> =
+        serde_json::from_reader(file_players).expect("Error at converting from file!");
+    leaderboard.sort_by_key(|player| std::cmp::Reverse(player.points));
+    let mut message_to_send = String::new();
+    for (cnt, i) in leaderboard.iter().enumerate() {
+        if cnt + 1 == 1 {
+            message_to_send += "🥇";
+            message_to_send += " ";
+            message_to_send += &i.username;
+            message_to_send += ": ";
+            message_to_send += &(i.points.to_string());
+            message_to_send += " points!";
+            message_to_send += "\n";
+        } else if cnt + 1 == 2 {
+            message_to_send += "🥈";
+            message_to_send += " ";
+            message_to_send += &i.username;
+            message_to_send += ": ";
+            message_to_send += &(i.points.to_string());
+            message_to_send += " points!";
+            message_to_send += "\n";
+        } else if cnt + 1 == 3 {
+            message_to_send += "🥉";
+            message_to_send += " ";
+            message_to_send += &i.username;
+            message_to_send += ": ";
+            message_to_send += &(i.points.to_string());
+            message_to_send += " points!";
+            message_to_send += "\n";
+        } else {
+            message_to_send += &(cnt + 1).to_string();
+            message_to_send += ".";
+            message_to_send += " ";
+            message_to_send += &i.username;
+            message_to_send += ": ";
+            message_to_send += &(i.points.to_string());
+            message_to_send += " points!";
+            message_to_send += "\n";
+        }
+    }
+    Ok(message_to_send)
+}
+
 #[async_trait]
 impl EventHandler for Handler {
     async fn message(&self, ctx: Context, msg: Message) {
         if msg.author.bot {
             return;
         }
-
-        println!("{}", msg.content);
-
+        let mut answer_check = Answer::new();
+        answer_check
+            .current_status()
+            .expect("Error at loading current status of the answer");
         if msg.content == "+quote" {
             let mut quote = String::new();
             if let Err(error) = pick_quote(&mut quote) {
@@ -141,6 +242,16 @@ impl EventHandler for Handler {
             if let Err(why) = msg.channel_id.say(&ctx.http, message_to_send).await {
                 println!("Error sending message: {:?}", why);
             }
+        } else if msg.content == "+points" {
+            let leaderboard_text =
+                output_leaderboard().expect("Error at outputing the leaderboard!");
+            if let Err(why) = msg.channel_id.say(&ctx.http, leaderboard_text).await {
+                println!("Error sending message: {:?}", why);
+            }
+        } else if msg.content == answer_check.correct_answer {
+            answer_check
+                .question_answered(msg.author.name)
+                .expect("Error at modifying the file");
         }
         let first_space = msg.content.find(" ").unwrap();
         let command = &msg.content[..first_space];
@@ -239,18 +350,46 @@ impl EventHandler for Handler {
                 .unwrap();
             let channel_id = ChannelId::new(id_u32);
             let mut answer_check: Answer = Answer::new();
-            answer_check.change_answer().expect("Error at function change answer!");
+            let mut question = String::new();
+            answer_check
+                .change_answer(&mut question)
+                .expect("Error at function change answer!");
+            if let Err(why) = channel_id.say(&ctx.http, &question).await {
+                println!("Error sending respons to the answer: {:?}", why);
+            }
+            let mut ok = true;
             loop {
                 let mut cnt = 0;
                 while cnt != 3600 {
                     tokio::time::sleep(Duration::from_secs(1)).await;
                     cnt += 1;
-
+                    answer_check
+                        .current_status()
+                        .expect("Error at reading from file!");
+                    if answer_check.answered == true && ok == true {
+                        let mut congrats_message = String::from("@");
+                        congrats_message += &answer_check.who_answered;
+                        congrats_message += " has answered correctly!";
+                        if let Err(why) = channel_id.say(&ctx.http, congrats_message).await {
+                            println!("Error sending respons to the answer: {:?}", why);
+                        }
+                        update_leaderboard(&answer_check)
+                            .expect("Error at modifying the leaderboard");
+                        ok = false;
+                    }
                     let temp_cnt = cnt.to_string();
                     if let Err(why) = channel_id.say(&ctx.http, temp_cnt).await {
                         println!("Error sending respons to the answer: {:?}", why);
                     }
                     if cnt == 3600 {
+                        if ok == false {
+                            answer_check
+                                .change_answer(&mut question)
+                                .expect("Error at function change answer!");
+                            if let Err(why) = channel_id.say(&ctx.http, &question).await {
+                                println!("Error sending respons to the answer: {:?}", why);
+                            }
+                        }
                         cnt = 0;
                     }
                 }
