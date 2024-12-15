@@ -378,10 +378,6 @@ impl EventHandler for Handler {
                             .expect("Error at modifying the leaderboard");
                         ok = false;
                     }
-                    let temp_cnt = cnt.to_string();
-                    if let Err(why) = channel_id.say(&ctx.http, temp_cnt).await {
-                        println!("Error sending respons to the answer: {:?}", why);
-                    }
                     if cnt == 3600 {
                         if !ok {
                             answer_check
