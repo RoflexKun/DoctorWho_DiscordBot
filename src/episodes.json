@@ -2422,6 +2422,422 @@
         "episode": "25",
         "rating": "7.7",
         "airdate": "19.6.1971"
+    },
+    {
+        "title": "Day of the Daleks: Episode One",
+        "runtime": "24 minutes",
+        "season": "9",
+        "episode": "1",
+        "rating": "7.6",
+        "airdate": "1.1.1972"
+    },
+    {
+        "title": "Day of the Daleks: Episode Two",
+        "runtime": "24 minutes",
+        "season": "9",
+        "episode": "2",
+        "rating": "7.6",
+        "airdate": "8.1.1972"
+    },
+    {
+        "title": "Day of the Daleks: Episode Three",
+        "runtime": "24 minutes",
+        "season": "9",
+        "episode": "3",
+        "rating": "7.6",
+        "airdate": "15.1.1972"
+    },
+    {
+        "title": "Day of the Daleks: Episode Four",
+        "runtime": "24 minutes",
+        "season": "9",
+        "episode": "4",
+        "rating": "7.8",
+        "airdate": "22.1.1972"
+    },
+    {
+        "title": "The Curse of Peladon: Episode One",
+        "runtime": "25 minutes",
+        "season": "9",
+        "episode": "5",
+        "rating": "7.4",
+        "airdate": "29.1.1972"
+    },
+    {
+        "title": "The Curse of Peladon: Episode Two",
+        "runtime": "25 minutes",
+        "season": "9",
+        "episode": "6",
+        "rating": "7.4",
+        "airdate": "5.2.1972"
+    },
+    {
+        "title": "The Curse of Peladon: Episode Three",
+        "runtime": "24 minutes",
+        "season": "9",
+        "episode": "7",
+        "rating": "7.4",
+        "airdate": "12.2.1972"
+    },
+    {
+        "title": "The Curse of Peladon: Episode Four",
+        "runtime": "24 minutes",
+        "season": "9",
+        "episode": "8",
+        "rating": "7.5",
+        "airdate": "19.2.1972"
+    },
+    {
+        "title": "The Sea Devils: Episode One",
+        "runtime": "25 minutes",
+        "season": "9",
+        "episode": "9",
+        "rating": "7.7",
+        "airdate": "26.2.1972"
+    },
+    {
+        "title": "The Sea Devils: Episode Two",
+        "runtime": "25 minutes",
+        "season": "9",
+        "episode": "10",
+        "rating": "7.7",
+        "airdate": "4.3.1972"
+    },
+    {
+        "title": "The Sea Devils: Episode Three",
+        "runtime": "24 minutes",
+        "season": "9",
+        "episode": "11",
+        "rating": "7.5",
+        "airdate": "11.3.1972"
+    },
+    {
+        "title": "The Sea Devils: Episode Four",
+        "runtime": "24 minutes",
+        "season": "9",
+        "episode": "12",
+        "rating": "7.6",
+        "airdate": "18.3.1972"
+    },
+    {
+        "title": "The Sea Devils: Episode Five",
+        "runtime": "25 minutes",
+        "season": "9",
+        "episode": "13",
+        "rating": "7.6",
+        "airdate": "25.3.1972"
+    },
+    {
+        "title": "The Sea Devils: Episode Six",
+        "runtime": "25 minutes",
+        "season": "9",
+        "episode": "14",
+        "rating": "7.7",
+        "airdate": "1.4.1972"
+    },
+    {
+        "title": "The Mutants: Episode One",
+        "runtime": "24 minutes",
+        "season": "9",
+        "episode": "15",
+        "rating": "6.6",
+        "airdate": "8.4.1972"
+    },
+    {
+        "title": "The Mutants: Episode Two",
+        "runtime": "24 minutes",
+        "season": "9",
+        "episode": "16",
+        "rating": "6.5",
+        "airdate": "15.4.1972"
+    },
+    {
+        "title": "The Mutants: Episode Three",
+        "runtime": "25 minutes",
+        "season": "9",
+        "episode": "17",
+        "rating": "6.5",
+        "airdate": "22.4.1972"
+    },
+    {
+        "title": "The Mutants: Episode Four",
+        "runtime": "24 minutes",
+        "season": "9",
+        "episode": "18",
+        "rating": "6.6",
+        "airdate": "29.4.1972"
+    },
+    {
+        "title": "The Mutants: Episode Five",
+        "runtime": "25 minutes",
+        "season": "9",
+        "episode": "19",
+        "rating": "6.4",
+        "airdate": "6.5.1972"
+    },
+    {
+        "title": "The Mutants: Episode Six",
+        "runtime": "24 minutes",
+        "season": "9",
+        "episode": "20",
+        "rating": "6.5",
+        "airdate": "13.5.1972"
+    },
+    {
+        "title": "The Time Monster: Episode One",
+        "runtime": "25 minutes",
+        "season": "9",
+        "episode": "21",
+        "rating": "6.7",
+        "airdate": "20.5.1972"
+    },
+    {
+        "title": "The Time Monster: Episode Two",
+        "runtime": "25 minutes",
+        "season": "9",
+        "episode": "22",
+        "rating": "6.6",
+        "airdate": "27.5.1972"
+    },
+    {
+        "title": "The Time Monster: Episode Three",
+        "runtime": "24 minutes",
+        "season": "9",
+        "episode": "23",
+        "rating": "6.4",
+        "airdate": "3.6.1972"
+    },
+    {
+        "title": "The Time Monster: Episode Four",
+        "runtime": "24 minutes",
+        "season": "9",
+        "episode": "24",
+        "rating": "6.8",
+        "airdate": "10.6.1972"
+    },
+    {
+        "title": "The Time Monster: Episode Five",
+        "runtime": "25 minutes",
+        "season": "9",
+        "episode": "25",
+        "rating": "6.6",
+        "airdate": "17.6.1972"
+    },
+    {
+        "title": "The Time Monster: Episode Six",
+        "runtime": "25 minutes",
+        "season": "9",
+        "episode": "26",
+        "rating": "6.7",
+        "airdate": "24.6.1972"
+    },
+    {
+        "title": "The Three Doctors: Episode One",
+        "runtime": "25 minutes",
+        "season": "10",
+        "episode": "1",
+        "rating": "8.2",
+        "airdate": "30.12.1972"
+    },
+    {
+        "title": "The Three Doctors: Episode Two",
+        "runtime": "24 minutes",
+        "season": "10",
+        "episode": "2",
+        "rating": "8.1",
+        "airdate": "6.1.1973"
+    },
+    {
+        "title": "The Three Doctors: Episode Three",
+        "runtime": "24 minutes",
+        "season": "10",
+        "episode": "3",
+        "rating": "8.1",
+        "airdate": "13.1.1973"
+    },
+    {
+        "title": "The Three Doctors: Episode Four",
+        "runtime": "25 minutes",
+        "season": "10",
+        "episode": "4",
+        "rating": "8.2",
+        "airdate": "20.1.1973"
+    },
+    {
+        "title": "Carnival of Monsters: Episode One",
+        "runtime": "25 minutes",
+        "season": "10",
+        "episode": "5",
+        "rating": "7.7",
+        "airdate": "27.1.1973"
+    },
+    {
+        "title": "Carnival of Monsters: Episode Two",
+        "runtime": "24 minutes",
+        "season": "10",
+        "episode": "6",
+        "rating": "7.7",
+        "airdate": "3.2.1973"
+    },
+    {
+        "title": "Carnival of Monsters: Episode Three",
+        "runtime": "25 minutes",
+        "season": "10",
+        "episode": "7",
+        "rating": "7.6",
+        "airdate": "10.2.1973"
+    },
+    {
+        "title": "Carnival of Monsters: Episode Four",
+        "runtime": "24 minutes",
+        "season": "10",
+        "episode": "8",
+        "rating": "7.6",
+        "airdate": "17.2.1973"
+    },
+    {
+        "title": "Frontier in Space: Episode One",
+        "runtime": "23 minutes",
+        "season": "10",
+        "episode": "9",
+        "rating": "7.4",
+        "airdate": "24.2.1973"
+    },
+    {
+        "title": "Frontier in Space: Episode Two",
+        "runtime": "24 minutes",
+        "season": "10",
+        "episode": "10",
+        "rating": "7.3",
+        "airdate": "3.3.1973"
+    },
+    {
+        "title": "Frontier in Space: Episode Three",
+        "runtime": "24 minutes",
+        "season": "10",
+        "episode": "11",
+        "rating": "7.5",
+        "airdate": "10.3.1973"
+    },
+    {
+        "title": "Frontier in Space: Episode Four",
+        "runtime": "24 minutes",
+        "season": "10",
+        "episode": "12",
+        "rating": "7.5",
+        "airdate": "17.3.1973"
+    },
+    {
+        "title": "Frontier in Space: Episode Five",
+        "runtime": "24 minutes",
+        "season": "10",
+        "episode": "13",
+        "rating": "7.5",
+        "airdate": "24.3.1973"
+    },
+    {
+        "title": "Frontier in Space: Episode Six",
+        "runtime": "25 minutes",
+        "season": "10",
+        "episode": "14",
+        "rating": "7.5",
+        "airdate": "31.3.1973"
+    },
+    {
+        "title": "Planet of the Daleks: Episode One",
+        "runtime": "25 minutes",
+        "season": "10",
+        "episode": "15",
+        "rating": "7.3",
+        "airdate": "7.4.1973"
+    },
+    {
+        "title": "Planet of the Daleks: Episode Two",
+        "runtime": "24 minutes",
+        "season": "10",
+        "episode": "16",
+        "rating": "7.3",
+        "airdate": "14.4.1973"
+    },
+    {
+        "title": "Planet of the Daleks: Episode Three",
+        "runtime": "23 minutes",
+        "season": "10",
+        "episode": "17",
+        "rating": "7.3",
+        "airdate": "21.4.1973"
+    },
+    {
+        "title": "Planet of the Daleks: Episode Four",
+        "runtime": "24 minutes",
+        "season": "10",
+        "episode": "18",
+        "rating": "7.2",
+        "airdate": "28.4.1973"
+    },
+    {
+        "title": "Planet of the Daleks: Episode Five",
+        "runtime": "23 minutes",
+        "season": "10",
+        "episode": "19",
+        "rating": "7.2",
+        "airdate": "5.5.1973"
+    },
+    {
+        "title": "Planet of the Daleks: Episode Six",
+        "runtime": "23 minutes",
+        "season": "10",
+        "episode": "20",
+        "rating": "7.4",
+        "airdate": "12.5.1973"
+    },
+    {
+        "title": "The Green Death: Episode One",
+        "runtime": "26 minutes",
+        "season": "10",
+        "episode": "21",
+        "rating": "7.9",
+        "airdate": "19.5.1973"
+    },
+    {
+        "title": "The Green Death: Episode Two",
+        "runtime": "26 minutes",
+        "season": "10",
+        "episode": "22",
+        "rating": "7.8",
+        "airdate": "26.5.1973"
+    },
+    {
+        "title": "The Green Death: Episode Three",
+        "runtime": "25 minutes",
+        "season": "10",
+        "episode": "23",
+        "rating": "7.9",
+        "airdate": "2.6.1973"
+    },
+    {
+        "title": "The Green Death: Episode Four",
+        "runtime": "26 minutes",
+        "season": "10",
+        "episode": "24",
+        "rating": "7.9",
+        "airdate": "9.6.1973"
+    },
+    {
+        "title": "The Green Death: Episode Five",
+        "runtime": "25 minutes",
+        "season": "10",
+        "episode": "25",
+        "rating": "7.9",
+        "airdate": "16.6.1973"
+    },
+    {
+        "title": "The Green Death: Episode Six",
+        "runtime": "26 minutes",
+        "season": "10",
+        "episode": "26",
+        "rating": "8.1",
+        "airdate": "23.6.1973"
     }
 
 
