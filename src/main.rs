@@ -61,7 +61,7 @@ impl Answer {
             answered: false,
             correct_answer: String::new(),
             who_answered: String::new(),
-            question_index: 0,
+            question_index: -1
         }
     }
 
@@ -82,13 +82,14 @@ impl Answer {
         let mut rng = rand::thread_rng();
         let mut random_num = rng.gen_range(0..questions_list.len());
         while random_num as i32 == self.question_index {
-            random_num = rng.gen_range(0..1);
+            random_num = rng.gen_range(0..questions_list.len());
         }
 
         for (cnt, i) in questions_list.iter().enumerate() {
             if cnt == random_num {
                 self.answered = false;
                 self.correct_answer = (*i.question_answer).to_string();
+                self.question_index = cnt as i32;
                 *question = i.question_text.to_string();
                 break;
             }
@@ -98,7 +99,7 @@ impl Answer {
         let mut new_file =
             File::create("src/answer_status.json").expect("Error at creating new file");
         new_file
-            .write_all(&new_answer_status.as_bytes())
+            .write_all(new_answer_status.as_bytes())
             .expect("Error at writing new data into file");
         Ok(())
     }
@@ -366,7 +367,7 @@ impl EventHandler for Handler {
                     answer_check
                         .current_status()
                         .expect("Error at reading from file!");
-                    if answer_check.answered == true && ok == true {
+                    if answer_check.answered && ok {
                         let mut congrats_message = String::from("@");
                         congrats_message += &answer_check.who_answered;
                         congrats_message += " has answered correctly!";
@@ -382,7 +383,7 @@ impl EventHandler for Handler {
                         println!("Error sending respons to the answer: {:?}", why);
                     }
                     if cnt == 3600 {
-                        if ok == false {
+                        if !ok {
                             answer_check
                                 .change_answer(&mut question)
                                 .expect("Error at function change answer!");

@@ -6,5 +6,301 @@
     {
         "question_text": "What is the name of the artificial life form with Rory's memories?",
         "question_answer": "Auton"
+    },
+    {
+        "question_text": "What animal head do the 'Judoon' have?",
+        "question_answer": "Rhino"
+    },
+    {
+        "question_text": "What condiment can be used to dispose of the Slitheen?",
+        "question_answer": "Vinegar"
+    },
+    {
+        "question_text": "What is the name of the alien life form that concealed itself in television signals?",
+        "question_answer": "The Wire"
+    },
+    {
+        "question_text": "Who was the leader of the monks that gave refuge to a werewolf?",
+        "question_answer": "Father Angelo"
+    },
+    {
+        "question_text": "What's the name of the human form of the Abzorbaloff?",
+        "question_answer": "Victor Kennedy"
+    },
+    {
+        "question_text": "Who accidently released a plague into 1942 London?",
+        "question_answer": "Jack Harkness"
+    },
+    {
+        "question_text": "During the 'Dalek Civil War', what was the name of Davros' followers?",
+        "question_answer": "Imperial Daleks"
+    },
+    {
+        "question_text": "Near what monument is the 'Pandorica' stored?",
+        "question_answer": "Stonehenge"
+    },
+    {
+        "question_text": "In which US state was The Doctor killed in a lake?",
+        "question_answer": "Utah"
+    },
+    {
+        "question_text": "The first foreign location shoot for the show was in which European city?",
+        "question_answer": "Paris"
+    },
+    {
+        "question_text": "Where did the human form of the Abzorbaloff carry his limitation field?",
+        "question_answer": "Cane"
+    },
+    {
+        "question_text": "The hospital where Martha Jones worked was teleported where?",
+        "question_answer": "The Moon"
+    },
+    {
+        "question_text": "Where did The Doctor encounter the last surviving member of the Slitheen family?",
+        "question_answer": "Wales"
+    },
+    {
+        "question_text": "What is the name of the space station that The Doctor takes Rose to?",
+        "question_answer": "Platform One"
+    },
+    {
+        "question_text": "What's the name of the underground organization that Mickey joins?",
+        "question_answer": "The Preachers"
+    },
+    {
+        "question_text": "Who created the Torchwood Institute?",
+        "question_answer": "Queen Victoria"
+    },
+    {
+        "question_text": "What is the name of the company that created the 'Cybermen'?",
+        "question_answer": "Cybus Industries"
+    },
+    {
+        "question_text": "What is the name of the prison that River Song is serving in?",
+        "question_answer": "Stormgate"
+    },
+    {
+       "question_text": "Which 'Doctor Who' actor has, uniquely, also appeared in 'Star Trek' and 'Star Wars'?",
+       "question_answer": "Deep Roy" 
+    },
+    {
+        "question_text": "How many consecutive life sentences is River Song serving?",
+        "question_answer": "12000"
+    },
+    {
+       "question_text": "How does The Doctor save Rose from being killed by harboring the time vortex?",
+       "question_answer": "Kisses her" 
+    },
+    {
+        "question_text": "Which actor refused to film the death of his incarnation?",
+        "question_answer": "Colin Baker"
+    },
+    {
+        "question_text": "Which comedian stars in two episodes as Craig Owens?",
+        "question_answer": "James Corden"
+    },
+    {
+        "question_text": "Which companion has met the most incarnations of The Doctor on screen, as of 2012?",
+        "question_answer": "Sarah Jane" 
+    },
+    {
+        "question_text": "Which companion does The Doctor take to see her father's death?",
+        "question_answer": "Rose"
+    },
+    {
+        "question_text": "Which companion makes her first appearance wearing a wedding dress?",
+        "question_answer": "Donna Noble"
+    },
+    {
+        "question_text": "Who portrayed the War Doctor incarnation?",
+        "question_answer": "John Hurt"
+    },
+    {
+        "question_text": "What is Amy Pond's middle name?",
+        "question_answer": "Jessica"
+    },
+    {
+        "question_text": "What is The Doctor's name when he is in human form?",
+        "question_answer": "John Smith"
+    },
+    {
+        "question_text": "What planet does The Doctor come from?",
+        "question_answer": "Gallifrey"
+    },
+    {
+        "question_text": "At what age must Gallifreyans look into the time vortex as initiation to the academy?",
+        "question_answer": "8"
+    },
+    {
+        "question_text": "What species is The Doctor?",
+        "question_answer": "Time Lord"
+    },
+    {
+        "question_text": "Who portrayed the tenth incarnation of The Doctor?",
+        "question_answer": "David Tennant"
+    },
+    {
+        "question_text": "Who portrayed the twelfth incarnation of The Doctor?",
+        "question_answer": "Peter Capaldi"
+    },
+    {
+        "question_text": "Who portrayed the sixth incarnation of The Doctor?",
+        "question_answer": "Colin Baker"
+    },
+    {
+        "question_text": "Who portrayed the fifth incarnation of The Doctor?",
+        "question_answer": "Peter Davison"
+    },
+    {
+        "question_text": "Who portrayed the third incarnation of The Doctor?",
+        "question_answer": "Jon Pertwee"
+    },
+    {
+        "question_text": "Who portrayed the eighth incarnation of The Doctor?",
+        "question_answer": "Paul McGann"
+    },
+    {
+        "question_text": "Who portrayed the ninth incarnation of The Doctor?",
+        "question_answer": "Christopher Eccleston"
+    },
+    {
+        "question_text": "Who portrayed the eleventh incarnation of The Doctor?",
+        "question_answer": "Matt Smith"
+    },
+    {
+        "question_text": "Who portrayed the seventh incarnation of The Doctor?",
+        "question_answer": "Sylvester McCoy"
+    },
+    {
+       "question_text": "Who portrayed the first incarnation of The Doctor?",
+       "question_answer": "William Hartnell" 
+    },
+    {
+        "question_text": "Who portrayed the fourth incarnation of The Doctor?",
+        "question_answer": "Tom Baker"
+    },
+    {
+        "question_text": "Who portrayed the second incarnation of The Doctor?",
+        "question_answer":"Patrick Troughton"
+    },
+    {
+        "question_text": "Which singer appeared in one episode of the TV show 'Doctor Who' as a companion?",
+        "question_answer": "Kylie Minogue"
+    },
+    {
+        "question_text": "Which companion has her own spin-off series?",
+        "question_answer": "Sarah Jane Smith"
+    },
+    {
+        "question_text": "Prior to becoming The Doctor in 'Doctor Who', on which TV show did Peter Capaldi become well known?",
+        "question_answer": "The Thick of It"
+    },
+    {
+        "question_text": "Which actress appeared in the show as Gwyneth, then later in 'Torchwood' as Gwen?",
+        "question_answer": "Eve Myles"
+    },
+    {
+        "question_text": "Which 'Blue Peter' presenter has played the role of The Doctor's companion?",
+        "question_answer": "Peter Purves"
+    },
+    {
+        "question_text": "Which of these is the name of a gadget used by The Doctor?",
+        "question_answer": "Sonic Screwdriver"
+    },
+    {
+        "question_text": "What color is Dalek Caan?",
+        "question_answer": "Bronze"
+    },
+    {
+        "question_text": "What is the name of The Doctor's space ship?",
+        "question_answer": "TARDIS"
+    },
+    {
+        "question_text": "What is the name of the iconic dog from the show?",
+        "question_answer": "K-9"
+    },
+    {
+        "question_text": "What is the name of The Doctor's oldest villains?",
+        "question_answer": "Daleks"
+    },
+    {
+        "question_text": "The 'Sisters of Plenitude' resemble what animal?",
+        "question_answer": "Cat"
+    },
+    {
+        "question_text": "Which of these is the name of a slave race?",
+        "question_answer": "Ood"
+    },
+    {
+        "question_text": "Which artist does The Doctor have a brief encounter with?",
+        "question_answer": "Vincent van Gogh"
+    },
+    {
+        "question_text": "Who is the Prime Minister who The Doctor brings down with six words?",
+        "question_answer": "Harriet Jones"
+    },
+    {
+        "question_text": "Which TV presenter has inadvertently interrupted two episodes of 'Doctor Who'?",
+        "question_answer": "Graham Norton"
+    },
+    {
+        "question_text": "Which famous author do The Doctor and Rose team up with?",
+        "question_answer": "Charles Dickens"
+    },
+    {
+        "question_text": "What is the great secret the Face of Boe reveals to the Doctor?",
+        "question_answer": "You are not alone"
+    },
+    {
+       "question_text": "Scary scenes in 'Doctor Who' are associated with hiding behind what?",
+       "question_answer": "Sofa" 
+    },
+    {
+        "question_text": "How many episodes of the show has Time Agent Captain Jack Harkness appeared in?",
+        "question_answer": "11"
+    },
+    {
+        "question_text": "How many times will Wilfred Mott knock according to the prophecy?",
+        "question_answer": "4"
+    },
+    {
+        "question_text": "In the episode 'Blink', in what year were The Doctor and Martha trapped?",
+        "question_answer": "1969"
+    },
+    {
+        "question_text": "In what year did Peter Capaldi appear in an episode of 'Doctor Who', before being announced as the new Doctor",
+        "question_answer": "2008"
+    },
+    {
+        "question_text": "Which city does The Doctor take Martha on her first trip?",
+        "question_answer": "London"
+    },
+    {
+        "question_text": "Who created the original theme music for the TV show 'Doctor Who'?",
+        "question_answer": "Ron Grainer"
+    },
+    {
+        "question_text": "Which companion sent secrets of the future back to Earth?",
+        "question_answer": "Adam Mitchell"
+    },
+    {
+        "question_text": "What is the name of the Prime Minister that is revealed to be an alien?",
+        "question_answer": "Joseph Green"
+    },
+    {
+        "question_text": "How did professor Richard Lazarus die?",
+        "question_answer": "Fell from bell tower"
+    },
+    {
+        "question_text": "Whose version of The Doctor liked to play a recorder?",
+        "question_answer": "Patrick Troughton"
+    },
+    {
+        "question_text": "What is the name of Amy Pond's imaginary friend?",
+        "question_answer": "Raggedy Doctor"
+    },
+    {
+        "question_text": "Who knitted Tom Baker's scarf?",
+        "question_answer": "Madame Nostradamus"
     }
 ]
