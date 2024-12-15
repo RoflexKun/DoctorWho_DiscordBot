@@ -50,18 +50,17 @@ struct Answer {
     correct_answer: String,
     who_answered: String,
     question_index: i32,
+    user_id: String
 }
 
 impl Answer {
-    // o functie de adaugare un nou raspuns
-    // o functie de verificare raspuns
-    // o functie de afisare(?)
     fn new() -> Self {
         Answer {
             answered: false,
             correct_answer: String::new(),
             who_answered: String::new(),
-            question_index: -1
+            question_index: -1,
+            user_id: String::new()
         }
     }
 
@@ -104,9 +103,10 @@ impl Answer {
         Ok(())
     }
 
-    fn question_answered(&mut self, username: String) -> Result<(), io::Error> {
+    fn question_answered(&mut self, username: String, user_id: String) -> Result<(), io::Error> {
         self.answered = true;
         self.who_answered = username;
+        self.user_id = user_id;
         let temp_answer = self.clone();
         let new_answer_status =
             serde_json::to_string_pretty(&temp_answer).expect("Error at converting to String");
@@ -251,12 +251,25 @@ impl EventHandler for Handler {
             }
         } else if msg.content == answer_check.correct_answer {
             answer_check
-                .question_answered(msg.author.name)
+                .question_answered(msg.author.name, msg.author.id.to_string())
                 .expect("Error at modifying the file");
         }
-        let first_space = msg.content.find(" ").unwrap();
-        let command = &msg.content[..first_space];
-        let command_input = &msg.content[first_space + 1..];
+        let first_space = msg.content.find(" ");
+        let command: &str;
+        let command_input: &str;
+        match first_space 
+        {
+            Some(space_index) =>
+            {
+                command = &msg.content[..space_index];
+                command_input = &msg.content[space_index + 1..];
+            }
+            None => {
+                command = "";
+                command_input = "";
+            }
+        }
+        
         match command {
             "+episode:" => {
                 let mut found = false;
@@ -368,8 +381,9 @@ impl EventHandler for Handler {
                         .current_status()
                         .expect("Error at reading from file!");
                     if answer_check.answered && ok {
-                        let mut congrats_message = String::from("@");
-                        congrats_message += &answer_check.who_answered;
+                        let mut congrats_message = String::from("<@");
+                        congrats_message += &answer_check.user_id;
+                        congrats_message +="> ";
                         congrats_message += " has answered correctly!";
                         if let Err(why) = channel_id.say(&ctx.http, congrats_message).await {
                             println!("Error sending respons to the answer: {:?}", why);
