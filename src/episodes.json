@@ -2838,6 +2838,582 @@
         "episode": "26",
         "rating": "8.1",
         "airdate": "23.6.1973"
+    },
+    {
+        "title": "The Time Warrior: Part One",
+        "runtime": "24 minutes",
+        "season": "11",
+        "episode": "1",
+        "rating": "7.9",
+        "airdate": "15.12.1973"
+    },
+    {
+        "title": "The Time Warrior: Part Two",
+        "runtime": "24 minutes",
+        "season": "11",
+        "episode": "2",
+        "rating": "7.9",
+        "airdate": "22.12.1973"
+    },
+    {
+        "title": "The Time Warrior: Part Three",
+        "runtime": "24 minutes",
+        "season": "11",
+        "episode": "3",
+        "rating": "7.9",
+        "airdate": "29.12.1973"
+    },
+    {
+        "title": "The Time Warrior: Part Four",
+        "runtime": "25 minutes",
+        "season": "11",
+        "episode": "4",
+        "rating": "7.9",
+        "airdate": "5.1.1974"
+    },
+    {
+        "title": "Invasion: Part One",
+        "runtime": "26 minutes",
+        "season": "11",
+        "episode": "5",
+        "rating": "7.6",
+        "airdate": "12.1.1974"
+    },
+    {
+        "title": "Invasion of the Dinosaurs: Part Two",
+        "runtime": "25 minutes",
+        "season": "11",
+        "episode": "6",
+        "rating": "7.3",
+        "airdate": "19.1.1974"
+    },
+    {
+        "title": "Invasion of the Dinosaurs: Part Three",
+        "runtime": "23 minutes",
+        "season": "11",
+        "episode": "7",
+        "rating": "7.3",
+        "airdate": "26.1.1974"
+    },
+    {
+        "title": "Invasion of the Dinosaurs: Part Four",
+        "runtime": "24 minutes",
+        "season": "11",
+        "episode": "8",
+        "rating": "7.3",
+        "airdate": "2.2.1974"
+    },
+    {
+        "title": "Invasion of the Dinosaurs: Part Five",
+        "runtime": "25 minutes",
+        "season": "11",
+        "episode": "9",
+        "rating": "7.3",
+        "airdate": "9.2.1974"
+    },
+    {
+        "title": "Invasion of the Dinosaurs: Part Six",
+        "runtime": "26 minutes",
+        "season": "11",
+        "episode": "10",
+        "rating": "7.4",
+        "airdate": "16.2.1974"
+    },
+    {
+        "title": "Death of the Daleks: Part One",
+        "runtime": "25 minutes",
+        "season": "11",
+        "episode": "11",
+        "rating": "7.2",
+        "airdate": "23.2.1974"
+    },
+    {
+        "title": "Death of the Daleks: Part Two",
+        "runtime": "24 minutes",
+        "season": "11",
+        "episode": "12",
+        "rating": "7.1",
+        "airdate": "2.3.1974"
+    },
+    {
+        "title": "Death of the Daleks: Part Three",
+        "runtime": "24 minutes",
+        "season": "11",
+        "episode": "13",
+        "rating": "7.2",
+        "airdate": "9.3.1974"
+    },
+    {
+        "title": "Death of the Daleks: Part Four",
+        "runtime": "25 minutes",
+        "season": "11",
+        "episode": "14",
+        "rating": "7.1",
+        "airdate": "16.3.1974"
+    },
+    {
+        "title": "The Monster of Peladon: Part One",
+        "runtime": "25 minutes",
+        "season": "11",
+        "episode": "15",
+        "rating": "6.6",
+        "airdate": "23.3.1974"
+    },
+    {
+        "title": "The Monster of Peladon: Part Two",
+        "runtime": "24 minutes",
+        "season": "11",
+        "episode": "16",
+        "rating": "6.5",
+        "airdate": "30.3.1974"
+    },
+    {
+        "title": "The Monster of Peladon: Part Three",
+        "runtime": "25 minutes",
+        "season": "11",
+        "episode": "17",
+        "rating": "6.5",
+        "airdate": "6.4.1974"
+    },
+    {
+        "title": "The Monster of Peladon: Part Four",
+        "runtime": "25 minutes",
+        "season": "11",
+        "episode": "18",
+        "rating": "6.6",
+        "airdate": "13.4.1974"
+    },
+    {
+        "title": "The Monster of Peladon: Part Five",
+        "runtime": "24 minutes",
+        "season": "11",
+        "episode": "19",
+        "rating": "6.6",
+        "airdate": "20.4.1974"
+    },
+    {
+        "title": "The Monster of Peladon: Part Six",
+        "runtime": "24 minutes",
+        "season": "11",
+        "episode": "20",
+        "rating": "6.6",
+        "airdate": "27.4.1974"
+    },
+    {
+        "title": "Planet of the Spiders: Part One",
+        "runtime": "25 minutes",
+        "season": "11",
+        "episode": "21",
+        "rating": "7.5",
+        "airdate": "4.5.1974"
+    },
+    {
+        "title": "Planet of the Spiders: Part Two",
+        "runtime": "25 minutes",
+        "season": "11",
+        "episode": "22",
+        "rating": "7.3",
+        "airdate": "11.5.1974"
+    },
+    {
+        "title": "Planet of the Spiders: Part Three",
+        "runtime": "25 minutes",
+        "season": "11",
+        "episode": "23",
+        "rating": "7.3",
+        "airdate": "18.5.1974"
+    },
+    {
+        "title": "Planet of the Spiders: Part Four",
+        "runtime": "24 minutes",
+        "season": "11",
+        "episode": "24",
+        "rating": "7.3",
+        "airdate": "25.5.1974"
+    },
+    {
+        "title": "Planet of the Spiders: Part Five",
+        "runtime": "24 minutes",
+        "season": "11",
+        "episode": "25",
+        "rating": "7.4",
+        "airdate": "1.6.1974"
+    },
+    {
+        "title": "Planet of the Spiders: Part Six",
+        "runtime": "25 minutes",
+        "season": "11",
+        "episode": "26",
+        "rating": "8.1",
+        "airdate": "8.6.1974"
+    },
+    {
+        "title": "Robot: Part One",
+        "runtime": "24 minutes",
+        "season": "12",
+        "episode": "1",
+        "rating": "7.6",
+        "airdate": "28.12.1974"
+    },
+    {
+        "title": "Robot: Part Two",
+        "runtime": "25 minutes",
+        "season": "12",
+        "episode": "2",
+        "rating": "7.3",
+        "airdate": "4.1.1975"
+    },
+    {
+        "title": "Robot: Part Three",
+        "runtime": "24 minutes",
+        "season": "12",
+        "episode": "3",
+        "rating": "7.2",
+        "airdate": "11.1.1975"
+    },
+    {
+        "title": "Robot: Part Four",
+        "runtime": "24 minutes",
+        "season": "12",
+        "episode": "4",
+        "rating": "7.2",
+        "airdate": "18.1.1975"
+    },
+    {
+        "title": "The Ark in Space: Part One",
+        "runtime": "25 minutes",
+        "season": "12",
+        "episode": "5",
+        "rating": "8.1",
+        "airdate": "25.1.1975"
+    },
+    {
+        "title": "The Ark in Space: Part Two",
+        "runtime": "25 minutes",
+        "season": "12",
+        "episode": "6",
+        "rating": "8.1",
+        "airdate": "1.2.1975"
+    },
+    {
+        "title": "The Ark in Space: Part Three",
+        "runtime": "24 minutes",
+        "season": "12",
+        "episode": "7",
+        "rating": "8.0",
+        "airdate": "8.2.1975"
+    },
+    {
+        "title": "The Ark in Space: Part Four",
+        "runtime": "25 minutes",
+        "season": "12",
+        "episode": "8",
+        "rating": "8.1",
+        "airdate": "15.2.1975"
+    },
+    {
+        "title": "The Sontaran Experiment: Part One",
+        "runtime": "24 minutes",
+        "season": "12",
+        "episode": "9",
+        "rating": "7.2",
+        "airdate": "22.2.1975"
+    },
+    {
+        "title": "The Sontaran Experiment: Part Two",
+        "runtime": "25 minutes",
+        "season": "12",
+        "episode": "10",
+        "rating": "7.2",
+        "airdate": "1.3.1975"
+    },
+    {
+        "title": "Genesis of the Daleks: Part One",
+        "runtime": "24 minutes",
+        "season": "12",
+        "episode": "11",
+        "rating": "9.0",
+        "airdate": "8.3.1975"
+    },
+    {
+        "title": "Genesis of the Daleks: Part Two",
+        "runtime": "25 minutes",
+        "season": "12",
+        "episode": "12",
+        "rating": "8.8",
+        "airdate": "15.3.1975"
+    },
+    {
+        "title": "Genesis of the Daleks: Part Three",
+        "runtime": "23 minutes",
+        "season": "12",
+        "episode": "13",
+        "rating": "8.7",
+        "airdate": "22.3.1975"
+    },
+    {
+        "title": "Genesis of the Daleks: Part Four",
+        "runtime": "24 minutes",
+        "season": "12",
+        "episode": "14",
+        "rating": "8.9",
+        "airdate": "29.3.1975"
+    },
+    {
+        "title": "Genesis of the Daleks: Part Five",
+        "runtime": "23 minutes",
+        "season": "12",
+        "episode": "15",
+        "rating": "8.9",
+        "airdate": "5.4.1975"
+    },
+    {
+        "title": "Genesis of the Daleks: Part Six",
+        "runtime": "24 minutes",
+        "season": "12",
+        "episode": "16",
+        "rating": "9.1",
+        "airdate": "12.4.1975"
+    },
+    {
+        "title": "Revenge of the Cyberman: Part One",
+        "runtime": "24 minutes",
+        "season": "12",
+        "episode": "17",
+        "rating": "7.1",
+        "airdate": "19.4.1975"
+    },
+    {
+        "title": "Revenge of the Cyberman: Part Two",
+        "runtime": "24 minutes",
+        "season": "12",
+        "episode": "18",
+        "rating": "6.9",
+        "airdate": "26.4.1975"
+    },
+    {
+        "title": "Revenge of the Cyberman: Part Three",
+        "runtime": "25 minutes",
+        "season": "12",
+        "episode": "19",
+        "rating": "6.9",
+        "airdate": "3.5.1975"
+    },
+    {
+        "title": "Revenge of the Cyberman: Part Four",
+        "runtime": "23 minutes",
+        "season": "12",
+        "episode": "20",
+        "rating": "7.0",
+        "airdate": "10.5.1975"
+    },
+    {
+        "title": "Terror of the Zygons: Part One",
+        "runtime": "22 minutes",
+        "season": "13",
+        "episode": "1",
+        "rating": "8.1",
+        "airdate": "30.8.1975"
+    },
+    {
+        "title": "Terror of the Zygons: Part Two",
+        "runtime": "25 minutes",
+        "season": "13",
+        "episode": "2",
+        "rating": "8.1",
+        "airdate": "6.9.1975"
+    },
+    {
+        "title": "Terror of the Zygons: Part Three",
+        "runtime": "24 minutes",
+        "season": "13",
+        "episode": "3",
+        "rating": "8.0",
+        "airdate": "13.9.1975"
+    },
+    {
+        "title": "Terror of the Zygons: Part Four",
+        "runtime": "25 minutes",
+        "season": "13",
+        "episode": "4",
+        "rating": "8.0",
+        "airdate": "20.9.1975"
+    },
+    {
+        "title": "Planet of Evil: Part One",
+        "runtime": "24 minutes",
+        "season": "13",
+        "episode": "5",
+        "rating": "7.4",
+        "airdate": "27.9.1975"
+    },
+    {
+        "title": "Planet of Evil: Part Two",
+        "runtime": "22 minutes",
+        "season": "13",
+        "episode": "6",
+        "rating": "7.3",
+        "airdate": "4.10.1975"
+    },
+    {
+        "title": "Planet of Evil: Part Three",
+        "runtime": "24 minutes",
+        "season": "13",
+        "episode": "7",
+        "rating": "7.3",
+        "airdate": "11.10.1975"
+    },
+    {
+        "title": "Planet of Evil: Part Four",
+        "runtime": "24 minutes",
+        "season": "13",
+        "episode": "8",
+        "rating": "7.2",
+        "airdate": "18.10.1975"
+    },
+    {
+        "title": "Pyramids of Mars: Part One",
+        "runtime": "25 minutes",
+        "season": "13",
+        "episode": "9",
+        "rating": "8.4",
+        "airdate": "25.10.1975"
+    },
+    {
+        "title": "Pyramids of Mars: Part Two",
+        "runtime": "24 minutes",
+        "season": "13",
+        "episode": "10",
+        "rating": "8.3",
+        "airdate": "1.11.1975"
+    },
+    {
+        "title": "Pyramids of Mars: Part Three",
+        "runtime": "25 minutes",
+        "season": "13",
+        "episode": "11",
+        "rating": "8.3",
+        "airdate": "8.11.1975"
+    },
+    {
+        "title": "Pyramids of Mars: Part Four",
+        "runtime": "25 minutes",
+        "season": "13",
+        "episode": "12",
+        "rating": "8.5",
+        "airdate": "15.11.1975"
+    },
+    {
+        "title": "The Android Invasion: Part One",
+        "runtime": "24 minutes",
+        "season": "13",
+        "episode": "13",
+        "rating": "7.5",
+        "airdate": "22.11.1975"
+    },
+    {
+        "title": "The Android Invasion: Part Two",
+        "runtime": "24 minutes",
+        "season": "13",
+        "episode": "14",
+        "rating": "7.4",
+        "airdate": "29.11.1975"
+    },
+    {
+        "title": "The Android Invasion: Part Three",
+        "runtime": "25 minutes",
+        "season": "13",
+        "episode": "15",
+        "rating": "7.2",
+        "airdate": "6.12.1975"
+    },
+    {
+        "title": "The Android Invasion: Part Four",
+        "runtime": "24 minutes",
+        "season": "13",
+        "episode": "16",
+        "rating": "7.1",
+        "airdate": "13.12.1975"
+    },
+    {
+        "title": "The Brain of Morbius: Part One",
+        "runtime": "25 minutes",
+        "season": "13",
+        "episode": "17",
+        "rating": "8.2",
+        "airdate": "3.1.1976"
+    },
+    {
+        "title": "The Brain of Morbius: Part Two",
+        "runtime": "25 minutes",
+        "season": "13",
+        "episode": "18",
+        "rating": "8.2",
+        "airdate": "10.1.1976"
+    },
+    {
+        "title": "The Brain of Morbius: Part Three",
+        "runtime": "25 minutes",
+        "season": "13",
+        "episode": "19",
+        "rating": "8.2",
+        "airdate": "17.1.1976"
+    },
+    {
+        "title": "The Brain of Morbius: Part Four",
+        "runtime": "24 minutes",
+        "season": "13",
+        "episode": "20",
+        "rating": "8.2",
+        "airdate": "24.1.1976"
+    },
+    {
+        "title": "The Seeds of Doom: Part One",
+        "runtime": "24 minutes",
+        "season": "13",
+        "episode": "21",
+        "rating": "8.5",
+        "airdate": "31.1.1976"
+    },
+    {
+        "title": "The Seeds of Doom: Part Two",
+        "runtime": "24 minutes",
+        "season": "13",
+        "episode": "22",
+        "rating": "8.4",
+        "airdate": "7.2.1976"
+    },
+    {
+        "title": "The Seeds of Doom: Part Three",
+        "runtime": "25 minutes",
+        "season": "13",
+        "episode": "23",
+        "rating": "8.4",
+        "airdate": "14.2.1976"
+    },
+    {
+        "title": "The Seeds of Doom: Part Four",
+        "runtime": "24 minutes",
+        "season": "13",
+        "episode": "24",
+        "rating": "8.4",
+        "airdate": "21.2.1976"
+    },
+    {
+        "title": "The Seeds of Doom: Part Five",
+        "runtime": "25 minutes",
+        "season": "13",
+        "episode": "25",
+        "rating": "8.4",
+        "airdate": "28.2.1976"
+    },
+    {
+        "title": "The Seeds of Doom: Part Six",
+        "runtime": "22 minutes",
+        "season": "13",
+        "episode": "26",
+        "rating": "8.5",
+        "airdate": "6.3.1976"
     }
 
 

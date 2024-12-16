@@ -322,7 +322,17 @@ impl EventHandler for Handler {
                              }
             }
             "+doctor:" => {
-                let doctor_number: i32 = command_input.parse().unwrap();
+                let doctor_number: i32 = match  command_input.parse::<i32>().is_ok(){
+                    true =>
+                    {
+                        command_input.parse().unwrap()
+                    }
+                    false =>
+                    {
+                       -1
+                    }
+                };
+                
                 if (1..=15).contains(&doctor_number) {
                     let mut photo_path = String::from(
                         "C:/Users/Razvan/Desktop/K9_Rust_Project/main/doctor_who_pictures/",
@@ -345,7 +355,7 @@ impl EventHandler for Handler {
                     .channel_id
                     .say(
                         &ctx.http,
-                        "There are only 15 doctors, 1 through 15, try again!",
+                        "You have entered an invalid output, try a number from 1 to 15",
                     )
                     .await
                 {
