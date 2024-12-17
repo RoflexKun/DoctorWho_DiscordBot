@@ -3414,6 +3414,358 @@
         "episode": "26",
         "rating": "8.5",
         "airdate": "6.3.1976"
+    },
+    {
+        "title": "The Masque of Mandragora: Part One",
+        "runtime": "25 minutes",
+        "season": "14",
+        "episode": "1",
+        "rating": "7.4",
+        "airdate": "4.9.1976"
+    },
+    {
+        "title": "The Masque of Mandragora: Part Two",
+        "runtime": "25 minutes",
+        "season": "14",
+        "episode": "2",
+        "rating": "7.3",
+        "airdate": "11.9.1976"
+    },
+    {
+        "title": "The Masque of Mandragora: Part Three",
+        "runtime": "25 minutes",
+        "season": "14",
+        "episode": "3",
+        "rating": "7.2",
+        "airdate": "18.9.1976"
+    },
+    {
+        "title": "The Masque of Mandragora: Part Four",
+        "runtime": "25 minutes",
+        "season": "14",
+        "episode": "4",
+        "rating": "7.3",
+        "airdate": "25.9.1976"
+    },
+    {
+        "title": "The Hand of Fear: Part One",
+        "runtime": "25 minutes",
+        "season": "14",
+        "episode": "5",
+        "rating": "7.6",
+        "airdate": "2.10.1976"
+    },
+    {
+        "title": "The Hand of Fear: Part Two",
+        "runtime": "25 minutes",
+        "season": "14",
+        "episode": "6",
+        "rating": "7.6",
+        "airdate": "9.10.1976"
+    },
+    {
+        "title": "The Hand of Fear: Part Three",
+        "runtime": "24 minutes",
+        "season": "14",
+        "episode": "7",
+        "rating": "7.7",
+        "airdate": "16.10.1976"
+    },
+    {
+        "title": "The Hand of Fear: Part Four",
+        "runtime": "25 minutes",
+        "season": "14",
+        "episode": "8",
+        "rating": "7.8",
+        "airdate": "23.10.1976"
+    },
+    {
+        "title": "The Deadly Assassin: Part One",
+        "runtime": "21 minutes",
+        "season": "14",
+        "episode": "9",
+        "rating": "8.3",
+        "airdate": "30.10.1976"
+    },
+    {
+        "title": "The Deadly Assassin: Part Twp",
+        "runtime": "25 minutes",
+        "season": "14",
+        "episode": "10",
+        "rating": "8.3",
+        "airdate": "6.11.1976"
+    },
+    {
+        "title": "The Deadly Assassin: Part Three",
+        "runtime": "24 minutes",
+        "season": "14",
+        "episode": "11",
+        "rating": "8.2",
+        "airdate": "13.11.1976"
+    },
+    {
+        "title": "The Deadly Assassin: Part Four",
+        "runtime": "24 minutes",
+        "season": "14",
+        "episode": "12",
+        "rating": "8.3",
+        "airdate": "20.11.1976"
+    },
+    {
+        "title": "The Face of Evil: Part One",
+        "runtime": "25 minutes",
+        "season": "14",
+        "episode": "13",
+        "rating": "7.6",
+        "airdate": "1.1.1977"
+    },
+    {
+        "title": "The Face of Evil: Part Two",
+        "runtime": "25 minutes",
+        "season": "14",
+        "episode": "14",
+        "rating": "7.5",
+        "airdate": "8.1.1977"
+    },
+    {
+        "title": "The Face of Evil: Part Three",
+        "runtime": "25 minutes",
+        "season": "14",
+        "episode": "15",
+        "rating": "7.5",
+        "airdate": "15.1.1977"
+    },
+    {
+        "title": "The Face of Evil: Part Four",
+        "runtime": "25 minutes",
+        "season": "14",
+        "episode": "16",
+        "rating": "7.4",
+        "airdate": "22.1.1977"
+    },
+    {
+        "title": "The Robots of Death: Part One",
+        "runtime": "24 minutes",
+        "season": "14",
+        "episode": "17",
+        "rating": "8.3",
+        "airdate": "29.1.1977"
+    },
+    {
+        "title": "The Robots of Death: Part Two",
+        "runtime": "24 minutes",
+        "season": "14",
+        "episode": "18",
+        "rating": "8.4",
+        "airdate": "5.2.1977"
+    },
+    {
+        "title": "The Robots of Death: Part Three",
+        "runtime": "24 minutes",
+        "season": "14",
+        "episode": "19",
+        "rating": "8.4",
+        "airdate": "12.2.1977"
+    },
+    {
+        "title": "The Robots of Death: Part Four",
+        "runtime": "24 minutes",
+        "season": "14",
+        "episode": "20",
+        "rating": "8.4",
+        "airdate": "19.2.1977"
+    },
+    {
+        "title": "The Talons of Weng-Chiang: Part One",
+        "runtime": "25 minutes",
+        "season": "14",
+        "episode": "21",
+        "rating": "8.6",
+        "airdate": "26.2.1977"
+    },
+    {
+        "title": "The Talons of Weng-Chiang: Part One",
+        "runtime": "25 minutes",
+        "season": "14",
+        "episode": "21",
+        "rating": "8.6",
+        "airdate": "26.2.1977"
+    },
+    {
+        "title": "The Talons of Weng-Chiang: Part Two",
+        "runtime": "25 minutes",
+        "season": "14",
+        "episode": "22",
+        "rating": "8.4",
+        "airdate": "5.3.1977"
+    },
+    {
+        "title": "The Talons of Weng-Chiang: Part Three",
+        "runtime": "22 minutes",
+        "season": "14",
+        "episode": "23",
+        "rating": "8.4",
+        "airdate": "12.3.1977"
+    },
+    {
+        "title": "The Talons of Weng-Chiang: Part Four",
+        "runtime": "25 minutes",
+        "season": "14",
+        "episode": "24",
+        "rating": "8.5",
+        "airdate": "19.3.1977"
+    },
+    {
+        "title": "The Talons of Weng-Chiang: Part Five",
+        "runtime": "25 minutes",
+        "season": "14",
+        "episode": "25",
+        "rating": "8.4",
+        "airdate": "26.3.1977"
+    },
+    {
+        "title": "The Talons of Weng-Chiang: Part Six",
+        "runtime": "25 minutes",
+        "season": "14",
+        "episode": "26",
+        "rating": "8.5",
+        "airdate": "2.4.1977"
+    },
+    {
+        "title": "Horror of Fang Rock: Part One",
+        "runtime": "25 minutes",
+        "season": "15",
+        "episode": "1",
+        "rating": "8.1",
+        "airdate": "3.9.1977"
+    },
+    {
+        "title": "Horror of Fang Rock: Part Two",
+        "runtime": "24 minutes",
+        "season": "15",
+        "episode": "2",
+        "rating": "8.0",
+        "airdate": "10.9.1977"
+    },
+    {
+        "title": "Horror of Fang Rock: Part Three",
+        "runtime": "23 minutes",
+        "season": "15",
+        "episode": "3",
+        "rating": "8.0",
+        "airdate": "17.9.1977"
+    },
+    {
+        "title": "Horror of Fang Rock: Part Four",
+        "runtime": "24 minutes",
+        "season": "15",
+        "episode": "4",
+        "rating": "8.1",
+        "airdate": "24.9.1977"
+    },
+    {
+        "title": "The Invisible Enemy: Part One",
+        "runtime": "23 minutes",
+        "season": "15",
+        "episode": "5",
+        "rating": "7.1",
+        "airdate": "1.10.1977"
+    },
+    {
+        "title": "The Invisible Enemy: Part Two",
+        "runtime": "25 minutes",
+        "season": "15",
+        "episode": "6",
+        "rating": "7.0",
+        "airdate": "8.10.1977"
+    },
+    {
+        "title": "The Invisible Enemy: Part Three",
+        "runtime": "23 minutes",
+        "season": "15",
+        "episode": "7",
+        "rating": "6.8",
+        "airdate": "15.10.1977"
+    },
+    {
+        "title": "The Invisible Enemy: Part Four",
+        "runtime": "21 minutes",
+        "season": "15",
+        "episode": "8",
+        "rating": "6.7",
+        "airdate": "22.10.1977"
+    },
+    {
+        "title": "Image of the Fendahl: Part One",
+        "runtime": "25 minutes",
+        "season": "15",
+        "episode": "9",
+        "rating": "7.4",
+        "airdate": "29.10.1977"
+    },
+    {
+        "title": "Image of the Fendahl: Part Two",
+        "runtime": "25 minutes",
+        "season": "15",
+        "episode": "10",
+        "rating": "7.3",
+        "airdate": "5.11.1977"
+    },
+    {
+        "title": "Image of the Fendahl: Part Three",
+        "runtime": "25 minutes",
+        "season": "15",
+        "episode": "11",
+        "rating": "7.3",
+        "airdate": "12.11.1977"
+    },
+    {
+        "title": "Image of the Fendahl: Part Four",
+        "runtime": "21 minutes",
+        "season": "15",
+        "episode": "12",
+        "rating": "7.3",
+        "airdate": "19.11.1977"
+    },
+    {
+        "title": "The Sun Makers: Part One",
+        "runtime": "25 minutes",
+        "season": "15",
+        "episode": "13",
+        "rating": "7.6",
+        "airdate": "26.11.1977"
+    },
+    {
+        "title": "The Sun Makers: Part Two",
+        "runtime": "25 minutes",
+        "season": "15",
+        "episode": "14",
+        "rating": "7.5",
+        "airdate": "3.12.1977"
+    },
+    {
+        "title": "The Sun Makers: Part Three",
+        "runtime": "25 minutes",
+        "season": "15",
+        "episode": "15",
+        "rating": "7.5",
+        "airdate": "10.12.1977"
+    },
+    {
+        "title": "The Sun Makers: Part Four",
+        "runtime": "25 minutes",
+        "season": "15",
+        "episode": "16",
+        "rating": "7.5",
+        "airdate": "17.12.1977"
+    },
+    {
+        "title": "Underworld: Part One",
+        "runtime": "23 minutes",
+        "season": "15",
+        "episode": "17",
+        "rating": "6.4",
+        "airdate": "26.11.1977"
     }
 
 
