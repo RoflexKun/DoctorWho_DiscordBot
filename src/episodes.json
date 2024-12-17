@@ -4222,6 +4222,438 @@
         "episode": "20",
         "rating": "6.1",
         "airdate": "12.1.1980"
+    },
+    {
+        "title": "The Leisure Hive: Part One",
+        "runtime": "24 minutes",
+        "season": "18",
+        "episode": "1",
+        "rating": "6.6",
+        "airdate": "30.8.1980"
+    },
+    {
+        "title": "The Leisure Hive: Part Two",
+        "runtime": "21 minutes",
+        "season": "18",
+        "episode": "2",
+        "rating": "6.5",
+        "airdate": "6.9.1980"
+    },
+    {
+        "title": "The Leisure Hive: Part Three",
+        "runtime": "21 minutes",
+        "season": "18",
+        "episode": "3",
+        "rating": "6.5",
+        "airdate": "13.9.1980"
+    },
+    {
+        "title": "The Leisure Hive: Part Four",
+        "runtime": "21 minutes",
+        "season": "18",
+        "episode": "4",
+        "rating": "6.4",
+        "airdate": "20.9.1980"
+    },
+    {
+        "title": "Meglos: Part One",
+        "runtime": "25 minutes",
+        "season": "18",
+        "episode": "5",
+        "rating": "6.5",
+        "airdate": "27.9.1980"
+    },
+    {
+        "title": "Meglos: Part Two",
+        "runtime": "21 minutes",
+        "season": "18",
+        "episode": "6",
+        "rating": "6.5",
+        "airdate": "4.10.1980"
+    },
+    {
+        "title": "Meglos: Part Three",
+        "runtime": "21 minutes",
+        "season": "18",
+        "episode": "7",
+        "rating": "6.3",
+        "airdate": "11.10.1980"
+    },
+    {
+        "title": "Meglos: Part Four",
+        "runtime": "20 minutes",
+        "season": "18",
+        "episode": "8",
+        "rating": "6.3",
+        "airdate": "18.10.1980"
+    },
+    {
+        "title": "Full Circle: Part One",
+        "runtime": "24 minutes",
+        "season": "18",
+        "episode": "9",
+        "rating": "7.2",
+        "airdate": "25.10.1980"
+    },
+    {
+        "title": "Full Circle: Part Two",
+        "runtime": "22 minutes",
+        "season": "18",
+        "episode": "10",
+        "rating": "7.1",
+        "airdate": "1.11.1980"
+    },
+    {
+        "title": "Full Circle: Part Three",
+        "runtime": "22 minutes",
+        "season": "18",
+        "episode": "11",
+        "rating": "7.1",
+        "airdate": "8.11.1980"
+    },
+    {
+        "title": "Full Circle: Part Four",
+        "runtime": "24 minutes",
+        "season": "18",
+        "episode": "12",
+        "rating": "7.1",
+        "airdate": "15.11.1980"
+    },
+    {
+        "title": "State of Decay: Part One",
+        "runtime": "22 minutes",
+        "season": "18",
+        "episode": "13",
+        "rating": "7.5",
+        "airdate": "22.11.1980"
+    },
+    {
+        "title": "State of Decay: Part Two",
+        "runtime": "23 minutes",
+        "season": "18",
+        "episode": "14",
+        "rating": "7.5",
+        "airdate": "29.11.1980"
+    },
+    {
+        "title": "State of Decay: Part Three",
+        "runtime": "24 minutes",
+        "season": "18",
+        "episode": "15",
+        "rating": "7.5",
+        "airdate": "6.12.1980"
+    },
+    {
+        "title": "State of Decay: Part Four",
+        "runtime": "25 minutes",
+        "season": "18",
+        "episode": "16",
+        "rating": "7.5",
+        "airdate": "13.12.1980"
+    },
+    {
+        "title": "Warriors' Gate: Part One",
+        "runtime": "23 minutes",
+        "season": "18",
+        "episode": "17",
+        "rating": "7.3",
+        "airdate": "3.1.1981"
+    },
+    {
+        "title": "Warriors' Gate: Part Two",
+        "runtime": "24 minutes",
+        "season": "18",
+        "episode": "18",
+        "rating": "7.2",
+        "airdate": "10.1.1981"
+    },
+    {
+        "title": "Warriors' Gate: Part Three",
+        "runtime": "22 minutes",
+        "season": "18",
+        "episode": "19",
+        "rating": "7.2",
+        "airdate": "17.1.1981"
+    },
+    {
+        "title": "Warriors' Gate: Part Four",
+        "runtime": "25 minutes",
+        "season": "18",
+        "episode": "20",
+        "rating": "7.1",
+        "airdate": "24.1.1981"
+    },
+    {
+        "title": "The Keeper of Traken: Part One",
+        "runtime": "24 minutes",
+        "season": "18",
+        "episode": "21",
+        "rating": "7.6",
+        "airdate": "31.1.1981"
+    },
+    {
+        "title": "The Keeper of Traken: Part Two",
+        "runtime": "25 minutes",
+        "season": "18",
+        "episode": "22",
+        "rating": "7.5",
+        "airdate": "7.2.1981"
+    },
+    {
+        "title": "The Keeper of Traken: Part Three",
+        "runtime": "24 minutes",
+        "season": "18",
+        "episode": "23",
+        "rating": "7.6",
+        "airdate": "14.2.1981"
+    },
+    {
+        "title": "The Keeper of Traken: Part Four",
+        "runtime": "25 minutes",
+        "season": "18",
+        "episode": "24",
+        "rating": "7.8",
+        "airdate": "21.2.1981"
+    },
+    {
+        "title": "Logopolis: Part One",
+        "runtime": "25 minutes",
+        "season": "18",
+        "episode": "25",
+        "rating": "7.7",
+        "airdate": "28.2.1981"
+    },
+    {
+        "title": "Logopolis: Part Two",
+        "runtime": "24 minutes",
+        "season": "18",
+        "episode": "26",
+        "rating": "7.6",
+        "airdate": "7.3.1981"
+    },
+    {
+        "title": "Logopolis: Part Three",
+        "runtime": "25 minutes",
+        "season": "18",
+        "episode": "27",
+        "rating": "7.7",
+        "airdate": "14.3.1981"
+    },
+    {
+        "title": "Logopolis: Part Four",
+        "runtime": "25 minutes",
+        "season": "18",
+        "episode": "28",
+        "rating": "7.9",
+        "airdate": "21.3.1981"
+    },
+    {
+        "title": "Castrovalva: Part One",
+        "runtime": "24 minutes",
+        "season": "19",
+        "episode": "1",
+        "rating": "7.2",
+        "airdate": "4.1.1982"
+    },
+    {
+        "title": "Castrovalva: Part Two",
+        "runtime": "24 minutes",
+        "season": "19",
+        "episode": "2",
+        "rating": "6.9",
+        "airdate": "5.1.1982"
+    },
+    {
+        "title": "Castrovalva: Part Three",
+        "runtime": "24 minutes",
+        "season": "19",
+        "episode": "3",
+        "rating": "7.1",
+        "airdate": "11.1.1982"
+    },
+    {
+        "title": "Castrovalva: Part Four",
+        "runtime": "24 minutes",
+        "season": "19",
+        "episode": "4",
+        "rating": "7.2",
+        "airdate": "12.1.1982"
+    },
+    {
+        "title": "Four to Doomsday: Part One",
+        "runtime": "24 minutes",
+        "season": "19",
+        "episode": "5",
+        "rating": "6.8",
+        "airdate": "18.1.1982"
+    },
+    {
+        "title": "Four to Doomsday: Part Two",
+        "runtime": "24 minutes",
+        "season": "19",
+        "episode": "6",
+        "rating": "6.7",
+        "airdate": "19.1.1982"
+    },
+    {
+        "title": "Four to Doomsday: Part Three",
+        "runtime": "24 minutes",
+        "season": "19",
+        "episode": "7",
+        "rating": "6.6",
+        "airdate": "25.1.1982"
+    },
+    {
+        "title": "Four to Doomsday: Part Four",
+        "runtime": "25 minutes",
+        "season": "19",
+        "episode": "8",
+        "rating": "6.5",
+        "airdate": "26.1.1982"
+    },
+    {
+        "title": "Kinda: Part One",
+        "runtime": "25 minutes",
+        "season": "19",
+        "episode": "9",
+        "rating": "7.2",
+        "airdate": "1.2.1982"
+    },
+    {
+        "title": "Kinda: Part Two",
+        "runtime": "25 minutes",
+        "season": "19",
+        "episode": "10",
+        "rating": "7.2",
+        "airdate": "2.2.1982"
+    },
+    {
+        "title": "Kinda: Part Three",
+        "runtime": "24 minutes",
+        "season": "19",
+        "episode": "11",
+        "rating": "7.1",
+        "airdate": "8.2.1982"
+    },
+    {
+        "title": "Kinda: Part Four",
+        "runtime": "24 minutes",
+        "season": "19",
+        "episode": "12",
+        "rating": "7.1",
+        "airdate": "9.2.1982"
+    },
+    {
+        "title": "The Visitation: Part One",
+        "runtime": "24 minutes",
+        "season": "19",
+        "episode": "13",
+        "rating": "7.4",
+        "airdate": "15.2.1982"
+    },
+    {
+        "title": "The Visitation: Part Two",
+        "runtime": "24 minutes",
+        "season": "19",
+        "episode": "14",
+        "rating": "7.3",
+        "airdate": "16.2.1982"
+    },
+    {
+        "title": "The Visitation: Part Three",
+        "runtime": "24 minutes",
+        "season": "19",
+        "episode": "15",
+        "rating": "7.3",
+        "airdate": "22.2.1982"
+    },
+    {
+        "title": "The Visitation: Part Four",
+        "runtime": "24 minutes",
+        "season": "19",
+        "episode": "16",
+        "rating": "7.3",
+        "airdate": "23.2.1982"
+    },
+    {
+        "title": "Black Orchid: Part One",
+        "runtime": "25 minutes",
+        "season": "19",
+        "episode": "17",
+        "rating": "7.2",
+        "airdate": "1.3.1982"
+    },
+    {
+        "title": "Black Orchid: Part Two",
+        "runtime": "25 minutes",
+        "season": "19",
+        "episode": "18",
+        "rating": "7.0",
+        "airdate": "2.3.1982"
+    },
+    {
+        "title": "Earthshock: Part One",
+        "runtime": "24 minutes",
+        "season": "19",
+        "episode": "19",
+        "rating": "8.2",
+        "airdate": "8.3.1982"
+    },
+    {
+        "title": "Earthshock: Part Two",
+        "runtime": "24 minutes",
+        "season": "19",
+        "episode": "20",
+        "rating": "8.0",
+        "airdate": "9.3.1982"
+    },
+    {
+        "title": "Earthshock: Part Three",
+        "runtime": "24 minutes",
+        "season": "19",
+        "episode": "21",
+        "rating": "8.2",
+        "airdate": "15.3.1982"
+    },
+    {
+        "title": "Earthshock: Part Four",
+        "runtime": "24 minutes",
+        "season": "19",
+        "episode": "22",
+        "rating": "8.6",
+        "airdate": "16.3.1982"
+    },
+    {
+        "title": "Time-Flight: Part One",
+        "runtime": "25 minutes",
+        "season": "19",
+        "episode": "23",
+        "rating": "6.3",
+        "airdate": "22.3.1982"
+    },
+    {
+        "title": "Time-Flight: Part Two",
+        "runtime": "24 minutes",
+        "season": "19",
+        "episode": "24",
+        "rating": "6.0",
+        "airdate": "23.3.1982"
+    },
+    {
+        "title": "Time-Flight: Part Three",
+        "runtime": "24 minutes",
+        "season": "19",
+        "episode": "25",
+        "rating": "5.9",
+        "airdate": "29.3.1982"
+    },
+    {
+        "title": "Time-Flight: Part Four",
+        "runtime": "25 minutes",
+        "season": "19",
+        "episode": "26",
+        "rating": "5.9",
+        "airdate": "30.3.1982"
     }
 
 
