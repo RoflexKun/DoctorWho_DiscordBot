@@ -3765,8 +3765,465 @@
         "season": "15",
         "episode": "17",
         "rating": "6.4",
-        "airdate": "26.11.1977"
+        "airdate": "7.1.1978"
+    },
+    {
+        "title": "Underworld: Part Two",
+        "runtime": "21 minutes",
+        "season": "15",
+        "episode": "18",
+        "rating": "5.8",
+        "airdate": "14.1.1978"
+    },
+    {
+        "title": "Underworld: Part Three",
+        "runtime": "22 minutes",
+        "season": "15",
+        "episode": "19",
+        "rating": "5.8",
+        "airdate": "21.1.1978"
+    },
+    {
+        "title": "Underworld: Part Four",
+        "runtime": "23 minutes",
+        "season": "15",
+        "episode": "20",
+        "rating": "5.9",
+        "airdate": "28.1.1978"
+    },
+    {
+        "title": "The Invasion of Time: Part One",
+        "runtime": "25 minutes",
+        "season": "15",
+        "episode": "21",
+        "rating": "7.5",
+        "airdate": "4.2.1978"
+    },
+    {
+        "title": "The Invasion of Time: Part Two",
+        "runtime": "25 minutes",
+        "season": "15",
+        "episode": "22",
+        "rating": "7.3",
+        "airdate": "11.2.1978"
+    },
+    {
+        "title": "The Invasion of Time: Part Three",
+        "runtime": "25 minutes",
+        "season": "15",
+        "episode": "23",
+        "rating": "7.3",
+        "airdate": "18.2.1978"
+    },
+    {
+        "title": "The Invasion of Time: Part Four",
+        "runtime": "24 minutes",
+        "season": "15",
+        "episode": "24",
+        "rating": "7.2",
+        "airdate": "25.2.1978"
+    },
+    {
+        "title": "The Invasion of Time: Part Five",
+        "runtime": "25 minutes",
+        "season": "15",
+        "episode": "25",
+        "rating": "7.2",
+        "airdate": "4.3.1978"
+    },
+    {
+        "title": "The Invasion of Time: Part Six",
+        "runtime": "26 minutes",
+        "season": "15",
+        "episode": "26",
+        "rating": "7.0",
+        "airdate": "11.3.1978"
+    },
+    {
+        "title": "The Ribos Operation: Part One",
+        "runtime": "25 minutes",
+        "season": "16",
+        "episode": "1",
+        "rating": "7.4",
+        "airdate": "2.9.1978"
+    },
+    {
+        "title": "The Ribos Operation: Part One",
+        "runtime": "25 minutes",
+        "season": "16",
+        "episode": "1",
+        "rating": "7.4",
+        "airdate": "2.9.1978"
+    },
+    {
+        "title": "The Ribos Operation: Part Two",
+        "runtime": "25 minutes",
+        "season": "16",
+        "episode": "2",
+        "rating": "7.3",
+        "airdate": "9.9.1978"
+    },
+    {
+        "title": "The Ribos Operation: Part Three",
+        "runtime": "25 minutes",
+        "season": "16",
+        "episode": "3",
+        "rating": "7.3",
+        "airdate": "16.9.1978"
+    },
+    {
+        "title": "The Ribos Operation: Part Four",
+        "runtime": "25 minutes",
+        "season": "16",
+        "episode": "4",
+        "rating": "7.4",
+        "airdate": "23.9.1978"
+    },
+    {
+        "title": "The Pirate Planet: Part One",
+        "runtime": "25 minutes",
+        "season": "16",
+        "episode": "5",
+        "rating": "7.6",
+        "airdate": "30.9.1978"
+    },
+    {
+        "title": "The Pirate Planet: Part Two",
+        "runtime": "26 minutes",
+        "season": "16",
+        "episode": "6",
+        "rating": "7.8",
+        "airdate": "7.10.1978"
+    },
+    {
+        "title": "The Pirate Planet: Part Three",
+        "runtime": "26 minutes",
+        "season": "16",
+        "episode": "7",
+        "rating": "7.7",
+        "airdate": "14.10.1978"
+    },
+    {
+        "title": "The Pirate Planet: Part Four",
+        "runtime": "25 minutes",
+        "season": "16",
+        "episode": "8",
+        "rating": "7.8",
+        "airdate": "21.10.1978"
+    },
+    {
+        "title": "The Stones of Blood: Part One",
+        "runtime": "24 minutes",
+        "season": "16",
+        "episode": "9",
+        "rating": "7.6",
+        "airdate": "28.10.1978"
+    },
+    {
+        "title": "The Stones of Blood: Part Two",
+        "runtime": "24 minutes",
+        "season": "16",
+        "episode": "10",
+        "rating": "7.6",
+        "airdate": "4.11.1978"
+    },
+    {
+        "title": "The Stones of Blood: Part Three",
+        "runtime": "24 minutes",
+        "season": "16",
+        "episode": "11",
+        "rating": "7.6",
+        "airdate": "11.11.1978"
+    },
+    {
+        "title": "The Stones of Blood: Part Four",
+        "runtime": "23 minutes",
+        "season": "16",
+        "episode": "12",
+        "rating": "7.6",
+        "airdate": "18.11.1978"
+    },
+    {
+        "title": "The Androids of Tara: Part One",
+        "runtime": "25 minutes",
+        "season": "16",
+        "episode": "13",
+        "rating": "7.3",
+        "airdate": "25.11.1978"
+    },
+    {
+        "title": "The Androids of Tara: Part Two",
+        "runtime": "24 minutes",
+        "season": "16",
+        "episode": "14",
+        "rating": "7.2",
+        "airdate": "2.12.1978"
+    },
+    {
+        "title": "The Androids of Tara: Part Three",
+        "runtime": "24 minutes",
+        "season": "16",
+        "episode": "15",
+        "rating": "7.3",
+        "airdate": "9.12.1978"
+    },
+    {
+        "title": "The Androids of Tara: Part Four",
+        "runtime": "25 minutes",
+        "season": "16",
+        "episode": "16",
+        "rating": "7.3",
+        "airdate": "16.12.1978"
+    },
+    {
+        "title": "The Power of Kroll: Part One",
+        "runtime": "23 minutes",
+        "season": "16",
+        "episode": "17",
+        "rating": "6.5",
+        "airdate": "23.12.1978"
+    },
+    {
+        "title": "The Power of Kroll: Part Two",
+        "runtime": "24 minutes",
+        "season": "16",
+        "episode": "18",
+        "rating": "6.6",
+        "airdate": "30.12.1978"
+    },
+    {
+        "title": "The Power of Kroll: Part Three",
+        "runtime": "22 minutes",
+        "season": "16",
+        "episode": "19",
+        "rating": "6.5",
+        "airdate": "6.1.1979"
+    },
+    {
+        "title": "The Power of Kroll: Part Four",
+        "runtime": "22 minutes",
+        "season": "16",
+        "episode": "20",
+        "rating": "6.5",
+        "airdate": "13.1.1979"
+    },
+    {
+        "title": "The Armageddon Factor: Part One",
+        "runtime": "25 minutes",
+        "season": "16",
+        "episode": "21",
+        "rating": "7.1",
+        "airdate": "20.1.1979"
+    },
+    {
+        "title": "The Armageddon Factor: Part One",
+        "runtime": "25 minutes",
+        "season": "16",
+        "episode": "21",
+        "rating": "7.1",
+        "airdate": "20.1.1979"
+    },
+    {
+        "title": "The Armageddon Factor: Part Two",
+        "runtime": "24 minutes",
+        "season": "16",
+        "episode": "22",
+        "rating": "7.1",
+        "airdate": "27.1.1979"
+    },
+    {
+        "title": "The Armageddon Factor: Part Three",
+        "runtime": "25 minutes",
+        "season": "16",
+        "episode": "23",
+        "rating": "7.0",
+        "airdate": "3.2.1979"
+    },
+    {
+        "title": "The Armageddon Factor: Part Four",
+        "runtime": "25 minutes",
+        "season": "16",
+        "episode": "24",
+        "rating": "7.0",
+        "airdate": "10.2.1979"
+    },
+    {
+        "title": "The Armageddon Factor: Part Five",
+        "runtime": "25 minutes",
+        "season": "16",
+        "episode": "25",
+        "rating": "7.0",
+        "airdate": "17.2.1979"
+    },
+    {
+        "title": "The Armageddon Factor: Part Six",
+        "runtime": "25 minutes",
+        "season": "16",
+        "episode": "26",
+        "rating": "7.0",
+        "airdate": "24.2.1979"
+    },
+    {
+        "title": "Destiny of the Daleks: Episode One",
+        "runtime": "24 minutes",
+        "season": "17",
+        "episode": "1",
+        "rating": "7.3",
+        "airdate": "1.9.1979"
+    },
+    {
+        "title": "Destiny of the Daleks: Episode Two",
+        "runtime": "25 minutes",
+        "season": "17",
+        "episode": "2",
+        "rating": "7.3",
+        "airdate": "8.9.1979"
+    },
+    {
+        "title": "Destiny of the Daleks: Episode Three",
+        "runtime": "25 minutes",
+        "season": "17",
+        "episode": "3",
+        "rating": "7.2",
+        "airdate": "15.9.1979"
+    },
+    {
+        "title": "Destiny of the Daleks: Episode Four",
+        "runtime": "24 minutes",
+        "season": "17",
+        "episode": "4",
+        "rating": "7.2",
+        "airdate": "22.9.1979"
+    },
+    {
+        "title": "City of Death: Part One",
+        "runtime": "24 minutes",
+        "season": "17",
+        "episode": "5",
+        "rating": "8.7",
+        "airdate": "29.9.1979"
+    },
+    {
+        "title": "City of Death: Part Two",
+        "runtime": "25 minutes",
+        "season": "17",
+        "episode": "6",
+        "rating": "8.8",
+        "airdate": "6.10.1979"
+    },
+    {
+        "title": "City of Death: Part Three",
+        "runtime": "25 minutes",
+        "season": "17",
+        "episode": "7",
+        "rating": "8.7",
+        "airdate": "13.10.1979"
+    },
+    {
+        "title": "City of Death: Part Four",
+        "runtime": "25 minutes",
+        "season": "17",
+        "episode": "8",
+        "rating": "8.8",
+        "airdate": "20.10.1979"
+    },
+    {
+        "title": "The Creature from the Pit: Part One",
+        "runtime": "24 minutes",
+        "season": "17",
+        "episode": "9",
+        "rating": "6.9",
+        "airdate": "27.10.1979"
+    },
+    {
+        "title": "The Creature from the Pit: Part Two",
+        "runtime": "25 minutes",
+        "season": "17",
+        "episode": "10",
+        "rating": "6.7",
+        "airdate": "3.11.1979"
+    },
+    {
+        "title": "The Creature from the Pit: Part Three",
+        "runtime": "24 minutes",
+        "season": "17",
+        "episode": "11",
+        "rating": "6.7",
+        "airdate": "10.11.1979"
+    },
+    {
+        "title": "The Creature from the Pit: Part Four",
+        "runtime": "24 minutes",
+        "season": "17",
+        "episode": "12",
+        "rating": "6.7",
+        "airdate": "17.11.1979"
+    },
+    {
+        "title": "Nightmare of Eden: Part One",
+        "runtime": "24 minutes",
+        "season": "17",
+        "episode": "13",
+        "rating": "6.9",
+        "airdate": "24.11.1979"
+    },
+    {
+        "title": "Nightmare of Eden: Part Two",
+        "runtime": "23 minutes",
+        "season": "17",
+        "episode": "14",
+        "rating": "6.8",
+        "airdate": "1.12.1979"
+    },
+    {
+        "title": "Nightmare of Eden: Part Three",
+        "runtime": "24 minutes",
+        "season": "17",
+        "episode": "15",
+        "rating": "6.8",
+        "airdate": "8.12.1979"
+    },
+    {
+        "title": "Nightmare of Eden: Part Four",
+        "runtime": "25 minutes",
+        "season": "17",
+        "episode": "16",
+        "rating": "6.8",
+        "airdate": "15.12.1979"
+    },
+    {
+        "title": "The Horns of Nimon: Part One",
+        "runtime": "26 minutes",
+        "season": "17",
+        "episode": "17",
+        "rating": "6.3",
+        "airdate": "22.12.1979"
+    },
+    {
+        "title": "The Horns of Nimon: Part Two",
+        "runtime": "25 minutes",
+        "season": "17",
+        "episode": "18",
+        "rating": "6.1",
+        "airdate": "29.12.1979"
+    },
+    {
+        "title": "The Horns of Nimon: Part Three",
+        "runtime": "23 minutes",
+        "season": "17",
+        "episode": "19",
+        "rating": "6.1",
+        "airdate": "5.1.1980"
+    },
+    {
+        "title": "The Horns of Nimon: Part Four",
+        "runtime": "27 minutes",
+        "season": "17",
+        "episode": "20",
+        "rating": "6.1",
+        "airdate": "12.1.1980"
     }
+
 
 
     
