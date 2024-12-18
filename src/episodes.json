@@ -4654,6 +4654,934 @@
         "episode": "26",
         "rating": "5.9",
         "airdate": "30.3.1982"
+    },
+    {
+        "title": "Arc of Infinity: Part One",
+        "runtime": "25 minutes",
+        "season": "20",
+        "episode": "1",
+        "rating": "6.7",
+        "airdate": "3.1.1983"
+    },
+    {
+        "title": "Arc of Infinity: Part Two",
+        "runtime": "25 minutes",
+        "season": "20",
+        "episode": "2",
+        "rating": "6.8",
+        "airdate": "4.1.1983"
+    },
+    {
+        "title": "Arc of Infinity: Part Three",
+        "runtime": "25 minutes",
+        "season": "20",
+        "episode": "3",
+        "rating": "6.8",
+        "airdate": "11.1.1983"
+    },
+    {
+        "title": "Arc of Infinity: Part Four",
+        "runtime": "24 minutes",
+        "season": "20",
+        "episode": "4",
+        "rating": "6.8",
+        "airdate": "12.1.1983"
+    },
+    {
+        "title": "Snakedance: Part One",
+        "runtime": "24 minutes",
+        "season": "20",
+        "episode": "5",
+        "rating": "6.8",
+        "airdate": "18.1.1983"
+    },
+    {
+        "title": "Snakedance: Part Two",
+        "runtime": "25 minutes",
+        "season": "20",
+        "episode": "6",
+        "rating": "6.9",
+        "airdate": "19.1.1983"
+    },
+    {
+        "title": "Snakedance: Part Three",
+        "runtime": "24 minutes",
+        "season": "20",
+        "episode": "7",
+        "rating": "6.8",
+        "airdate": "25.1.1983"
+    },
+    {
+        "title": "Snakedance: Part Four",
+        "runtime": "25 minutes",
+        "season": "20",
+        "episode": "8",
+        "rating": "6.8",
+        "airdate": "26.1.1983"
+    },
+    {
+        "title": "Mawdryn Undead: Part One",
+        "runtime": "24 minutes",
+        "season": "20",
+        "episode": "9",
+        "rating": "7.5",
+        "airdate": "1.2.1983"
+    },
+    {
+        "title": "Mawdryn Undead: Part Two",
+        "runtime": "25 minutes",
+        "season": "20",
+        "episode": "10",
+        "rating": "7.8",
+        "airdate": "2.2.1983"
+    },
+    {
+        "title": "Mawdryn Undead: Part Three",
+        "runtime": "25 minutes",
+        "season": "20",
+        "episode": "11",
+        "rating": "7.6",
+        "airdate": "8.2.1983"
+    },
+    {
+        "title": "Mawdryn Undead: Part Four",
+        "runtime": "25 minutes",
+        "season": "20",
+        "episode": "12",
+        "rating": "7.6",
+        "airdate": "9.2.1983"
+    },
+    {
+        "title": "Terminus: Part One",
+        "runtime": "25 minutes",
+        "season": "20",
+        "episode": "13",
+        "rating": "6.4",
+        "airdate": "15.2.1983"
+    },
+    {
+        "title": "Terminus: Part Two",
+        "runtime": "25 minutes",
+        "season": "20",
+        "episode": "14",
+        "rating": "6.3",
+        "airdate": "16.2.1983"
+    },
+    {
+        "title": "Terminus: Part Three",
+        "runtime": "25 minutes",
+        "season": "20",
+        "episode": "15",
+        "rating": "6.1",
+        "airdate": "22.2.1983"
+    },
+    {
+        "title": "Terminus: Part Four",
+        "runtime": "25 minutes",
+        "season": "20",
+        "episode": "16",
+        "rating": "6.2",
+        "airdate": "23.2.1983"
+    },
+    {
+        "title": "Enlightment: Part One",
+        "runtime": "23 minutes",
+        "season": "20",
+        "episode": "17",
+        "rating": "7.6",
+        "airdate": "1.3.1983"
+    },
+    {
+        "title": "Enlightment: Part Two",
+        "runtime": "24 minutes",
+        "season": "20",
+        "episode": "18",
+        "rating": "7.7",
+        "airdate": "2.3.1983"
+    },
+    {
+        "title": "Enlightment: Part Three",
+        "runtime": "25 minutes",
+        "season": "20",
+        "episode": "19",
+        "rating": "7.6",
+        "airdate": "8.3.1983"
+    },
+    {
+        "title": "Enlightment: Part Four",
+        "runtime": "25 minutes",
+        "season": "20",
+        "episode": "20",
+        "rating": "7.7",
+        "airdate": "9.3.1983"
+    },
+    {
+        "title": "The King's Demons: Part One",
+        "runtime": "25 minutes",
+        "season": "20",
+        "episode": "21",
+        "rating": "6.4",
+        "airdate": "15.3.1983"
+    },
+    {
+        "title": "The King's Demons: Part Two",
+        "runtime": "25 minutes",
+        "season": "20",
+        "episode": "22",
+        "rating": "6.2",
+        "airdate": "16.3.1983"
+    },
+    {
+        "title": "The Five Doctors",
+        "runtime": "1hour & 30 minutes",
+        "season": "20",
+        "episode": "23",
+        "rating": "8.1",
+        "airdate": "25.11.1983"
+    },
+    {
+        "title": "Warriors of the Deep: Part One",
+        "runtime": "25 minutes",
+        "season": "21",
+        "episode": "1",
+        "rating": "6.3",
+        "airdate": "5.1.1984"
+    },
+    {
+        "title": "Warriors of the Deep: Part Two",
+        "runtime": "24 minutes",
+        "season": "21",
+        "episode": "2",
+        "rating": "6.2",
+        "airdate": "6.1.1984"
+    },
+    {
+        "title": "Warriors of the Deep: Part Three",
+        "runtime": "24 minutes",
+        "season": "21",
+        "episode": "3",
+        "rating": "6.1",
+        "airdate": "12.1.1984"
+    },
+    {
+        "title": "Warriors of the Deep: Part Four",
+        "runtime": "24 minutes",
+        "season": "21",
+        "episode": "4",
+        "rating": "6.4",
+        "airdate": "13.1.1984"
+    },
+    {
+        "title": "The Awakening: Part One",
+        "runtime": "25 minutes",
+        "season": "21",
+        "episode": "5",
+        "rating": "6.8",
+        "airdate": "19.1.1984"
+    },
+    {
+        "title": "The Awakening: Part Two",
+        "runtime": "25 minutes",
+        "season": "21",
+        "episode": "6",
+        "rating": "6.8",
+        "airdate": "20.1.1984"
+    },
+    {
+        "title": "Frontios: Part One",
+        "runtime": "25 minutes",
+        "season": "21",
+        "episode": "7",
+        "rating": "6.8",
+        "airdate": "26.1.1984"
+    },
+    {
+        "title": "Frontios: Part Two",
+        "runtime": "25 minutes",
+        "season": "21",
+        "episode": "8",
+        "rating": "6.8",
+        "airdate": "27.1.1984"
+    },
+    {
+        "title": "Frontios: Part Three",
+        "runtime": "25 minutes",
+        "season": "21",
+        "episode": "9",
+        "rating": "6.9",
+        "airdate": "2.2.1984"
+    },
+    {
+        "title": "Frontios: Part Four",
+        "runtime": "24 minutes",
+        "season": "21",
+        "episode": "10",
+        "rating": "6.9",
+        "airdate": "3.2.1984"
+    },
+    {
+        "title": "Resurrection of the Daleks: Part One",
+        "runtime": "46 minutes",
+        "season": "21",
+        "episode": "11",
+        "rating": "7.6",
+        "airdate": "8.2.1984"
+    },
+    {
+        "title": "Resurrection of the Daleks: Part Two",
+        "runtime": "47 minutes",
+        "season": "21",
+        "episode": "12",
+        "rating": "7.7",
+        "airdate": "15.2.1984"
+    },
+    {
+        "title": "Planet of Fire: Part One",
+        "runtime": "24 minutes",
+        "season": "21",
+        "episode": "13",
+        "rating": "7.1",
+        "airdate": "23.2.1984"
+    },
+    {
+        "title": "Planet of Fire: Part Two",
+        "runtime": "24 minutes",
+        "season": "21",
+        "episode": "14",
+        "rating": "7.1",
+        "airdate": "24.2.1984"
+    },
+    {
+        "title": "Planet of Fire: Part Three",
+        "runtime": "24 minutes",
+        "season": "21",
+        "episode": "15",
+        "rating": "7.1",
+        "airdate": "1.3.1984"
+    },
+    {
+        "title": "Planet of Fire: Part Four",
+        "runtime": "24 minutes",
+        "season": "21",
+        "episode": "16",
+        "rating": "7.2",
+        "airdate": "2.3.1984"
+    },
+    {
+        "title": "The Caves of Androzani: Part One",
+        "runtime": "24 minutes",
+        "season": "21",
+        "episode": "17",
+        "rating": "8.3",
+        "airdate": "8.3.1984"
+    },
+    {
+        "title": "The Caves of Androzani: Part Two",
+        "runtime": "25 minutes",
+        "season": "21",
+        "episode": "18",
+        "rating": "8.3",
+        "airdate": "9.3.1984"
+    },
+    {
+        "title": "The Caves of Androzani: Part Three",
+        "runtime": "25 minutes",
+        "season": "21",
+        "episode": "19",
+        "rating": "8.6",
+        "airdate": "15.3.1984"
+    },
+    {
+        "title": "The Caves of Androzani: Part Four",
+        "runtime": "26 minutes",
+        "season": "21",
+        "episode": "20",
+        "rating": "8.8",
+        "airdate": "16.3.1984"
+    },
+    {
+        "title": "The Twin Dilemma: Part One",
+        "runtime": "25 minutes",
+        "season": "21",
+        "episode": "21",
+        "rating": "5.3",
+        "airdate": "22.3.1984"
+    },
+    {
+        "title": "The Twin Dilemma: Part Two",
+        "runtime": "25 minutes",
+        "season": "21",
+        "episode": "22",
+        "rating": "5.3",
+        "airdate": "23.3.1984"
+    },
+    {
+        "title": "The Twin Dilemma: Part Three",
+        "runtime": "24 minutes",
+        "season": "21",
+        "episode": "23",
+        "rating": "5.3",
+        "airdate": "29.3.1984"
+    },
+    {
+        "title": "The Twin Dilemma: Part Four",
+        "runtime": "25 minutes",
+        "season": "21",
+        "episode": "24",
+        "rating": "5.3",
+        "airdate": "30.3.1984"
+    },
+    {
+        "title": "Attack of the Cybermen: Part One",
+        "runtime": "44 minutes",
+        "season": "22",
+        "episode": "1",
+        "rating": "6.9",
+        "airdate": "5.1.1985"
+    },
+    {
+        "title": "Attack of the Cybermen: Part Two",
+        "runtime": "45 minutes",
+        "season": "22",
+        "episode": "2",
+        "rating": "6.8",
+        "airdate": "12.1.1985"
+    },
+    {
+        "title": "Vengeance on Varos: Part One",
+        "runtime": "45 minutes",
+        "season": "22",
+        "episode": "3",
+        "rating": "7.5",
+        "airdate": "19.1.1985"
+    },
+    {
+        "title": "Vengeance on Varos: Part Two",
+        "runtime": "45 minutes",
+        "season": "22",
+        "episode": "4",
+        "rating": "7.5",
+        "airdate": "26.1.1985"
+    },
+    {
+        "title": "The Mark of the Rani: Part One",
+        "runtime": "45 minutes",
+        "season": "22",
+        "episode": "5",
+        "rating": "6.7",
+        "airdate": "2.2.1985"
+    },
+    {
+        "title": "The Mark of the Rani: Part Two",
+        "runtime": "45 minutes",
+        "season": "22",
+        "episode": "6",
+        "rating": "6.7",
+        "airdate": "9.2.1985"
+    },
+    {
+        "title": "The Two Doctors: Part One",
+        "runtime": "45 minutes",
+        "season": "22",
+        "episode": "7",
+        "rating": "7.3",
+        "airdate": "16.2.1985"
+    },
+    {
+        "title": "The Two Doctors: Part Two",
+        "runtime": "45 minutes",
+        "season": "22",
+        "episode": "8",
+        "rating": "7.3",
+        "airdate": "23.2.1985"
+    },
+    {
+        "title": "The Two Doctors: Part Three",
+        "runtime": "45 minutes",
+        "season": "22",
+        "episode": "9",
+        "rating": "7.2",
+        "airdate": "2.3.1985"
+    },
+    {
+        "title": "Timelash: Part One",
+        "runtime": "45 minutes",
+        "season": "22",
+        "episode": "10",
+        "rating": "5.6",
+        "airdate": "9.3.1985"
+    },
+    {
+        "title": "Timelash: Part Two",
+        "runtime": "45 minutes",
+        "season": "22",
+        "episode": "11",
+        "rating": "5.4",
+        "airdate": "16.3.1985"
+    },
+    {
+        "title": "Revelation of the Daleks: Part One",
+        "runtime": "45 minutes",
+        "season": "22",
+        "episode": "12",
+        "rating": "7.4",
+        "airdate": "23.3.1985"
+    },
+    {
+        "title": "Revelation of the Daleks: Part Two",
+        "runtime": "45 minutes",
+        "season": "22",
+        "episode": "13",
+        "rating": "7.6",
+        "airdate": "30.3.1985"
+    },
+    {
+        "title": "The Trial of a Time Lord: Part One",
+        "runtime": "25 minutes",
+        "season": "23",
+        "episode": "1",
+        "rating": "7.0",
+        "airdate": "6.9.1986"
+    },
+    {
+        "title": "The Trial of a Time Lord: Part Two",
+        "runtime": "25 minutes",
+        "season": "23",
+        "episode": "2",
+        "rating": "6.8",
+        "airdate": "13.9.1986"
+    },
+    {
+        "title": "The Trial of a Time Lord: Part Three",
+        "runtime": "24 minutes",
+        "season": "23",
+        "episode": "3",
+        "rating": "6.7",
+        "airdate": "20.9.1986"
+    },
+    {
+        "title": "The Trial of a Time Lord: Part Four",
+        "runtime": "24 minutes",
+        "season": "23",
+        "episode": "4",
+        "rating": "6.8",
+        "airdate": "27.9.1986"
+    },
+    {
+        "title": "The Trial of a Time Lord: Part Five",
+        "runtime": "25 minutes",
+        "season": "23",
+        "episode": "5",
+        "rating": "6.9",
+        "airdate": "4.10.1986"
+    },
+    {
+        "title": "The Trial of a Time Lord: Part Six",
+        "runtime": "25 minutes",
+        "season": "23",
+        "episode": "6",
+        "rating": "6.8",
+        "airdate": "11.10.1986"
+    },
+    {
+        "title": "The Trial of a Time Lord: Part Seven",
+        "runtime": "25 minutes",
+        "season": "23",
+        "episode": "7",
+        "rating": "6.8",
+        "airdate": "18.10.1986"
+    },
+    {
+        "title": "The Trial of a Time Lord: Part Eight",
+        "runtime": "25 minutes",
+        "season": "23",
+        "episode": "8",
+        "rating": "7.2",
+        "airdate": "25.10.1986"
+    },
+    {
+        "title": "The Trial of a Time Lord: Part Nine",
+        "runtime": "25 minutes",
+        "season": "23",
+        "episode": "9",
+        "rating": "6.8",
+        "airdate": "1.11.1986"
+    },
+    {
+        "title": "The Trial of a Time Lord: Part Ten",
+        "runtime": "24 minutes",
+        "season": "23",
+        "episode": "10",
+        "rating": "6.7",
+        "airdate": "8.11.1986"
+    },
+    {
+        "title": "The Trial of a Time Lord: Part Eleven",
+        "runtime": "24 minutes",
+        "season": "23",
+        "episode": "11",
+        "rating": "6.7",
+        "airdate": "15.11.1986"
+    },
+    {
+        "title": "The Trial of a Time Lord: Part Twelve",
+        "runtime": "25 minutes",
+        "season": "23",
+        "episode": "12",
+        "rating": "6.7",
+        "airdate": "22.11.1986"
+    },
+    {
+        "title": "The Trial of a Time Lord: Part Thirteen",
+        "runtime": "25 minutes",
+        "season": "23",
+        "episode": "13",
+        "rating": "7.3",
+        "airdate": "29.11.1986"
+    },
+    {
+        "title": "The Trial of a Time Lord: Part Fourteen",
+        "runtime": "30 minutes",
+        "season": "23",
+        "episode": "14",
+        "rating": "6.7",
+        "airdate": "6.12.1986"
+    },
+    {
+        "title": "Time and the Rani: Part One",
+        "runtime": "25 minutes",
+        "season": "24",
+        "episode": "1",
+        "rating": "5.6",
+        "airdate": "7.9.1987"
+    },
+    {
+        "title": "Time and the Rani: Part Two",
+        "runtime": "24 minutes",
+        "season": "24",
+        "episode": "2",
+        "rating": "5.5",
+        "airdate": "14.9.1987"
+    },
+    {
+        "title": "Time and the Rani: Part Three",
+        "runtime": "24 minutes",
+        "season": "24",
+        "episode": "3",
+        "rating": "5.3",
+        "airdate": "21.9.1987"
+    },
+    {
+        "title": "Time and the Rani: Part Four",
+        "runtime": "24 minutes",
+        "season": "24",
+        "episode": "4",
+        "rating": "5.3",
+        "airdate": "28.9.1987"
+    },
+    {
+        "title": "Paradise Towers: Part One",
+        "runtime": "25 minutes",
+        "season": "24",
+        "episode": "5",
+        "rating": "6.3",
+        "airdate": "5.10.1987"
+    },
+    {
+        "title": "Paradise Towers: Part Two",
+        "runtime": "25 minutes",
+        "season": "24",
+        "episode": "6",
+        "rating": "6.3",
+        "airdate": "12.10.1987"
+    },
+    {
+        "title": "Paradise Towers: Part Three",
+        "runtime": "24 minutes",
+        "season": "24",
+        "episode": "7",
+        "rating": "6.3",
+        "airdate": "19.10.1987"
+    },
+    {
+        "title": "Paradise Towers: Part Four",
+        "runtime": "24 minutes",
+        "season": "24",
+        "episode": "8",
+        "rating": "6.2",
+        "airdate": "26.10.1987"
+    },
+    {
+        "title": "Delta and the Bannermen: Part One",
+        "runtime": "25 minutes",
+        "season": "24",
+        "episode": "9",
+        "rating": "5.9",
+        "airdate": "2.11.1987"
+    },
+    {
+        "title": "Delta and the Bannermen: Part Two",
+        "runtime": "24 minutes",
+        "season": "24",
+        "episode": "10",
+        "rating": "5.7",
+        "airdate": "9.11.1987"
+    },
+    {
+        "title": "Delta and the Bannermen: Part Three",
+        "runtime": "24 minutes",
+        "season": "24",
+        "episode": "11",
+        "rating": "5.7",
+        "airdate": "16.11.1987"
+    },
+    {
+        "title": "Dragonfire: Part One",
+        "runtime": "25 minutes",
+        "season": "24",
+        "episode": "12",
+        "rating": "6.4",
+        "airdate": "23.11.1987"
+    },
+    {
+        "title": "Dragonfire: Part Two",
+        "runtime": "25 minutes",
+        "season": "24",
+        "episode": "13",
+        "rating": "6.4",
+        "airdate": "30.11.1987"
+    },
+    {
+        "title": "Dragonfire: Part Three",
+        "runtime": "25 minutes",
+        "season": "24",
+        "episode": "14",
+        "rating": "6.5",
+        "airdate": "7.12.1987"
+    },
+    {
+        "title": "Remembrance of the Daleks: Part One",
+        "runtime": "25 minutes",
+        "season": "25",
+        "episode": "1",
+        "rating": "8.4",
+        "airdate": "5.10.1988"
+    },
+    {
+        "title": "Remembrance of the Daleks: Part Two",
+        "runtime": "25 minutes",
+        "season": "25",
+        "episode": "2",
+        "rating": "8.4",
+        "airdate": "12.10.1988"
+    },
+    {
+        "title": "Remembrance of the Daleks: Part Three",
+        "runtime": "25 minutes",
+        "season": "25",
+        "episode": "3",
+        "rating": "8.4",
+        "airdate": "19.10.1988"
+    },
+    {
+        "title": "Remembrance of the Daleks: Part Four",
+        "runtime": "25 minutes",
+        "season": "25",
+        "episode": "4",
+        "rating": "8.5",
+        "airdate": "26.10.1988"
+    },
+    {
+        "title": "The Happiness Patrol: Part One",
+        "runtime": "25 minutes",
+        "season": "25",
+        "episode": "5",
+        "rating": "6.8",
+        "airdate": "2.11.1988"
+    },
+    {
+        "title": "The Happiness Patrol: Part Two",
+        "runtime": "25 minutes",
+        "season": "25",
+        "episode": "6",
+        "rating": "6.7",
+        "airdate": "9.11.1988"
+    },
+    {
+        "title": "The Happiness Patrol: Part Three",
+        "runtime": "25 minutes",
+        "season": "25",
+        "episode": "7",
+        "rating": "6.8",
+        "airdate": "16.11.1988"
+    },
+    {
+        "title": "Silver Nemesis: Part One",
+        "runtime": "30 minutes",
+        "season": "25",
+        "episode": "8",
+        "rating": "6.5",
+        "airdate": "23.11.1988"
+    },
+    {
+        "title": "Silver Nemesis: Part Two",
+        "runtime": "26 minutes",
+        "season": "25",
+        "episode": "9",
+        "rating": "6.4",
+        "airdate": "30.11.1988"
+    },
+    {
+        "title": "Silver Nemesis: Part Three",
+        "runtime": "30 minutes",
+        "season": "25",
+        "episode": "10",
+        "rating": "6.3",
+        "airdate": "7.12.1988"
+    },
+    {
+        "title": "The Greatest Show in the Galaxy: Part One",
+        "runtime": "25 minutes",
+        "season": "25",
+        "episode": "11",
+        "rating": "7.1",
+        "airdate": "14.12.1988"
+    },
+    {
+        "title": "The Greatest Show in the Galaxy: Part Two",
+        "runtime": "25 minutes",
+        "season": "25",
+        "episode": "12",
+        "rating": "7.1",
+        "airdate": "21.12.1988"
+    },
+    {
+        "title": "The Greatest Show in the Galaxy: Part Three",
+        "runtime": "25 minutes",
+        "season": "25",
+        "episode": "13",
+        "rating": "7.1",
+        "airdate": "28.12.1988"
+    },
+    {
+        "title": "The Greatest Show in the Galaxy: Part Four",
+        "runtime": "25 minutes",
+        "season": "25",
+        "episode": "14",
+        "rating": "7.1",
+        "airdate": "4.1.1989"
+    },
+    {
+        "title": "Battlefield: Part One",
+        "runtime": "25 minutes",
+        "season": "26",
+        "episode": "1",
+        "rating": "7.2",
+        "airdate": "6.9.1989"
+    },
+    {
+        "title": "Battlefield: Part Two",
+        "runtime": "25 minutes",
+        "season": "26",
+        "episode": "2",
+        "rating": "7.2",
+        "airdate": "13.9.1989"
+    },
+    {
+        "title": "Battlefield: Part Three",
+        "runtime": "26 minutes",
+        "season": "26",
+        "episode": "3",
+        "rating": "7.2",
+        "airdate": "20.9.1989"
+    },
+    {
+        "title": "Battlefield: Part Four",
+        "runtime": "25 minutes",
+        "season": "26",
+        "episode": "4",
+        "rating": "7.3",
+        "airdate": "27.9.1989"
+    },
+    {
+        "title": "Ghost Light: Part One",
+        "runtime": "25 minutes",
+        "season": "26",
+        "episode": "5",
+        "rating": "7.2",
+        "airdate": "4.10.1989"
+    },
+    {
+        "title": "Ghost Light: Part Two",
+        "runtime": "25 minutes",
+        "season": "26",
+        "episode": "6",
+        "rating": "7.1",
+        "airdate": "11.10.1989"
+    },
+    {
+        "title": "Ghost Light: Part Three",
+        "runtime": "25 minutes",
+        "season": "26",
+        "episode": "7",
+        "rating": "7.1",
+        "airdate": "18.10.1989"
+    },
+    {
+        "title": "The Curse of Fenric: Part One",
+        "runtime": "25 minutes",
+        "season": "26",
+        "episode": "8",
+        "rating": "8.0",
+        "airdate": "25.10.1989"
+    },
+    {
+        "title": "The Curse of Fenric: Part Two",
+        "runtime": "25 minutes",
+        "season": "26",
+        "episode": "9",
+        "rating": "8.0",
+        "airdate": "1.11.1989"
+    },
+    {
+        "title": "The Curse of Fenric: Part Three",
+        "runtime": "25 minutes",
+        "season": "26",
+        "episode": "10",
+        "rating": "8.1",
+        "airdate": "8.11.1989"
+    },
+    {
+        "title": "The Curse of Fenric: Part Four",
+        "runtime": "25 minutes",
+        "season": "26",
+        "episode": "11",
+        "rating": "8.1",
+        "airdate": "15.11.1989"
+    },
+    {
+        "title": "Survival: Part One",
+        "runtime": "25 minutes",
+        "season": "26",
+        "episode": "12",
+        "rating": "7.3",
+        "airdate": "22.11.1989"
+    },
+    {
+        "title": "Survival: Part Two",
+        "runtime": "25 minutes",
+        "season": "26",
+        "episode": "13",
+        "rating": "7.2",
+        "airdate": "29.11.1989"
+    },
+    {
+        "title": "Survival: Part Three",
+        "runtime": "25 minutes",
+        "season": "26",
+        "episode": "14",
+        "rating": "7.4",
+        "airdate": "6.12.1989"
     }
 
 
