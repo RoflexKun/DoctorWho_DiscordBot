@@ -407,6 +407,7 @@ impl EventHandler for Handler {
                             answer_check
                                 .change_answer(&mut question)
                                 .expect("Error at function change answer!");
+                            ok = true;
                             if let Err(why) = channel_id.say(&ctx.http, &question).await {
                                 println!("Error sending respons to the answer: {:?}", why);
                             }
