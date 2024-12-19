@@ -4833,7 +4833,7 @@
     },
     {
         "title": "The Five Doctors",
-        "runtime": "1hour & 30 minutes",
+        "runtime": "1 hour & 30 minutes",
         "season": "20",
         "episode": "23",
         "rating": "8.1",
@@ -6022,6 +6022,1070 @@
         "episode": "13",
         "rating": "9.2",
         "airdate": "5.6.2008"
+    },
+    {
+        "title": "The Eleventh Hour",
+        "runtime": "1 hour & 5 minutes",
+        "season": "5(31)",
+        "episode": "1",
+        "rating": "8.7",
+        "airdate": "3.4.2010"
+    },
+    {
+        "title": "The Beast Below",
+        "runtime": "42 minutes",
+        "season": "5(31)",
+        "episode": "2",
+        "rating": "7.6",
+        "airdate": "10.4.2010"
+    },
+    {
+        "title": "Victory of the Daleks",
+        "runtime": "42 minutes",
+        "season": "5(31)",
+        "episode": "3",
+        "rating": "6.6",
+        "airdate": "17.4.2010"
+    },
+    {
+        "title": "The Time of Angels",
+        "runtime": "42 minutes",
+        "season": "5(31)",
+        "episode": "4",
+        "rating": "8.6",
+        "airdate": "24.4.2010"
+    },
+    {
+        "title": "Flesh and Stone",
+        "runtime": "43 minutes",
+        "season": "5(31)",
+        "episode": "5",
+        "rating": "8.5",
+        "airdate": "1.5.2010"
+    },
+    {
+        "title": "The Vampires of Venice",
+        "runtime": "49 minutes",
+        "season": "5(31)",
+        "episode": "6",
+        "rating": "6.9",
+        "airdate": "8.5.2010"
+    },
+    {
+        "title": "Amy's Choice",
+        "runtime": "45 minutes",
+        "season": "5(31)",
+        "episode": "7",
+        "rating": "8.1",
+        "airdate": "15.5.2010"
+    },
+    {
+        "title": "The Hungry Earth",
+        "runtime": "44 minutes",
+        "season": "5(31)",
+        "episode": "8",
+        "rating": "7.1",
+        "airdate": "22.5.2010"
+    },
+    {
+        "title": "Cold Blood",
+        "runtime": "46 minutes",
+        "season": "5(31)",
+        "episode": "9",
+        "rating": "7.3",
+        "airdate": "29.5.2010"
+    },
+    {
+        "title": "Vincent and the Doctor",
+        "runtime": "47 minutes",
+        "season": "5(31)",
+        "episode": "10",
+        "rating": "9.3",
+        "airdate": "5.6.2010"
+    },
+    {
+        "title": "The Lodger",
+        "runtime": "43 minutes",
+        "season": "5(31)",
+        "episode": "11",
+        "rating": "8.0",
+        "airdate": "12.6.2010"
+    },
+    {
+        "title": "The Pandorica Opens",
+        "runtime": "49 minutes",
+        "season": "5(31)",
+        "episode": "12",
+        "rating": "9.0",
+        "airdate": "19.6.2010"
+    },
+    {
+        "title": "The Big Bang",
+        "runtime": "54 minutes",
+        "season": "5(31)",
+        "episode": "13",
+        "rating": "9.1",
+        "airdate": "26.6.2010"
+    },
+    {
+        "title": "The Beast Below",
+        "runtime": "42 minutes",
+        "season": "5(31)",
+        "episode": "2",
+        "rating": "7.6",
+        "airdate": "10.4.2010"
+    },
+    {
+        "title": "A Christmas Carol",
+        "runtime": "1 hour & 2 minutes",
+        "season": "6(32)",
+        "episode": "0",
+        "rating": "8.5",
+        "airdate": "25.12.2010"
+    },
+    {
+        "title": "The Impossible Astronaut",
+        "runtime": "44 minutes",
+        "season": "6(32)",
+        "episode": "1",
+        "rating": "8.8",
+        "airdate": "23.4.2011"
+    },
+    {
+        "title": "Day of the Moon",
+        "runtime": "47 minutes",
+        "season": "6(32)",
+        "episode": "2",
+        "rating": "8.8",
+        "airdate": "30.4.2011"
+    },
+    {
+        "title": "The Curse of the Black Spot",
+        "runtime": "46 minutes",
+        "season": "6(32)",
+        "episode": "3",
+        "rating": "6.6",
+        "airdate": "7.5.2011"
+    },
+    {
+        "title": "The Doctor's Wife",
+        "runtime": "47 minutes",
+        "season": "6(32)",
+        "episode": "4",
+        "rating": "8.9",
+        "airdate": "14.5.2011"
+    },
+    {
+        "title": "The Rebel Flesh",
+        "runtime": "43 minutes",
+        "season": "6(32)",
+        "episode": "5",
+        "rating": "7.1",
+        "airdate": "21.5.2011"
+    },
+    {
+        "title": "The Almost People",
+        "runtime": "46 minutes",
+        "season": "6(32)",
+        "episode": "6",
+        "rating": "7.3",
+        "airdate": "28.5.2011"
+    },
+    {
+        "title": "A Good Man Goes to War",
+        "runtime": "49 minutes",
+        "season": "6(32)",
+        "episode": "7",
+        "rating": "9.0",
+        "airdate": "4.6.2011"
+    },
+    {
+        "title": "Let's Kill Hitler",
+        "runtime": "49 minutes",
+        "season": "6(32)",
+        "episode": "8",
+        "rating": "7.9",
+        "airdate": "27.8.2011"
+    },
+    {
+        "title": "Night Terrors",
+        "runtime": "43 minutes",
+        "season": "6(32)",
+        "episode": "9",
+        "rating": "7.0",
+        "airdate": "3.9.2011"
+    },
+    {
+        "title": "The Girl Who Waited",
+        "runtime": "47 minutes",
+        "season": "6(32)",
+        "episode": "10",
+        "rating": "8.4",
+        "airdate": "10.9.2011"
+    },
+    {
+        "title": "The God Complex",
+        "runtime": "49 minutes",
+        "season": "6(32)",
+        "episode": "11",
+        "rating": "8.0",
+        "airdate": "17.9.2011"
+    },
+    {
+        "title": "Closing Time",
+        "runtime": "46 minutes",
+        "season": "6(32)",
+        "episode": "12",
+        "rating": "7.5",
+        "airdate": "24.9.2011"
+    },
+    {
+        "title": "The Wedding of River Song",
+        "runtime": "46 minutes",
+        "season": "6(32)",
+        "episode": "13",
+        "rating": "8.4",
+        "airdate": "1.10.2011"
+    },
+    {
+        "title": "The Doctor, the Widow and the Wardrobe",
+        "runtime": "59 minutes",
+        "season": "7(33)",
+        "episode": "0",
+        "rating": "7.1",
+        "airdate": "25.12.2011"
+    },
+    {
+        "title": "Asylum of the Daleks",
+        "runtime": "49 minutes",
+        "season": "7(33)",
+        "episode": "1",
+        "rating": "8.5",
+        "airdate": "1.9.2012"
+    },
+    {
+        "title": "Dinosaurs on a Spaceship",
+        "runtime": "45 minutes",
+        "season": "7(33)",
+        "episode": "2",
+        "rating": "7.2",
+        "airdate": "8.9.2012"
+    },
+    {
+        "title": "A Town Called Mercy",
+        "runtime": "44 minutes",
+        "season": "7(33)",
+        "episode": "3",
+        "rating": "7.2",
+        "airdate": "15.9.2012"
+    },
+    {
+        "title": "The Power of Three",
+        "runtime": "41 minutes",
+        "season": "7(33)",
+        "episode": "4",
+        "rating": "7.4",
+        "airdate": "22.9.2012"
+    },
+    {
+        "title": "The Angels Take Manhattan",
+        "runtime": "44 minutes",
+        "season": "7(33)",
+        "episode": "5",
+        "rating": "8.9",
+        "airdate": "29.9.2012"
+    },
+    {
+        "title": "The Snowmen",
+        "runtime": "1 hour",
+        "season": "7(33)",
+        "episode": "6",
+        "rating": "8.3",
+        "airdate": "15.12.2012"
+    },
+    {
+        "title": "The Bells of Saint John",
+        "runtime": "45 minutes",
+        "season": "7(33)",
+        "episode": "7",
+        "rating": "7.8",
+        "airdate": "30.3.2013"
+    },
+    {
+        "title": "The Rings of Akhaten",
+        "runtime": "46 minutes",
+        "season": "7(33)",
+        "episode": "8",
+        "rating": "7.3",
+        "airdate": "6.4.2013"
+    },
+    {
+        "title": "Cold War",
+        "runtime": "41 minutes",
+        "season": "7(33)",
+        "episode": "9",
+        "rating": "7.1",
+        "airdate": "13.4.2013"
+    },
+    {
+        "title": "Hide",
+        "runtime": "45 minutes",
+        "season": "7(33)",
+        "episode": "10",
+        "rating": "7.6",
+        "airdate": "20.4.2013"
+    },
+    {
+        "title": "Journet to the Centre of the TARDIS",
+        "runtime": "47 minutes",
+        "season": "7(33)",
+        "episode": "11",
+        "rating": "7.4",
+        "airdate": "27.4.2013"
+    },
+    {
+        "title": "The Crimson Horror",
+        "runtime": "47 minutes",
+        "season": "7(33)",
+        "episode": "12",
+        "rating": "7.2",
+        "airdate": "4.5.2013"
+    },
+    {
+        "title": "Nightmare in Silver",
+        "runtime": "47 minutes",
+        "season": "7(33)",
+        "episode": "13",
+        "rating": "7.2",
+        "airdate": "11.5.2013"
+    },
+    {
+        "title": "The Name of the Doctor",
+        "runtime": "44 minutes",
+        "season": "7(33)",
+        "episode": "14",
+        "rating": "8.9",
+        "airdate": "18.5.2013"
+    },
+    {
+        "title": "The Time of the Doctor",
+        "runtime": "1 hour & 1 minute",
+        "season": "8(34)",
+        "episode": "0",
+        "rating": "8.4",
+        "airdate": "25.12.2013"
+    },
+    {
+        "title": "Deep Breath",
+        "runtime": "1 hour & 16 minutes",
+        "season": "8(34)",
+        "episode": "1",
+        "rating": "7.8",
+        "airdate": "23.8.2014"
+    },
+    {
+        "title": "Into the Dalek",
+        "runtime": "47 minutes",
+        "season": "8(34)",
+        "episode": "2",
+        "rating": "7.5",
+        "airdate": "30.8.2014"
+    },
+    {
+        "title": "Robot of Sherwood",
+        "runtime": "46 minutes",
+        "season": "8(34)",
+        "episode": "3",
+        "rating": "6.9",
+        "airdate": "6.9.2014"
+    },
+    {
+        "title": "Listen",
+        "runtime": "47 minutes",
+        "season": "8(34)",
+        "episode": "4",
+        "rating": "8.7",
+        "airdate": "13.9.2014"
+    },
+    {
+        "title": "Time Heist",
+        "runtime": "45 minutes",
+        "season": "8(34)",
+        "episode": "5",
+        "rating": "7.8",
+        "airdate": "20.9.2014"
+    },
+    {
+        "title": "The Caretaker",
+        "runtime": "45 minutes",
+        "season": "8(34)",
+        "episode": "6",
+        "rating": "7.2",
+        "airdate": "27.9.2014"
+    },
+    {
+        "title": "Kill the Moon",
+        "runtime": "45 minutes",
+        "season": "8(34)",
+        "episode": "7",
+        "rating": "6.6",
+        "airdate": "4.10.2014"
+    },
+    {
+        "title": "Mummy on the Orient Express",
+        "runtime": "46 minutes",
+        "season": "8(34)",
+        "episode": "8",
+        "rating": "8.4",
+        "airdate": "11.10.2014"
+    },
+    {
+        "title": "Flatline",
+        "runtime": "43 minutes",
+        "season": "8(34)",
+        "episode": "9",
+        "rating": "8.3",
+        "airdate": "18.10.2014"
+    },
+    {
+        "title": "In the Forest of the Night",
+        "runtime": "45 minutes",
+        "season": "8(34)",
+        "episode": "10",
+        "rating": "6.0",
+        "airdate": "25.10.2014"
+    },
+    {
+        "title": "Dark Water",
+        "runtime": "47 minutes",
+        "season": "8(34)",
+        "episode": "11",
+        "rating": "8.5",
+        "airdate": "1.11.2014"
+    },
+    {
+        "title": "Death in Heaven",
+        "runtime": "57 minutes",
+        "season": "8(34)",
+        "episode": "12",
+        "rating": "7.8",
+        "airdate": "8.11.2014"
+    },
+    {
+        "title": "Last Christmas",
+        "runtime": "1 hour & 1 minute",
+        "season": "9(35)",
+        "episode": "0",
+        "rating": "8.1",
+        "airdate": "25.12.2014"
+    },
+    {
+        "title": "The Magician's Apprentice",
+        "runtime": "49 minutes",
+        "season": "9(35)",
+        "episode": "1",
+        "rating": "8.3",
+        "airdate": "19.9.2015"
+    },
+    {
+        "title": "The Witch's Familiar",
+        "runtime": "50 minutes",
+        "season": "9(35)",
+        "episode": "2",
+        "rating": "8.4",
+        "airdate": "26.9.2015"
+    },
+    {
+        "title": "Under the Lake",
+        "runtime": "46 minutes",
+        "season": "9(35)",
+        "episode": "3",
+        "rating": "8.1",
+        "airdate": "3.10.2015"
+    },
+    {
+        "title": "Before the Flood",
+        "runtime": "42 minutes",
+        "season": "9(35)",
+        "episode": "4",
+        "rating": "8.0",
+        "airdate": "10.10.2015"
+    },
+    {
+        "title": "The Girl Who Died",
+        "runtime": "48 minutes",
+        "season": "9(35)",
+        "episode": "5",
+        "rating": "7.4",
+        "airdate": "17.10.2015"
+    },
+    {
+        "title": "The Woman Who Lived",
+        "runtime": "45 minutes",
+        "season": "9(35)",
+        "episode": "6",
+        "rating": "7.3",
+        "airdate": "24.10.2015"
+    },
+    {
+        "title": "The Zygon Invasion",
+        "runtime": "45 minutes",
+        "season": "9(35)",
+        "episode": "7",
+        "rating": "7.6",
+        "airdate": "31.10.2015"
+    },
+    {
+        "title": "The Zygon Inversion",
+        "runtime": "46 minutes",
+        "season": "9(35)",
+        "episode": "8",
+        "rating": "8.4",
+        "airdate": "7.11.2015"
+    },
+    {
+        "title": "Sleep No More",
+        "runtime": "45 minutes",
+        "season": "9(35)",
+        "episode": "9",
+        "rating": "5.8",
+        "airdate": "14.11.2015"
+    },
+    {
+        "title": "Face the Raven",
+        "runtime": "46 minutes",
+        "season": "9(35)",
+        "episode": "10",
+        "rating": "8.5",
+        "airdate": "21.11.2015"
+    },
+    {
+        "title": "Heaven Sent",
+        "runtime": "55 minutes",
+        "season": "9(35)",
+        "episode": "11",
+        "rating": "9.6",
+        "airdate": "28.11.2015"
+    },
+    {
+        "title": "Hell Bent",
+        "runtime": "1 hour",
+        "season": "9(35)",
+        "episode": "12",
+        "rating": "8.6",
+        "airdate": "5.12.2015"
+    },
+    {
+        "title": "The Return of Doctor Mysterio",
+        "runtime": "1 hour & 1 minute",
+        "season": "10(36)",
+        "episode": "0",
+        "rating": "7.3",
+        "airdate": "25.12.2016"
+    },
+    {
+        "title": "The Pilot",
+        "runtime": "49 minutes",
+        "season": "10(36)",
+        "episode": "1",
+        "rating": "7.8",
+        "airdate": "15.4.2017"
+    },
+    {
+        "title": "Smile",
+        "runtime": "45 minutes",
+        "season": "10(36)",
+        "episode": "2",
+        "rating": "7.2",
+        "airdate": "22.4.2017"
+    },
+    {
+        "title": "Thin Ince",
+        "runtime": "44 minutes",
+        "season": "10(36)",
+        "episode": "3",
+        "rating": "7.2",
+        "airdate": "29.4.2017"
+    },
+    {
+        "title": "Knock Knock",
+        "runtime": "44 minutes",
+        "season": "10(36)",
+        "episode": "4",
+        "rating": "7.3",
+        "airdate": "6.5.2017"
+    },
+    {
+        "title": "Oxygen",
+        "runtime": "44 minutes",
+        "season": "10(36)",
+        "episode": "5",
+        "rating": "7.9",
+        "airdate": "13.5.2017"
+    },
+    {
+        "title": "Extremis",
+        "runtime": "48 minutes",
+        "season": "10(36)",
+        "episode": "6",
+        "rating": "8.3",
+        "airdate": "20.5.2017"
+    },
+    {
+        "title": "The Pyramid at the End of the World",
+        "runtime": "46 minutes",
+        "season": "10(36)",
+        "episode": "7",
+        "rating": "7.6",
+        "airdate": "27.5.2017"
+    },
+    {
+        "title": "The Lie of the Land",
+        "runtime": "44 minutes",
+        "season": "10(36)",
+        "episode": "8",
+        "rating": "7.1",
+        "airdate": "3.6.2017"
+    },
+    {
+        "title": "Empress of Mars",
+        "runtime": "43 minutes",
+        "season": "10(36)",
+        "episode": "9",
+        "rating": "6.9",
+        "airdate": "10.6.2017"
+    },
+    {
+        "title": "The Eaters of Light",
+        "runtime": "42 minutes",
+        "season": "10(36)",
+        "episode": "10",
+        "rating": "6.8",
+        "airdate": "17.6.2017"
+    },
+    {
+        "title": "World Enough and time",
+        "runtime": "45 minutes",
+        "season": "10(36)",
+        "episode": "11",
+        "rating": "9.1",
+        "airdate": "24.6.2017"
+    },
+    {
+        "title": "The Doctor Falls",
+        "runtime": "1 hour",
+        "season": "10(36)",
+        "episode": "12",
+        "rating": "9.0",
+        "airdate": "1.7.2017"
+    },
+    {
+        "title": "Twice Upon a Time",
+        "runtime": "1 hour",
+        "season": "11(37)",
+        "episode": "0",
+        "rating": "8.3",
+        "airdate": "25.12.2017"
+    },
+    {
+        "title": "The Woman Who Fell to Earth",
+        "runtime": "1 hour",
+        "season": "11(37)",
+        "episode": "1",
+        "rating": "7.0",
+        "airdate": "7.10.2018"
+    },
+    {
+        "title": "The Ghost Monument",
+        "runtime": "48 minutes",
+        "season": "11(37)",
+        "episode": "2",
+        "rating": "6.1",
+        "airdate": "14.10.2018"
+    },
+    {
+        "title": "Rosa",
+        "runtime": "49 minutes",
+        "season": "11(37)",
+        "episode": "3",
+        "rating": "7.1",
+        "airdate": "21.10.2018"
+    },
+    {
+        "title": "Arachnids in the UK",
+        "runtime": "49 minutes",
+        "season": "11(37)",
+        "episode": "4",
+        "rating": "5.1",
+        "airdate": "28.10.2018"
+    },
+    {
+        "title": "The Tsuranga Conundrum",
+        "runtime": "50 minutes",
+        "season": "11(37)",
+        "episode": "5",
+        "rating": "5.1",
+        "airdate": "4.11.2018"
+    },
+    {
+        "title": "Demons of the Punjab",
+        "runtime": "50 minutes",
+        "season": "11(37)",
+        "episode": "6",
+        "rating": "6.6",
+        "airdate": "11.11.2018"
+    },
+    {
+        "title": "Kerblam!",
+        "runtime": "48 minutes",
+        "season": "11(37)",
+        "episode": "7",
+        "rating": "6.3",
+        "airdate": "18.11.2018"
+    },
+    {
+        "title": "The Witchfinders",
+        "runtime": "46 minutes",
+        "season": "11(37)",
+        "episode": "8",
+        "rating": "5.8",
+        "airdate": "25.11.2018"
+    },
+    {
+        "title": "It Takes You Away",
+        "runtime": "49 minutes",
+        "season": "11(37)",
+        "episode": "9",
+        "rating": "6.3",
+        "airdate": "2.12.2018"
+    },
+    {
+        "title": "The Battle of Ranskoor Av Kolos",
+        "runtime": "50 minutes",
+        "season": "11(37)",
+        "episode": "10",
+        "rating": "5.3",
+        "airdate": "9.12.2018"
+    },
+    {
+        "title": "Spyfall: Part One",
+        "runtime": "1 hour",
+        "season": "12(38)",
+        "episode": "1",
+        "rating": "6.7",
+        "airdate": "1.1.2020"
+    },
+    {
+        "title": "Spyfall: Part Two",
+        "runtime": "1 hour & 1 minute",
+        "season": "12(38)",
+        "episode": "2",
+        "rating": "6.5",
+        "airdate": "5.1.2020"
+    },
+    {
+        "title": "Orphan 55",
+        "runtime": "46 minutes",
+        "season": "12(38)",
+        "episode": "3",
+        "rating": "4.2",
+        "airdate": "12.1.2020"
+    },
+    {
+        "title": "Nikola Tesla's Night of Terror",
+        "runtime": "50 minutes",
+        "season": "12(38)",
+        "episode": "4",
+        "rating": "6.5",
+        "airdate": "19.1.2020"
+    },
+    {
+        "title": "Fugitive of the Judoon",
+        "runtime": "49 minutes",
+        "season": "12(38)",
+        "episode": "5",
+        "rating": "7.5",
+        "airdate": "26.1.2020"
+    },
+    {
+        "title": "Praxeus",
+        "runtime": "50 minutes",
+        "season": "12(38)",
+        "episode": "6",
+        "rating": "5.2",
+        "airdate": "2.2.2020"
+    },
+    {
+        "title": "Can You Hear Me?",
+        "runtime": "49 minutes",
+        "season": "12(38)",
+        "episode": "7",
+        "rating": "5.7",
+        "airdate": "9.2.2020"
+    },
+    {
+        "title": "The Haunting of Villa Diodati",
+        "runtime": "49 minutes",
+        "season": "12(38)",
+        "episode": "8",
+        "rating": "7.1",
+        "airdate": "16.2.2020"
+    },
+    {
+        "title": "Ascension of the Cybermen",
+        "runtime": "49 minutes",
+        "season": "12(38)",
+        "episode": "9",
+        "rating": "6.5",
+        "airdate": "23.2.2020"
+    },
+    {
+        "title": "The Timeless Children",
+        "runtime": "1 hour & 6 minutes",
+        "season": "12(38)",
+        "episode": "10",
+        "rating": "5.1",
+        "airdate": "1.3.2020"
+    },
+    {
+        "title": "Flux: Chapter One - The Halloween Apocalypse",
+        "runtime": "50 minutes",
+        "season": "13(39)",
+        "episode": "1",
+        "rating": "6.7",
+        "airdate": "31.10.2021"
+    },
+    {
+        "title": "Flux: Chapter Two - War of the Sontarans",
+        "runtime": "1 hour",
+        "season": "13(39)",
+        "episode": "2",
+        "rating": "7.0",
+        "airdate": "7.11.2021"
+    },
+    {
+        "title": "Flux: Chapter Three - Once, Upon Time",
+        "runtime": "49 minutes",
+        "season": "13(39)",
+        "episode": "3",
+        "rating": "5.9",
+        "airdate": "14.11.2021"
+    },
+    {
+        "title": "Flux: Chapter Four - Village of the Angels",
+        "runtime": "56 minutes",
+        "season": "13(39)",
+        "episode": "4",
+        "rating": "7.7",
+        "airdate": "21.11.2021"
+    },
+    {
+        "title": "Flux: Chapter Five - Survivors of the Flux",
+        "runtime": "51 minutes",
+        "season": "13(39)",
+        "episode": "5",
+        "rating": "6.1",
+        "airdate": "21.11.2021"
+    },
+    {
+        "title": "Flux: Chapter Six - The Vanquishers",
+        "runtime": "59 minutes",
+        "season": "13(39)",
+        "episode": "6",
+        "rating": "5.3",
+        "airdate": "5.12.2021"
+    },
+    {
+        "title": "Eve of the Daleks",
+        "runtime": "58 minutes",
+        "season": "SPECIALS",
+        "episode": "-",
+        "rating": "6.7",
+        "airdate": "1.1.2022"
+    },
+    {
+        "title": "Legend of the Sea Devils",
+        "runtime": "48 minutes",
+        "season": "SPECIALS",
+        "episode": "-",
+        "rating": "4.6",
+        "airdate": "17.4.2022"
+    },
+    {
+        "title": "Planet of the Dead",
+        "runtime": "59 minutes",
+        "season": "SPECIALS",
+        "episode": "-",
+        "rating": "7.4",
+        "airdate": "11.4.2009"
+    },
+    {
+        "title": "Resolution",
+        "runtime": "1 hour",
+        "season": "SPECIALS",
+        "episode": "-",
+        "rating": "6.0",
+        "airdate": "1.1.2019"
+    },
+    {
+        "title": "Revolution of the Daleks",
+        "runtime": "1 hour & 11 minutes",
+        "season": "SPECIALS",
+        "episode": "-",
+        "rating": "6.0",
+        "airdate": "1.1.2021"
+    },
+    {
+        "title": "The Day of the Doctor",
+        "runtime": "1 hour & 17 minutes",
+        "season": "SPECIALS",
+        "episode": "-",
+        "rating": "9.3",
+        "airdate": "23.11.2013"
+    },
+    {
+        "title": "The End of Time: Part One",
+        "runtime": "1 hour",
+        "season": "SPECIALS",
+        "episode": "-",
+        "rating": "8.2",
+        "airdate": "25.12.2009"
+    },
+    {
+        "title": "The End of Time: Part Two",
+        "runtime": "1 hour & 15 minutes",
+        "season": "SPECIALS",
+        "episode": "-",
+        "rating": "8.9",
+        "airdate": "1.1.2010"
+    },
+    {
+        "title": "The Husbands of River Song",
+        "runtime": "56 minutes",
+        "season": "SPECIALS",
+        "episode": "-",
+        "rating": "8.5",
+        "airdate": "25.12.2015"
+    },
+    {
+        "title": "The Next Doctor",
+        "runtime": "1 hour",
+        "season": "SPECIALS",
+        "episode": "-",
+        "rating": "7.4",
+        "airdate": "25.12.2008"
+    },
+    {
+        "title": "The Power of the Doctor",
+        "runtime": "1 hour & 28 minutes",
+        "season": "SPECIALS",
+        "episode": "-",
+        "rating": "7.6",
+        "airdate": "23.10.2022"
+    },
+    {
+        "title": "The Waters of Mars",
+        "runtime": "1 hour & 2 minutes",
+        "season": "SPECIALS",
+        "episode": "-",
+        "rating": "8.8",
+        "airdate": "15.11.2009"
+    },
+    {
+        "title": "The Church on Ruby Road",
+        "runtime": "55 minutes",
+        "season": "1(40)",
+        "episode": "0",
+        "rating": "6.8",
+        "airdate": "25.12.2023"
+    },
+    {
+        "title": "Space Babies",
+        "runtime": "46 minutes",
+        "season": "1(40)",
+        "episode": "1",
+        "rating": "5.2",
+        "airdate": "10.5.2024"
+    },
+    {
+        "title": "The Devil's Chord",
+        "runtime": "50 minutes",
+        "season": "1(40)",
+        "episode": "2",
+        "rating": "6.2",
+        "airdate": "10.5.2024"
+    },
+    {
+        "title": "Boom",
+        "runtime": "45 minutes",
+        "season": "1(40)",
+        "episode": "3",
+        "rating": "7.7",
+        "airdate": "17.5.2024"
+    },
+    {
+        "title": "73 Yards",
+        "runtime": "47 minutes",
+        "season": "1(40)",
+        "episode": "4",
+        "rating": "8.2",
+        "airdate": "24.5.2024"
+    },
+    {
+        "title": "Dot and bubble",
+        "runtime": "44 minutes",
+        "season": "1(40)",
+        "episode": "5",
+        "rating": "7.2",
+        "airdate": "31.5.2024"
+    },
+    {
+        "title": "Rogue",
+        "runtime": "44 minutes",
+        "season": "1(40)",
+        "episode": "6",
+        "rating": "7.1",
+        "airdate": "7.6.2024"
+    },
+    {
+        "title": "The Legend of Ruby Sunday",
+        "runtime": "45 minutes",
+        "season": "1(40)",
+        "episode": "7",
+        "rating": "8.1",
+        "airdate": "14.6.2024"
+    },
+    {
+        "title": "Empire of Death",
+        "runtime": "56 minutes",
+        "season": "1(40)",
+        "episode": "8",
+        "rating": "6.5",
+        "airdate": "21.6.2024"
+    },
+    {
+        "title": "The Giggle",
+        "runtime": "1 hour & 1 minute",
+        "season": "SPECIALS",
+        "episode": "-",
+        "rating": "8.2",
+        "airdate": "9.12.2023"
+    },
+    {
+        "title": "The Star Beast",
+        "runtime": "57 minutes",
+        "season": "SPECIALS",
+        "episode": "-",
+        "rating": "7.0",
+        "airdate": "25.11.2023"
+    },
+    {
+        "title": "Wild Blue Yonder",
+        "runtime": "54 minutes",
+        "season": "SPECIALS",
+        "episode": "-",
+        "rating": "8.2",
+        "airdate": "2.12.2023"
     }
 
 
