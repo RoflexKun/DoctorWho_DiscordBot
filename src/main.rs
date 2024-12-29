@@ -253,6 +253,22 @@ impl EventHandler for Handler {
             answer_check
                 .question_answered(msg.author.name, msg.author.id.to_string())
                 .expect("Error at modifying the file");
+        } else if msg.content == "+help"
+        {
+            let mut command_list = String::new();
+            command_list += "**HERE IS A LIST OF USEFUL COMMANDS:**";
+            command_list += "\n";
+            command_list += "\n";
+            command_list += "**+episodes:** ***title_of_episode*** | The bot will give you information about a certain episode";
+            command_list += "\n";
+            command_list += "**+quote** | The bot will give you a random quote from Doctor Who";
+            command_list += "\n";
+            command_list += "**+doctor:** ***number_from_1_to_15*** | The bot will attach a picture with the n-th doctor";
+            command_list += "\n";
+            command_list += "**+points** | The bot will print the users with the most points";
+            if let Err(why) = msg.channel_id.say(&ctx.http, command_list).await {
+                println!("Error sending message: {:?}", why);
+            }
         }
         let first_space = msg.content.find(" ");
         let command: &str;
